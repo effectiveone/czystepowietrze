@@ -1,7 +1,7 @@
 ---
 title: "Artykuły o OZE, dotacjach i energii odnawialnej – pełna lista zasobów"
 description: "Kompletna lista artykułów i poradników o programach dofinansowania OZE w Polsce: Czyste Powietrze, Mój Prąd, fotowoltaika, pompy ciepła i inne."
-date: 2026-04-29T19:36:13Z
+date: 2026-04-29T19:39:51Z
 draft: false
 author: "Redakcja CzystePowietrze-Dotacje.pl"
 tags:
