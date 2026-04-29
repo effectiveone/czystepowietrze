@@ -1,7 +1,7 @@
 ---
 title: "Artykuły o OZE, dotacjach i energii odnawialnej – pełna lista zasobów"
 description: "Kompletna lista artykułów i poradników o programach dofinansowania OZE w Polsce: Czyste Powietrze, Mój Prąd, fotowoltaika, pompy ciepła i inne."
-date: 2026-04-29T08:39:11Z
+date: 2026-04-29T15:21:26Z
 draft: false
 author: "Redakcja CzystePowietrze-Dotacje.pl"
 tags:
@@ -20,7 +20,7 @@ Poniżej zebraliśmy obszerną listę artykułów, analiz i poradników dotyczą
 programów dofinansowania (Czyste Powietrze, Mój Prąd, NFOŚ) oraz praktycznych aspektów
 instalacji fotowoltaiki i pomp ciepła w Polsce.
 
-Lista obejmuje **2509 materiałów** z 157 tematów.
+Lista obejmuje **2561 materiałów** z 159 tematów.
 
 ## Spółdzielnia energetyczna jako odpowiedź na wyłączenia OZE. Jak działa i kiedy ma sens?
 
@@ -175,6 +175,72 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Chiny nie dbają o klimat  budują monopol infrastrukturalny z](https://telegra.ph/Chiny-nie-dbają-o-klimat--budują-monopol-infrastrukturalny-za-400-mld-04-28-6)
 - [Chiny nie dbają o klimat  budują monopol infrastrukturalny z](https://telegra.ph/Chiny-nie-dbają-o-klimat--budują-monopol-infrastrukturalny-za-400-mld-04-28-7)
 - [Chiny nie dbają o klimat  budują monopol infrastrukturalny z](https://telegra.ph/Chiny-nie-dbają-o-klimat--budują-monopol-infrastrukturalny-za-400-mld-04-28-8)
+
+## Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA. To ważniejszy sygnał niż kolejny raport o gigawatach
+
+Źródło: [chiny ograniczenie eksportu maszyn pv usa 2026](https://ecoaudyt.app/blog/chiny-ograniczenie-eksportu-maszyn-pv-usa-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [chiny moga ograniczyc eksport maszyn do produkcji pv do usa ](https://worldofozepoland.hashnode.dev/chiny-moga-ograniczyc-eksport-maszyn-do-produkcji-pv-do-usa-to-wazniejszy-sygnal-niz-kolejny-raport-o-gigawatach-1)
+- [chiny moga ograniczyc eksport maszyn do produkcji pv do usa ](https://localozepoland.hashnode.dev/chiny-moga-ograniczyc-eksport-maszyn-do-produkcji-pv-do-usa-to-wazniejszy-sygnal-niz-kolejny-raport-o-gigawatach-1)
+- [chiny moga ograniczyc eksport maszyn do produkcji pv do usa ](https://kasiasearchingpv.hashnode.dev/chiny-moga-ograniczyc-eksport-maszyn-do-produkcji-pv-do-usa-to-wazniejszy-sygnal-niz-kolejny-raport-o-gigawatach-1)
+- [chiny moga ograniczyc eksport maszyn do produkcji pv do usa ](https://lawanddotationpoland.hashnode.dev/chiny-moga-ograniczyc-eksport-maszyn-do-produkcji-pv-do-usa-to-wazniejszy-sygnal-niz-kolejny-raport-o-gigawatach-1)
+- [chiny moga ograniczyc eksport maszyn do produkcji pv do usa ](https://batteryenergypoland.hashnode.dev/chiny-moga-ograniczyc-eksport-maszyn-do-produkcji-pv-do-usa-to-wazniejszy-sygnal-niz-kolejny-raport-o-gigawatach-1)
+- [chiny moga ograniczyc eksport maszyn do produkcji pv do usa ](https://heatpulppoland.hashnode.dev/chiny-moga-ograniczyc-eksport-maszyn-do-produkcji-pv-do-usa-to-wazniejszy-sygnal-niz-kolejny-raport-o-gigawatach-1)
+- [chiny moga ograniczyc eksport maszyn do produkcji pv do usa ](https://photovolcaitspoland.hashnode.dev/chiny-moga-ograniczyc-eksport-maszyn-do-produkcji-pv-do-usa-to-wazniejszy-sygnal-niz-kolejny-raport-o-gigawatach-1)
+- [chiny moga ograniczyc eksport maszyn do produkcji pv do usa ](https://thermohubpoland.hashnode.dev/chiny-moga-ograniczyc-eksport-maszyn-do-produkcji-pv-do-usa-to-wazniejszy-sygnal-niz-kolejny-raport-o-gigawatach-1)
+- [chiny moga ograniczyc eksport maszyn do produkcji pv do usa ](https://yourengineerpoland.hashnode.dev/chiny-moga-ograniczyc-eksport-maszyn-do-produkcji-pv-do-usa-to-wazniejszy-sygnal-niz-kolejny-raport-o-gigawatach-1)
+- [chiny moga ograniczyc eksport maszyn do produkcji pv do usa ](https://tomekwanttoinstalpc.hashnode.dev/chiny-moga-ograniczyc-eksport-maszyn-do-produkcji-pv-do-usa-to-wazniejszy-sygnal-niz-kolejny-raport-o-gigawatach-1)
+- [chiny moga ograniczyc eksport maszyn do produkcji pv do usa ](https://electricycarpoland.hashnode.dev/chiny-moga-ograniczyc-eksport-maszyn-do-produkcji-pv-do-usa-to-wazniejszy-sygnal-niz-kolejny-raport-o-gigawatach-1)
+- [chiny moga ograniczyc eksport maszyn do produkcji pv do usa ](https://effectiveone.mataroa.blog/blog/chiny-moga-ograniczyc-eksport-maszyn-do-produkcji-pv-do-usa-to-wazniejszy-sygna-niz-kolejny-raport-o-gigawatach-2568459e/)
+- [chiny mog ograniczy eksport maszyn do produkcji pv do usa to](https://magicmikel.github.io/budzet-domowy/2026/04/29/chiny-mog-ograniczy-eksport-maszyn-do-produkcji-pv-do-usa-to/)
+- [Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA ](https://telegra.ph/Chiny-mogą-ograniczyć-eksport-maszyn-do-produkcji-PV-do-USA-To-ważniejszy-sygnał-niż-kolejny-raport-o-gigawatach-04-29-14)
+- [Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA ](https://telegra.ph/Chiny-mogą-ograniczyć-eksport-maszyn-do-produkcji-PV-do-USA-To-ważniejszy-sygnał-niż-kolejny-raport-o-gigawatach-04-29-15)
+- [Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA ](https://telegra.ph/Chiny-mogą-ograniczyć-eksport-maszyn-do-produkcji-PV-do-USA-To-ważniejszy-sygnał-niż-kolejny-raport-o-gigawatach-04-29-16)
+- [Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA ](https://telegra.ph/Chiny-mogą-ograniczyć-eksport-maszyn-do-produkcji-PV-do-USA-To-ważniejszy-sygnał-niż-kolejny-raport-o-gigawatach-04-29-17)
+- [Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA ](https://telegra.ph/Chiny-mogą-ograniczyć-eksport-maszyn-do-produkcji-PV-do-USA-To-ważniejszy-sygnał-niż-kolejny-raport-o-gigawatach-04-29-18)
+- [Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA ](https://telegra.ph/Chiny-mogą-ograniczyć-eksport-maszyn-do-produkcji-PV-do-USA-To-ważniejszy-sygnał-niż-kolejny-raport-o-gigawatach-04-29-19)
+- [Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA ](https://telegra.ph/Chiny-mogą-ograniczyć-eksport-maszyn-do-produkcji-PV-do-USA-To-ważniejszy-sygnał-niż-kolejny-raport-o-gigawatach-04-29-20)
+- [Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA ](https://telegra.ph/Chiny-mogą-ograniczyć-eksport-maszyn-do-produkcji-PV-do-USA-To-ważniejszy-sygnał-niż-kolejny-raport-o-gigawatach-04-29-21)
+- [Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA ](https://telegra.ph/Chiny-mogą-ograniczyć-eksport-maszyn-do-produkcji-PV-do-USA-To-ważniejszy-sygnał-niż-kolejny-raport-o-gigawatach-04-29-22)
+- [Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA ](https://telegra.ph/Chiny-mogą-ograniczyć-eksport-maszyn-do-produkcji-PV-do-USA-To-ważniejszy-sygnał-niż-kolejny-raport-o-gigawatach-04-29-23)
+- [Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA ](https://telegra.ph/Chiny-mogą-ograniczyć-eksport-maszyn-do-produkcji-PV-do-USA-To-ważniejszy-sygnał-niż-kolejny-raport-o-gigawatach-04-29-24)
+- [Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA ](https://telegra.ph/Chiny-mogą-ograniczyć-eksport-maszyn-do-produkcji-PV-do-USA-To-ważniejszy-sygnał-niż-kolejny-raport-o-gigawatach-04-29-25)
+- [Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA ](https://telegra.ph/Chiny-mogą-ograniczyć-eksport-maszyn-do-produkcji-PV-do-USA-To-ważniejszy-sygnał-niż-kolejny-raport-o-gigawatach-04-29-26)
+
+## Dotacje na biogaz i biometan z FEnIKS: nabór kończy się 30 kwietnia 2026
+
+Źródło: [dotacje biogaz biometan feniks nabor 30 kwietnia 2026](https://ecoaudyt.app/blog/dotacje-biogaz-biometan-feniks-nabor-30-kwietnia-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [dotacje na biogaz i biometan z feniks nabor konczy sie 30 kw](https://worldofozepoland.hashnode.dev/dotacje-na-biogaz-i-biometan-z-feniks-nabor-konczy-sie-30-kwietnia-2026-1)
+- [dotacje na biogaz i biometan z feniks nabor konczy sie 30 kw](https://localozepoland.hashnode.dev/dotacje-na-biogaz-i-biometan-z-feniks-nabor-konczy-sie-30-kwietnia-2026-1)
+- [dotacje na biogaz i biometan z feniks nabor konczy sie 30 kw](https://kasiasearchingpv.hashnode.dev/dotacje-na-biogaz-i-biometan-z-feniks-nabor-konczy-sie-30-kwietnia-2026-1)
+- [dotacje na biogaz i biometan z feniks nabor konczy sie 30 kw](https://lawanddotationpoland.hashnode.dev/dotacje-na-biogaz-i-biometan-z-feniks-nabor-konczy-sie-30-kwietnia-2026-1)
+- [dotacje na biogaz i biometan z feniks nabor konczy sie 30 kw](https://batteryenergypoland.hashnode.dev/dotacje-na-biogaz-i-biometan-z-feniks-nabor-konczy-sie-30-kwietnia-2026-1)
+- [dotacje na biogaz i biometan z feniks nabor konczy sie 30 kw](https://heatpulppoland.hashnode.dev/dotacje-na-biogaz-i-biometan-z-feniks-nabor-konczy-sie-30-kwietnia-2026-1)
+- [dotacje na biogaz i biometan z feniks nabor konczy sie 30 kw](https://photovolcaitspoland.hashnode.dev/dotacje-na-biogaz-i-biometan-z-feniks-nabor-konczy-sie-30-kwietnia-2026-1)
+- [dotacje na biogaz i biometan z feniks nabor konczy sie 30 kw](https://thermohubpoland.hashnode.dev/dotacje-na-biogaz-i-biometan-z-feniks-nabor-konczy-sie-30-kwietnia-2026-1)
+- [dotacje na biogaz i biometan z feniks nabor konczy sie 30 kw](https://yourengineerpoland.hashnode.dev/dotacje-na-biogaz-i-biometan-z-feniks-nabor-konczy-sie-30-kwietnia-2026-1)
+- [dotacje na biogaz i biometan z feniks nabor konczy sie 30 kw](https://tomekwanttoinstalpc.hashnode.dev/dotacje-na-biogaz-i-biometan-z-feniks-nabor-konczy-sie-30-kwietnia-2026-1)
+- [dotacje na biogaz i biometan z feniks nabor konczy sie 30 kw](https://electricycarpoland.hashnode.dev/dotacje-na-biogaz-i-biometan-z-feniks-nabor-konczy-sie-30-kwietnia-2026-1)
+- [dotacje na biogaz i biometan z feniks nabor konczy sie 30 kw](https://effectiveone.mataroa.blog/blog/dotacje-na-biogaz-i-biometan-z-feniks-nabor-konczy-sie-30-kwietnia-2026-07c21ba6/)
+- [dotacje na biogaz i biometan z feniks nab r ko czy si 30 kwi](https://magicmikel.github.io/budzet-domowy/2026/04/29/dotacje-na-biogaz-i-biometan-z-feniks-nab-r-ko-czy-si-30-kwi/)
+- [Dotacje na biogaz i biometan z FEnIKS nabór kończy się 30 kw](https://telegra.ph/Dotacje-na-biogaz-i-biometan-z-FEnIKS-nabór-kończy-się-30-kwietnia-2026-04-29-14)
+- [Dotacje na biogaz i biometan z FEnIKS nabór kończy się 30 kw](https://telegra.ph/Dotacje-na-biogaz-i-biometan-z-FEnIKS-nabór-kończy-się-30-kwietnia-2026-04-29-15)
+- [Dotacje na biogaz i biometan z FEnIKS nabór kończy się 30 kw](https://telegra.ph/Dotacje-na-biogaz-i-biometan-z-FEnIKS-nabór-kończy-się-30-kwietnia-2026-04-29-16)
+- [Dotacje na biogaz i biometan z FEnIKS nabór kończy się 30 kw](https://telegra.ph/Dotacje-na-biogaz-i-biometan-z-FEnIKS-nabór-kończy-się-30-kwietnia-2026-04-29-17)
+- [Dotacje na biogaz i biometan z FEnIKS nabór kończy się 30 kw](https://telegra.ph/Dotacje-na-biogaz-i-biometan-z-FEnIKS-nabór-kończy-się-30-kwietnia-2026-04-29-18)
+- [Dotacje na biogaz i biometan z FEnIKS nabór kończy się 30 kw](https://telegra.ph/Dotacje-na-biogaz-i-biometan-z-FEnIKS-nabór-kończy-się-30-kwietnia-2026-04-29-19)
+- [Dotacje na biogaz i biometan z FEnIKS nabór kończy się 30 kw](https://telegra.ph/Dotacje-na-biogaz-i-biometan-z-FEnIKS-nabór-kończy-się-30-kwietnia-2026-04-29-20)
+- [Dotacje na biogaz i biometan z FEnIKS nabór kończy się 30 kw](https://telegra.ph/Dotacje-na-biogaz-i-biometan-z-FEnIKS-nabór-kończy-się-30-kwietnia-2026-04-29-21)
+- [Dotacje na biogaz i biometan z FEnIKS nabór kończy się 30 kw](https://telegra.ph/Dotacje-na-biogaz-i-biometan-z-FEnIKS-nabór-kończy-się-30-kwietnia-2026-04-29-22)
+- [Dotacje na biogaz i biometan z FEnIKS nabór kończy się 30 kw](https://telegra.ph/Dotacje-na-biogaz-i-biometan-z-FEnIKS-nabór-kończy-się-30-kwietnia-2026-04-29-23)
+- [Dotacje na biogaz i biometan z FEnIKS nabór kończy się 30 kw](https://telegra.ph/Dotacje-na-biogaz-i-biometan-z-FEnIKS-nabór-kończy-się-30-kwietnia-2026-04-29-24)
+- [Dotacje na biogaz i biometan z FEnIKS nabór kończy się 30 kw](https://telegra.ph/Dotacje-na-biogaz-i-biometan-z-FEnIKS-nabór-kończy-się-30-kwietnia-2026-04-29-25)
+- [Dotacje na biogaz i biometan z FEnIKS nabór kończy się 30 kw](https://telegra.ph/Dotacje-na-biogaz-i-biometan-z-FEnIKS-nabór-kończy-się-30-kwietnia-2026-04-29-26)
 
 ## CBAM już działa. Od 2026 roku ślad węglowy importu staje się kosztem, a nie tylko raportem
 
