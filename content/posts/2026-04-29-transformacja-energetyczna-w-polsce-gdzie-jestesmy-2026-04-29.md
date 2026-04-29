@@ -1,6 +1,6 @@
 ---
 title: "Transformacja energetyczna w Polsce – gdzie jesteśmy?"
-date: 2026-04-29T06:04:32.123Z
+date: 2026-04-29T22:04:52.653Z
 draft: false
 description: "Transformacja energetyczna w Polsce – gdzie jesteśmy?"
 author: "Agnieszka Kowalczyk"
@@ -18,41 +18,46 @@ ai_generated: true
 ---
 
 
-Transformacja energetyczna w Polsce to proces, który zmienia sposób, w jaki myślimy o energii i jej źródłach. W praktyce oznacza to odejście od paliw kopalnych na rzecz odnawialnych źródeł energii (OZE). Dla właścicieli domów jest to szczególnie interesujące, ponieważ otwiera nowe możliwości uzyskania dotacji na inwestycje w OZE.
+## Transformacja Energetyczna w Polsce: Gdzie Jesteśmy?
 
-### Dotacje na OZE
+Transformacja energetyczna w Polsce jest procesem, który zmienia sposób, w jaki produkujemy i zużywamy energię. W praktyce oznacza to odejście od paliw kopalnych na rzecz źródeł energii odnawialnej, takich jak energia słoneczna, wiatrowa czy geotermalna. Co ważne dla wnioskodawcy, transformacja ta jest wspierana przez rząd i instytucje finansowe, które oferują dotacje na inwestycje w czyste powietrze.
 
-W Polsce dostępnych jest kilka programów dofinansowań, które wspierają transformację energetyczną. Najpopularniejsze to:
-1. **Program "Czyste Powietrze"**: oferuje dofinansowanie do 53 000 zł na wymianę starego pieca i termomodernizację domu.
-2. **Program "Mój Prąd"**: zapewnia dofinansowanie do 50 000 zł na instalację fotowoltaiczną.
-3. **Program "Agroenergia"**: skierowany do rolników, oferuje dofinansowanie do 150 000 zł na inwestycje w OZE.
+### Dotacje na Czyste Powietrze
 
-Co ważne dla wnioskodawcy, każdy program ma swoje terminy składania wniosków. Należy je śledzić, aby nie przegapić okazji do uzyskania dofinansowania.
+W Polsce dostępnych jest wiele programów dotacyjnych, które wspierają transformację energetyczną. Najpopularniejsze z nich to:
+1. **Program Czyste Powietrze** - oferuje dofinansowanie do 37 000 zł na wymianę starego pieca na nowy, ekologiczny oraz na termomodernizację budynku.
+2. **Program Mój Prąd** - zapewnia dofinansowanie do 5 000 zł na instalację paneli fotowoltaicznych.
+3. **Program Zielony Transport** - oferuje dofinansowanie do 20 000 zł na zakup samochodu elektrycznego.
 
-### Porównanie Programów Dofinansowań
+Warto wiedzieć, że te programy mają swoje terminy składania wniosków. Na przykład, Program Czyste Powietrze przyjmuje wnioski do 30 czerwca 2026 roku.
 
-| Program | Maksymalna kwota dofinansowania | Cel programu |
+### Porównanie Dotacji
+
+Poniższa tabela przedstawia porównanie dostępnych dotacji:
+| Program | Kwota Dofinansowania | Termin Składania Wniosków |
 | --- | --- | --- |
-| Czyste Powietrze | 53 000 zł | Wymiana starego pieca i termomodernizacja |
-| Mój Prąd | 50 000 zł | Instalacja fotowoltaiczna |
-| Agroenergia | 150 000 zł | Inwestycje w OZE dla rolników |
+| Czyste Powietrze | do 37 000 zł | do 30.06.2026 |
+| Mój Prąd | do 5 000 zł | do 31.12.2026 |
+| Zielony Transport | do 20 000 zł | do 31.03.2027 |
 
-Warto wiedzieć, że pułapki na które trzeba uważać to m.in. terminy składania wniosków, wymagania techniczne dla instalacji OZE oraz limity dostępnych środków.
+Pułapki, na które uważać, to między innymi:
+- Czas oczekiwania na decyzję o dofinansowaniu może być dłuższy niż oczekiwany.
+- Wymagania programu mogą się zmieniać, dlatego ważne jest śledzenie aktualności.
 
-### Jak złożyć wniosek — 3 proste kroki
+### Jak Złożyć Wniosek — 3 Proste Kroki
 
-1. **Wybierz program**: Zdecyduj, który program dofinansowań najlepiej odpowiada twoim potrzebom.
-2. **Przygotuj dokumenty**: Zebrane dokumenty powinny zawierać informacje o twoim domu, planowanej inwestycji oraz Twojej sytuacji finansowej.
-3. **Złóż wniosek**: Wypełnij wniosek online lub osobiście w odpowiedniej instytucji (NFOŚiGW lub WFOŚiGW).
+1. **Wybierz Program**: Zdecyduj, który program dotacyjny najlepiej odpowiada Twoim potrzebom.
+2. **Zbierz Dokumenty**: Przygotuj wszystkie niezbędne dokumenty, takie jak rysunki techniczne, kosztorysy itp.
+3. **Złóż Wniosek**: Wypełnij wniosek online lub osobiście w urzędzie, w zależności od wymagań programu.
 
-### Najczęstsze pytania (FAQ)
+### Najczęstsze Pytania (FAQ)
 
-1. **Jaki jest termin składania wniosków o dofinansowanie?**
-   - Terminy składania wniosków różnią się w zależności od programu. Należy śledzić oficjalne strony internetowe NFOŚiGW i WFOŚiGW.
-2. **Czy mogę otrzymać dofinansowanie na więcej niż jeden rodzaj inwestycji w OZE?**
-   - Tak, jest to możliwe, ale należy spełnić odrębne wymagania dla każdego programu.
-3. **Jak długo trwa rozpatrywanie wniosku o dofinansowanie?**
-   - Czas rozpatrywania wniosku może się różnić, ale zwykle nie przekracza kilku miesięcy.
+1. **Jaka jest minimalna kwota dofinansowania w Programie Czyste Powietrze?**
+   - Minimalna kwota dofinansowania wynosi 7 000 zł.
+2. **Czy mogę otrzymać dofinansowanie na więcej niż jeden projekt w ramach Programu Mój Prąd?**
+   - Tak, możesz otrzymać dofinansowanie na więcej niż jeden projekt, ale każdy wniosek jest rozpatrywany oddzielnie.
+3. **Jak długo trwa procedura rozpatrywania wniosku w Programie Zielony Transport?**
+   - Procedura rozpatrywania wniosku może trwać do 3 miesięcy od daty złożenia wniosku.
 
 
 ---
