@@ -1,7 +1,7 @@
 ---
 title: "Artykuły o OZE, dotacjach i energii odnawialnej – pełna lista zasobów"
 description: "Kompletna lista artykułów i poradników o programach dofinansowania OZE w Polsce: Czyste Powietrze, Mój Prąd, fotowoltaika, pompy ciepła i inne."
-date: 2026-04-30T11:53:17Z
+date: 2026-04-30T12:11:52Z
 draft: false
 author: "Redakcja CzystePowietrze-Dotacje.pl"
 tags:
@@ -20,7 +20,7 @@ Poniżej zebraliśmy obszerną listę artykułów, analiz i poradników dotyczą
 programów dofinansowania (Czyste Powietrze, Mój Prąd, NFOŚ) oraz praktycznych aspektów
 instalacji fotowoltaiki i pomp ciepła w Polsce.
 
-Lista obejmuje **2812 materiałów** z 167 tematów.
+Lista obejmuje **2841 materiałów** z 168 tematów.
 
 ## Spółdzielnia energetyczna jako odpowiedź na wyłączenia OZE. Jak działa i kiedy ma sens?
 
@@ -449,6 +449,42 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Chiny nie dbają o klimat  budują monopol infrastrukturalny z](https://telegra.ph/Chiny-nie-dbają-o-klimat--budują-monopol-infrastrukturalny-za-400-mld-04-28-6)
 - [Chiny nie dbają o klimat  budują monopol infrastrukturalny z](https://telegra.ph/Chiny-nie-dbają-o-klimat--budują-monopol-infrastrukturalny-za-400-mld-04-28-7)
 - [Chiny nie dbają o klimat  budują monopol infrastrukturalny z](https://telegra.ph/Chiny-nie-dbają-o-klimat--budują-monopol-infrastrukturalny-za-400-mld-04-28-8)
+
+## Nowy nabór na biogazownie z dotacją do 45%. Czym różni się od wcześniejszego wsparcia
+
+Źródło: [biogazownie nfosigw 45 procent](https://ecoaudyt.app/blog/biogazownie-nfosigw-45-procent)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [nowy nabor na biogazownie z dotacja do 45 czym rozni sie od ](https://worldofozepoland.hashnode.dev/nowy-nabor-na-biogazownie-z-dotacja-do-45-czym-rozni-sie-od-wczesniejszego-wsparcia)
+- [nowy nabor na biogazownie z dotacja do 45 czym rozni sie od ](https://localozepoland.hashnode.dev/nowy-nabor-na-biogazownie-z-dotacja-do-45-czym-rozni-sie-od-wczesniejszego-wsparcia)
+- [nowy nabor na biogazownie z dotacja do 45 czym rozni sie od ](https://kasiasearchingpv.hashnode.dev/nowy-nabor-na-biogazownie-z-dotacja-do-45-czym-rozni-sie-od-wczesniejszego-wsparcia)
+- [nowy nabor na biogazownie z dotacja do 45 czym rozni sie od ](https://lawanddotationpoland.hashnode.dev/nowy-nabor-na-biogazownie-z-dotacja-do-45-czym-rozni-sie-od-wczesniejszego-wsparcia)
+- [nowy nabor na biogazownie z dotacja do 45 czym rozni sie od ](https://batteryenergypoland.hashnode.dev/nowy-nabor-na-biogazownie-z-dotacja-do-45-czym-rozni-sie-od-wczesniejszego-wsparcia)
+- [nowy nabor na biogazownie z dotacja do 45 czym rozni sie od ](https://heatpulppoland.hashnode.dev/nowy-nabor-na-biogazownie-z-dotacja-do-45-czym-rozni-sie-od-wczesniejszego-wsparcia)
+- [nowy nabor na biogazownie z dotacja do 45 czym rozni sie od ](https://photovolcaitspoland.hashnode.dev/nowy-nabor-na-biogazownie-z-dotacja-do-45-czym-rozni-sie-od-wczesniejszego-wsparcia)
+- [nowy nabor na biogazownie z dotacja do 45 czym rozni sie od ](https://thermohubpoland.hashnode.dev/nowy-nabor-na-biogazownie-z-dotacja-do-45-czym-rozni-sie-od-wczesniejszego-wsparcia)
+- [nowy nabor na biogazownie z dotacja do 45 czym rozni sie od ](https://yourengineerpoland.hashnode.dev/nowy-nabor-na-biogazownie-z-dotacja-do-45-czym-rozni-sie-od-wczesniejszego-wsparcia)
+- [nowy nabor na biogazownie z dotacja do 45 czym rozni sie od ](https://tomekwanttoinstalpc.hashnode.dev/nowy-nabor-na-biogazownie-z-dotacja-do-45-czym-rozni-sie-od-wczesniejszego-wsparcia)
+- [nowy nabor na biogazownie z dotacja do 45 czym rozni sie od ](https://electricycarpoland.hashnode.dev/nowy-nabor-na-biogazownie-z-dotacja-do-45-czym-rozni-sie-od-wczesniejszego-wsparcia)
+- [nowy nabor na biogazownie z dotacja do 45 czym rozni sie od ](https://effectiveone.mataroa.blog/blog/nowy-nabor-na-biogazownie-z-dotacja-do-45-czym-rozni-sie-od-wczesniejszego-wsparcia/)
+- [nowy nab r na biogazownie z dotacj do 45 czym r ni si od wcz](https://magicmikel.github.io/budzet-domowy/2026/04/30/nowy-nab-r-na-biogazownie-z-dotacj-do-45-czym-r-ni-si-od-wcz/)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-2)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-3)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-4)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-5)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-6)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-7)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-8)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-9)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-10)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-11)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-12)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-13)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-14)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-15)
+- [Nowy nabór na biogazownie z dotacją do 45 Czym różni się od ](https://telegra.ph/Nowy-nabór-na-biogazownie-z-dotacją-do-45-Czym-różni-się-od-wcześniejszego-wsparcia-04-30-16)
 
 ## Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA. To ważniejszy sygnał niż kolejny raport o gigawatach
 
