@@ -1,7 +1,7 @@
 ---
 title: "Artykuły o OZE, dotacjach i energii odnawialnej – pełna lista zasobów"
 description: "Kompletna lista artykułów i poradników o programach dofinansowania OZE w Polsce: Czyste Powietrze, Mój Prąd, fotowoltaika, pompy ciepła i inne."
-date: 2026-04-30T12:12:27Z
+date: 2026-04-30T14:16:04Z
 draft: false
 author: "Redakcja CzystePowietrze-Dotacje.pl"
 tags:
@@ -20,7 +20,7 @@ Poniżej zebraliśmy obszerną listę artykułów, analiz i poradników dotyczą
 programów dofinansowania (Czyste Powietrze, Mój Prąd, NFOŚ) oraz praktycznych aspektów
 instalacji fotowoltaiki i pomp ciepła w Polsce.
 
-Lista obejmuje **2872 materiałów** z 169 tematów.
+Lista obejmuje **2904 materiałów** z 170 tematów.
 
 ## Spółdzielnia energetyczna jako odpowiedź na wyłączenia OZE. Jak działa i kiedy ma sens?
 
@@ -226,6 +226,45 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [zpl krt 636112](https://rentry.co/zpl-krt-636112)
 - [zpl ene 636112](https://rentry.co/zpl-ene-636112)
 - [zpl sol 636112](https://rentry.co/zpl-sol-636112)
+
+## Czyste Powietrze po reformie. Co wynika z 12 mld wypłat i większej roli gmin
+
+Źródło: [czyste powietrze po reformie 12 mld](https://ecoaudyt.app/blog/czyste-powietrze-po-reformie-12-mld)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [czyste powietrze po reformie co wynika z 12 mld wyplat i wie](https://worldofozepoland.hashnode.dev/czyste-powietrze-po-reformie-co-wynika-z-12-mld-wyplat-i-wiekszej-roli-gmin)
+- [czyste powietrze po reformie co wynika z 12 mld wyplat i wie](https://localozepoland.hashnode.dev/czyste-powietrze-po-reformie-co-wynika-z-12-mld-wyplat-i-wiekszej-roli-gmin)
+- [czyste powietrze po reformie co wynika z 12 mld wyplat i wie](https://kasiasearchingpv.hashnode.dev/czyste-powietrze-po-reformie-co-wynika-z-12-mld-wyplat-i-wiekszej-roli-gmin)
+- [czyste powietrze po reformie co wynika z 12 mld wyplat i wie](https://lawanddotationpoland.hashnode.dev/czyste-powietrze-po-reformie-co-wynika-z-12-mld-wyplat-i-wiekszej-roli-gmin)
+- [czyste powietrze po reformie co wynika z 12 mld wyplat i wie](https://batteryenergypoland.hashnode.dev/czyste-powietrze-po-reformie-co-wynika-z-12-mld-wyplat-i-wiekszej-roli-gmin)
+- [czyste powietrze po reformie co wynika z 12 mld wyplat i wie](https://heatpulppoland.hashnode.dev/czyste-powietrze-po-reformie-co-wynika-z-12-mld-wyplat-i-wiekszej-roli-gmin)
+- [czyste powietrze po reformie co wynika z 12 mld wyplat i wie](https://photovolcaitspoland.hashnode.dev/czyste-powietrze-po-reformie-co-wynika-z-12-mld-wyplat-i-wiekszej-roli-gmin)
+- [czyste powietrze po reformie co wynika z 12 mld wyplat i wie](https://thermohubpoland.hashnode.dev/czyste-powietrze-po-reformie-co-wynika-z-12-mld-wyplat-i-wiekszej-roli-gmin)
+- [czyste powietrze po reformie co wynika z 12 mld wyplat i wie](https://yourengineerpoland.hashnode.dev/czyste-powietrze-po-reformie-co-wynika-z-12-mld-wyplat-i-wiekszej-roli-gmin)
+- [czyste powietrze po reformie co wynika z 12 mld wyplat i wie](https://tomekwanttoinstalpc.hashnode.dev/czyste-powietrze-po-reformie-co-wynika-z-12-mld-wyplat-i-wiekszej-roli-gmin)
+- [czyste powietrze po reformie co wynika z 12 mld wyplat i wie](https://electricycarpoland.hashnode.dev/czyste-powietrze-po-reformie-co-wynika-z-12-mld-wyplat-i-wiekszej-roli-gmin)
+- [czyste powietrze po reformie co wynika z 12 mld wypat i wiek](https://effectiveone.mataroa.blog/blog/czyste-powietrze-po-reformie-co-wynika-z-12-mld-wypat-i-wiekszej-roli-gmin/)
+- [czyste powietrze po reformie co wynika z 12 mld wyp at i wi ](https://magicmikel.github.io/budzet-domowy/2026/04/30/czyste-powietrze-po-reformie-co-wynika-z-12-mld-wyp-at-i-wi-/)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-2)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-3)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-4)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-5)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-6)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-7)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-8)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-9)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-10)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-11)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-12)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-13)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-14)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-15)
+- [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-16)
+- [zpl krt cc006d](https://rentry.co/zpl-krt-cc006d)
+- [zpl ene cc006d](https://rentry.co/zpl-ene-cc006d)
+- [zpl sol cc006d](https://rentry.co/zpl-sol-cc006d)
 
 ## OPRO i mapy potencjału OZE. Państwo obiecuje szybsze pozwolenia, ale klucz będzie lokalny
 
