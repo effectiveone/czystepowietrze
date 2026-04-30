@@ -1,7 +1,7 @@
 ---
 title: "Artykuły o OZE, dotacjach i energii odnawialnej – pełna lista zasobów"
 description: "Kompletna lista artykułów i poradników o programach dofinansowania OZE w Polsce: Czyste Powietrze, Mój Prąd, fotowoltaika, pompy ciepła i inne."
-date: 2026-04-30T11:49:00Z
+date: 2026-04-30T11:53:17Z
 draft: false
 author: "Redakcja CzystePowietrze-Dotacje.pl"
 tags:
@@ -20,7 +20,7 @@ Poniżej zebraliśmy obszerną listę artykułów, analiz i poradników dotyczą
 programów dofinansowania (Czyste Powietrze, Mój Prąd, NFOŚ) oraz praktycznych aspektów
 instalacji fotowoltaiki i pomp ciepła w Polsce.
 
-Lista obejmuje **2778 materiałów** z 166 tematów.
+Lista obejmuje **2812 materiałów** z 167 tematów.
 
 ## Spółdzielnia energetyczna jako odpowiedź na wyłączenia OZE. Jak działa i kiedy ma sens?
 
@@ -185,6 +185,47 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [zpl krt 18b867](https://rentry.co/zpl-krt-18b867)
 - [zpl ene 18b867](https://rentry.co/zpl-ene-18b867)
 - [zpl sol 18b867](https://rentry.co/zpl-sol-18b867)
+
+## Polska ma ponad 50% mocy z OZE, ale zimą tylko 22% energii. Skąd bierze się ten paradoks
+
+Źródło: [polska 50 procent mocy oze 22 procent energii zima paradoks 2026](https://ecoaudyt.app/blog/polska-50-procent-mocy-oze-22-procent-energii-zima-paradoks-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [polska ma ponad 50 mocy z oze ale zima tylko 22 energii skad](https://worldofozepoland.hashnode.dev/polska-ma-ponad-50-mocy-z-oze-ale-zima-tylko-22-energii-skad-bierze-sie-ten-paradoks)
+- [polska ma ponad 50 mocy z oze ale zima tylko 22 energii skad](https://localozepoland.hashnode.dev/polska-ma-ponad-50-mocy-z-oze-ale-zima-tylko-22-energii-skad-bierze-sie-ten-paradoks)
+- [polska ma ponad 50 mocy z oze ale zima tylko 22 energii skad](https://kasiasearchingpv.hashnode.dev/polska-ma-ponad-50-mocy-z-oze-ale-zima-tylko-22-energii-skad-bierze-sie-ten-paradoks)
+- [polska ma ponad 50 mocy z oze ale zima tylko 22 energii skad](https://lawanddotationpoland.hashnode.dev/polska-ma-ponad-50-mocy-z-oze-ale-zima-tylko-22-energii-skad-bierze-sie-ten-paradoks)
+- [polska ma ponad 50 mocy z oze ale zima tylko 22 energii skad](https://batteryenergypoland.hashnode.dev/polska-ma-ponad-50-mocy-z-oze-ale-zima-tylko-22-energii-skad-bierze-sie-ten-paradoks)
+- [polska ma ponad 50 mocy z oze ale zima tylko 22 energii skad](https://heatpulppoland.hashnode.dev/polska-ma-ponad-50-mocy-z-oze-ale-zima-tylko-22-energii-skad-bierze-sie-ten-paradoks)
+- [polska ma ponad 50 mocy z oze ale zima tylko 22 energii skad](https://photovolcaitspoland.hashnode.dev/polska-ma-ponad-50-mocy-z-oze-ale-zima-tylko-22-energii-skad-bierze-sie-ten-paradoks)
+- [polska ma ponad 50 mocy z oze ale zima tylko 22 energii skad](https://thermohubpoland.hashnode.dev/polska-ma-ponad-50-mocy-z-oze-ale-zima-tylko-22-energii-skad-bierze-sie-ten-paradoks)
+- [polska ma ponad 50 mocy z oze ale zima tylko 22 energii skad](https://yourengineerpoland.hashnode.dev/polska-ma-ponad-50-mocy-z-oze-ale-zima-tylko-22-energii-skad-bierze-sie-ten-paradoks)
+- [polska ma ponad 50 mocy z oze ale zima tylko 22 energii skad](https://tomekwanttoinstalpc.hashnode.dev/polska-ma-ponad-50-mocy-z-oze-ale-zima-tylko-22-energii-skad-bierze-sie-ten-paradoks)
+- [polska ma ponad 50 mocy z oze ale zima tylko 22 energii skad](https://electricycarpoland.hashnode.dev/polska-ma-ponad-50-mocy-z-oze-ale-zima-tylko-22-energii-skad-bierze-sie-ten-paradoks)
+- [polska ma ponad 50 mocy z oze ale zima tylko 22 energii skad](https://effectiveone.mataroa.blog/blog/polska-ma-ponad-50-mocy-z-oze-ale-zima-tylko-22-energii-skad-bierze-sie-ten-paradoks/)
+- [polska ma ponad 50 mocy z oze ale zim tylko 22 energii sk d ](https://magicmikel.github.io/budzet-domowy/2026/04/30/polska-ma-ponad-50-mocy-z-oze-ale-zim-tylko-22-energii-sk-d-/)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-2)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-3)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-4)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-5)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-6)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-7)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-8)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-9)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-10)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-11)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-12)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-13)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-14)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-15)
+- [Polska ma ponad 50 mocy z OZE ale zimą tylko 22 energii Skąd](https://telegra.ph/Polska-ma-ponad-50-mocy-z-OZE-ale-zimą-tylko-22-energii-Skąd-bierze-się-ten-paradoks-04-30-16)
+- [zpl oze 636112](https://rentry.co/zpl-oze-636112)
+- [zpl eco 636112](https://rentry.co/zpl-eco-636112)
+- [zpl krt 636112](https://rentry.co/zpl-krt-636112)
+- [zpl ene 636112](https://rentry.co/zpl-ene-636112)
+- [zpl sol 636112](https://rentry.co/zpl-sol-636112)
 
 ## OPRO i mapy potencjału OZE. Państwo obiecuje szybsze pozwolenia, ale klucz będzie lokalny
 
