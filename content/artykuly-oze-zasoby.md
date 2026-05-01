@@ -1,7 +1,7 @@
 ---
 title: "Artykuły o OZE, dotacjach i energii odnawialnej – pełna lista zasobów"
 description: "Kompletna lista artykułów i poradników o programach dofinansowania OZE w Polsce: Czyste Powietrze, Mój Prąd, fotowoltaika, pompy ciepła i inne."
-date: 2026-04-30T15:00:25Z
+date: 2026-05-01T10:57:59Z
 draft: false
 author: "Redakcja CzystePowietrze-Dotacje.pl"
 tags:
@@ -20,7 +20,7 @@ Poniżej zebraliśmy obszerną listę artykułów, analiz i poradników dotyczą
 programów dofinansowania (Czyste Powietrze, Mój Prąd, NFOŚ) oraz praktycznych aspektów
 instalacji fotowoltaiki i pomp ciepła w Polsce.
 
-Lista obejmuje **2903 materiałów** z 170 tematów.
+Lista obejmuje **2988 materiałów** z 173 tematów.
 
 ## Spółdzielnia energetyczna jako odpowiedź na wyłączenia OZE. Jak działa i kiedy ma sens?
 
@@ -416,6 +416,82 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Czyste Powietrze po reformie Co wynika z 12 mld wypłat i wię](https://telegra.ph/Czyste-Powietrze-po-reformie-Co-wynika-z-12-mld-wypłat-i-większej-roli-gmin-04-30-32)
 - [zpl oze cc006d](https://rentry.co/zpl-oze-cc006d)
 - [zpl eco cc006d](https://rentry.co/zpl-eco-cc006d)
+
+## KE wzywa Polskę do wdrożenia nowego designu rynku energii. Co grozi po reasoned opinion
+
+Źródło: [ke polska rynek energii dyrektywa 2024 1711](https://ecoaudyt.app/blog/ke-polska-rynek-energii-dyrektywa-2024-1711)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [ke wzywa polske do wdrozenia nowego designu rynku energii co](https://worldofozepoland.hashnode.dev/ke-wzywa-polske-do-wdrozenia-nowego-designu-rynku-energii-co-grozi-po-reasoned-opinion)
+- [ke wzywa polske do wdrozenia nowego designu rynku energii co](https://localozepoland.hashnode.dev/ke-wzywa-polske-do-wdrozenia-nowego-designu-rynku-energii-co-grozi-po-reasoned-opinion)
+- [ke wzywa polske do wdrozenia nowego designu rynku energii co](https://kasiasearchingpv.hashnode.dev/ke-wzywa-polske-do-wdrozenia-nowego-designu-rynku-energii-co-grozi-po-reasoned-opinion)
+- [ke wzywa polske do wdrozenia nowego designu rynku energii co](https://lawanddotationpoland.hashnode.dev/ke-wzywa-polske-do-wdrozenia-nowego-designu-rynku-energii-co-grozi-po-reasoned-opinion)
+- [ke wzywa polske do wdrozenia nowego designu rynku energii co](https://batteryenergypoland.hashnode.dev/ke-wzywa-polske-do-wdrozenia-nowego-designu-rynku-energii-co-grozi-po-reasoned-opinion)
+- [ke wzywa polske do wdrozenia nowego designu rynku energii co](https://heatpulppoland.hashnode.dev/ke-wzywa-polske-do-wdrozenia-nowego-designu-rynku-energii-co-grozi-po-reasoned-opinion)
+- [ke wzywa polske do wdrozenia nowego designu rynku energii co](https://photovolcaitspoland.hashnode.dev/ke-wzywa-polske-do-wdrozenia-nowego-designu-rynku-energii-co-grozi-po-reasoned-opinion)
+- [ke wzywa polske do wdrozenia nowego designu rynku energii co](https://thermohubpoland.hashnode.dev/ke-wzywa-polske-do-wdrozenia-nowego-designu-rynku-energii-co-grozi-po-reasoned-opinion)
+- [ke wzywa polske do wdrozenia nowego designu rynku energii co](https://yourengineerpoland.hashnode.dev/ke-wzywa-polske-do-wdrozenia-nowego-designu-rynku-energii-co-grozi-po-reasoned-opinion)
+- [ke wzywa polske do wdrozenia nowego designu rynku energii co](https://tomekwanttoinstalpc.hashnode.dev/ke-wzywa-polske-do-wdrozenia-nowego-designu-rynku-energii-co-grozi-po-reasoned-opinion)
+- [ke wzywa polske do wdrozenia nowego designu rynku energii co](https://electricycarpoland.hashnode.dev/ke-wzywa-polske-do-wdrozenia-nowego-designu-rynku-energii-co-grozi-po-reasoned-opinion)
+- [ke wzywa polske do wdrozenia nowego designu rynku energii co](https://effectiveone.mataroa.blog/blog/ke-wzywa-polske-do-wdrozenia-nowego-designu-rynku-energii-co-grozi-po-reasoned-opinion/)
+- [ke wzywa polsk do wdro enia nowego designu rynku energii co ](https://magicmikel.github.io/budzet-domowy/2026/05/01/ke-wzywa-polsk-do-wdro-enia-nowego-designu-rynku-energii-co-/)
+- [KE wzywa Polskę do wdrożenia nowego designu rynku energii Co](https://telegra.ph/KE-wzywa-Polskę-do-wdrożenia-nowego-designu-rynku-energii-Co-grozi-po-reasoned-opinion-05-01)
+- [KE wzywa Polskę do wdrożenia nowego designu rynku energii Co](https://telegra.ph/KE-wzywa-Polskę-do-wdrożenia-nowego-designu-rynku-energii-Co-grozi-po-reasoned-opinion-05-01-2)
+- [KE wzywa Polskę do wdrożenia nowego designu rynku energii Co](https://telegra.ph/KE-wzywa-Polskę-do-wdrożenia-nowego-designu-rynku-energii-Co-grozi-po-reasoned-opinion-05-01-3)
+- [KE wzywa Polskę do wdrożenia nowego designu rynku energii Co](https://telegra.ph/KE-wzywa-Polskę-do-wdrożenia-nowego-designu-rynku-energii-Co-grozi-po-reasoned-opinion-05-01-4)
+- [KE wzywa Polskę do wdrożenia nowego designu rynku energii Co](https://telegra.ph/KE-wzywa-Polskę-do-wdrożenia-nowego-designu-rynku-energii-Co-grozi-po-reasoned-opinion-05-01-5)
+- [KE wzywa Polskę do wdrożenia nowego designu rynku energii Co](https://telegra.ph/KE-wzywa-Polskę-do-wdrożenia-nowego-designu-rynku-energii-Co-grozi-po-reasoned-opinion-05-01-6)
+- [KE wzywa Polskę do wdrożenia nowego designu rynku energii Co](https://telegra.ph/KE-wzywa-Polskę-do-wdrożenia-nowego-designu-rynku-energii-Co-grozi-po-reasoned-opinion-05-01-7)
+- [KE wzywa Polskę do wdrożenia nowego designu rynku energii Co](https://telegra.ph/KE-wzywa-Polskę-do-wdrożenia-nowego-designu-rynku-energii-Co-grozi-po-reasoned-opinion-05-01-8)
+- [KE wzywa Polskę do wdrożenia nowego designu rynku energii Co](https://telegra.ph/KE-wzywa-Polskę-do-wdrożenia-nowego-designu-rynku-energii-Co-grozi-po-reasoned-opinion-05-01-9)
+- [KE wzywa Polskę do wdrożenia nowego designu rynku energii Co](https://telegra.ph/KE-wzywa-Polskę-do-wdrożenia-nowego-designu-rynku-energii-Co-grozi-po-reasoned-opinion-05-01-10)
+- [KE wzywa Polskę do wdrożenia nowego designu rynku energii Co](https://telegra.ph/KE-wzywa-Polskę-do-wdrożenia-nowego-designu-rynku-energii-Co-grozi-po-reasoned-opinion-05-01-11)
+- [KE wzywa Polskę do wdrożenia nowego designu rynku energii Co](https://telegra.ph/KE-wzywa-Polskę-do-wdrożenia-nowego-designu-rynku-energii-Co-grozi-po-reasoned-opinion-05-01-12)
+- [KE wzywa Polskę do wdrożenia nowego designu rynku energii Co](https://telegra.ph/KE-wzywa-Polskę-do-wdrożenia-nowego-designu-rynku-energii-Co-grozi-po-reasoned-opinion-05-01-13)
+- [zpl oze 9cef62](https://rentry.co/zpl-oze-9cef62)
+- [zpl eco 9cef62](https://rentry.co/zpl-eco-9cef62)
+- [zpl krt 9cef62](https://rentry.co/zpl-krt-9cef62)
+- [zpl ene 9cef62](https://rentry.co/zpl-ene-9cef62)
+- [zpl sol 9cef62](https://rentry.co/zpl-sol-9cef62)
+
+## ETS2 później, ciepłownie z dodatkowymi darmowymi uprawnieniami. Co to może zmienić
+
+Źródło: [ets2 cieplownie 30 procent uprawnien](https://ecoaudyt.app/blog/ets2-cieplownie-30-procent-uprawnien)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [ets2 pozniej cieplownie z dodatkowymi darmowymi uprawnieniam](https://worldofozepoland.hashnode.dev/ets2-pozniej-cieplownie-z-dodatkowymi-darmowymi-uprawnieniami-co-to-moze-zmienic)
+- [ets2 pozniej cieplownie z dodatkowymi darmowymi uprawnieniam](https://localozepoland.hashnode.dev/ets2-pozniej-cieplownie-z-dodatkowymi-darmowymi-uprawnieniami-co-to-moze-zmienic)
+- [ets2 pozniej cieplownie z dodatkowymi darmowymi uprawnieniam](https://kasiasearchingpv.hashnode.dev/ets2-pozniej-cieplownie-z-dodatkowymi-darmowymi-uprawnieniami-co-to-moze-zmienic)
+- [ets2 pozniej cieplownie z dodatkowymi darmowymi uprawnieniam](https://lawanddotationpoland.hashnode.dev/ets2-pozniej-cieplownie-z-dodatkowymi-darmowymi-uprawnieniami-co-to-moze-zmienic)
+- [ets2 pozniej cieplownie z dodatkowymi darmowymi uprawnieniam](https://batteryenergypoland.hashnode.dev/ets2-pozniej-cieplownie-z-dodatkowymi-darmowymi-uprawnieniami-co-to-moze-zmienic)
+- [ets2 pozniej cieplownie z dodatkowymi darmowymi uprawnieniam](https://heatpulppoland.hashnode.dev/ets2-pozniej-cieplownie-z-dodatkowymi-darmowymi-uprawnieniami-co-to-moze-zmienic)
+- [ets2 pozniej cieplownie z dodatkowymi darmowymi uprawnieniam](https://photovolcaitspoland.hashnode.dev/ets2-pozniej-cieplownie-z-dodatkowymi-darmowymi-uprawnieniami-co-to-moze-zmienic)
+- [ets2 pozniej cieplownie z dodatkowymi darmowymi uprawnieniam](https://thermohubpoland.hashnode.dev/ets2-pozniej-cieplownie-z-dodatkowymi-darmowymi-uprawnieniami-co-to-moze-zmienic)
+- [ets2 pozniej cieplownie z dodatkowymi darmowymi uprawnieniam](https://yourengineerpoland.hashnode.dev/ets2-pozniej-cieplownie-z-dodatkowymi-darmowymi-uprawnieniami-co-to-moze-zmienic)
+- [ets2 pozniej cieplownie z dodatkowymi darmowymi uprawnieniam](https://tomekwanttoinstalpc.hashnode.dev/ets2-pozniej-cieplownie-z-dodatkowymi-darmowymi-uprawnieniami-co-to-moze-zmienic)
+- [ets2 pozniej cieplownie z dodatkowymi darmowymi uprawnieniam](https://electricycarpoland.hashnode.dev/ets2-pozniej-cieplownie-z-dodatkowymi-darmowymi-uprawnieniami-co-to-moze-zmienic)
+- [ets2 pozniej ciepownie z dodatkowymi darmowymi uprawnieniami](https://effectiveone.mataroa.blog/blog/ets2-pozniej-ciepownie-z-dodatkowymi-darmowymi-uprawnieniami-co-to-moze-zmienic/)
+- [ets2 p niej ciep ownie z dodatkowymi darmowymi uprawnieniami](https://magicmikel.github.io/budzet-domowy/2026/05/01/ets2-p-niej-ciep-ownie-z-dodatkowymi-darmowymi-uprawnieniami/)
+- [ETS2 później ciepłownie z dodatkowymi darmowymi uprawnieniam](https://telegra.ph/ETS2-później-ciepłownie-z-dodatkowymi-darmowymi-uprawnieniami-Co-to-może-zmienić-05-01)
+- [ETS2 później ciepłownie z dodatkowymi darmowymi uprawnieniam](https://telegra.ph/ETS2-później-ciepłownie-z-dodatkowymi-darmowymi-uprawnieniami-Co-to-może-zmienić-05-01-2)
+- [ETS2 później ciepłownie z dodatkowymi darmowymi uprawnieniam](https://telegra.ph/ETS2-później-ciepłownie-z-dodatkowymi-darmowymi-uprawnieniami-Co-to-może-zmienić-05-01-3)
+- [ETS2 później ciepłownie z dodatkowymi darmowymi uprawnieniam](https://telegra.ph/ETS2-później-ciepłownie-z-dodatkowymi-darmowymi-uprawnieniami-Co-to-może-zmienić-05-01-4)
+- [ETS2 później ciepłownie z dodatkowymi darmowymi uprawnieniam](https://telegra.ph/ETS2-później-ciepłownie-z-dodatkowymi-darmowymi-uprawnieniami-Co-to-może-zmienić-05-01-5)
+- [ETS2 później ciepłownie z dodatkowymi darmowymi uprawnieniam](https://telegra.ph/ETS2-później-ciepłownie-z-dodatkowymi-darmowymi-uprawnieniami-Co-to-może-zmienić-05-01-6)
+- [ETS2 później ciepłownie z dodatkowymi darmowymi uprawnieniam](https://telegra.ph/ETS2-później-ciepłownie-z-dodatkowymi-darmowymi-uprawnieniami-Co-to-może-zmienić-05-01-7)
+- [ETS2 później ciepłownie z dodatkowymi darmowymi uprawnieniam](https://telegra.ph/ETS2-później-ciepłownie-z-dodatkowymi-darmowymi-uprawnieniami-Co-to-może-zmienić-05-01-8)
+- [ETS2 później ciepłownie z dodatkowymi darmowymi uprawnieniam](https://telegra.ph/ETS2-później-ciepłownie-z-dodatkowymi-darmowymi-uprawnieniami-Co-to-może-zmienić-05-01-9)
+- [ETS2 później ciepłownie z dodatkowymi darmowymi uprawnieniam](https://telegra.ph/ETS2-później-ciepłownie-z-dodatkowymi-darmowymi-uprawnieniami-Co-to-może-zmienić-05-01-10)
+- [ETS2 później ciepłownie z dodatkowymi darmowymi uprawnieniam](https://telegra.ph/ETS2-później-ciepłownie-z-dodatkowymi-darmowymi-uprawnieniami-Co-to-może-zmienić-05-01-11)
+- [ETS2 później ciepłownie z dodatkowymi darmowymi uprawnieniam](https://telegra.ph/ETS2-później-ciepłownie-z-dodatkowymi-darmowymi-uprawnieniami-Co-to-może-zmienić-05-01-12)
+- [ETS2 później ciepłownie z dodatkowymi darmowymi uprawnieniam](https://telegra.ph/ETS2-później-ciepłownie-z-dodatkowymi-darmowymi-uprawnieniami-Co-to-może-zmienić-05-01-13)
+- [zpl oze 3af2e7](https://rentry.co/zpl-oze-3af2e7)
+- [zpl eco 3af2e7](https://rentry.co/zpl-eco-3af2e7)
+- [zpl krt 3af2e7](https://rentry.co/zpl-krt-3af2e7)
+- [zpl ene 3af2e7](https://rentry.co/zpl-ene-3af2e7)
+- [zpl sol 3af2e7](https://rentry.co/zpl-sol-3af2e7)
 
 ## RED III, prosument wirtualny i biometan. Co naprawdę może zmienić nowelizacja ustawy o OZE
 
@@ -1560,6 +1636,36 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Prokuratura w Łomży ponad 200 pokrzywdzonych w sprawie Colum](https://telegra.ph/Prokuratura-w-Łomży-ponad-200-pokrzywdzonych-w-sprawie-Columbus-Energy-i-Czystego-Powietrza-04-28-14)
 - [Prokuratura w Łomży ponad 200 pokrzywdzonych w sprawie Colum](https://telegra.ph/Prokuratura-w-Łomży-ponad-200-pokrzywdzonych-w-sprawie-Columbus-Energy-i-Czystego-Powietrza-04-28-15)
 - [Prokuratura w Łomży ponad 200 pokrzywdzonych w sprawie Colum](https://telegra.ph/Prokuratura-w-Łomży-ponad-200-pokrzywdzonych-w-sprawie-Columbus-Energy-i-Czystego-Powietrza-04-28-16)
+
+## Citizens Energy Package — co Komisja naprawdę obiecuje odbiorcom energii i prosumentom
+
+Źródło: [citizens energy package ue 2026 prosumenci odbiorcy](https://ecoaudyt.app/blog/citizens-energy-package-ue-2026-prosumenci-odbiorcy)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [citizens energy package co komisja naprawde obiecuje odbiorc](https://localozepoland.hashnode.dev/citizens-energy-package-co-komisja-naprawde-obiecuje-odbiorcom-energii-i-prosumentom)
+- [citizens energy package co komisja naprawde obiecuje odbiorc](https://batteryenergypoland.hashnode.dev/citizens-energy-package-co-komisja-naprawde-obiecuje-odbiorcom-energii-i-prosumentom)
+- [citizens energy package co komisja naprawde obiecuje odbiorc](https://thermohubpoland.hashnode.dev/citizens-energy-package-co-komisja-naprawde-obiecuje-odbiorcom-energii-i-prosumentom)
+- [citizens energy package co komisja naprawde obiecuje odbiorc](https://electricycarpoland.hashnode.dev/citizens-energy-package-co-komisja-naprawde-obiecuje-odbiorcom-energii-i-prosumentom)
+- [citizens energy package co komisja naprawd obiecuje odbiorco](https://magicmikel.github.io/budzet-domowy/2026/05/01/citizens-energy-package-co-komisja-naprawd-obiecuje-odbiorco/)
+- [Citizens Energy Package  co Komisja naprawdę obiecuje odbior](https://telegra.ph/Citizens-Energy-Package--co-Komisja-naprawdę-obiecuje-odbiorcom-energii-i-prosumentom-05-01)
+- [Citizens Energy Package  co Komisja naprawdę obiecuje odbior](https://telegra.ph/Citizens-Energy-Package--co-Komisja-naprawdę-obiecuje-odbiorcom-energii-i-prosumentom-05-01-2)
+- [Citizens Energy Package  co Komisja naprawdę obiecuje odbior](https://telegra.ph/Citizens-Energy-Package--co-Komisja-naprawdę-obiecuje-odbiorcom-energii-i-prosumentom-05-01-3)
+- [Citizens Energy Package  co Komisja naprawdę obiecuje odbior](https://telegra.ph/Citizens-Energy-Package--co-Komisja-naprawdę-obiecuje-odbiorcom-energii-i-prosumentom-05-01-4)
+- [Citizens Energy Package  co Komisja naprawdę obiecuje odbior](https://telegra.ph/Citizens-Energy-Package--co-Komisja-naprawdę-obiecuje-odbiorcom-energii-i-prosumentom-05-01-5)
+- [Citizens Energy Package  co Komisja naprawdę obiecuje odbior](https://telegra.ph/Citizens-Energy-Package--co-Komisja-naprawdę-obiecuje-odbiorcom-energii-i-prosumentom-05-01-6)
+- [Citizens Energy Package  co Komisja naprawdę obiecuje odbior](https://telegra.ph/Citizens-Energy-Package--co-Komisja-naprawdę-obiecuje-odbiorcom-energii-i-prosumentom-05-01-7)
+- [Citizens Energy Package  co Komisja naprawdę obiecuje odbior](https://telegra.ph/Citizens-Energy-Package--co-Komisja-naprawdę-obiecuje-odbiorcom-energii-i-prosumentom-05-01-8)
+- [Citizens Energy Package  co Komisja naprawdę obiecuje odbior](https://telegra.ph/Citizens-Energy-Package--co-Komisja-naprawdę-obiecuje-odbiorcom-energii-i-prosumentom-05-01-9)
+- [Citizens Energy Package  co Komisja naprawdę obiecuje odbior](https://telegra.ph/Citizens-Energy-Package--co-Komisja-naprawdę-obiecuje-odbiorcom-energii-i-prosumentom-05-01-10)
+- [Citizens Energy Package  co Komisja naprawdę obiecuje odbior](https://telegra.ph/Citizens-Energy-Package--co-Komisja-naprawdę-obiecuje-odbiorcom-energii-i-prosumentom-05-01-11)
+- [Citizens Energy Package  co Komisja naprawdę obiecuje odbior](https://telegra.ph/Citizens-Energy-Package--co-Komisja-naprawdę-obiecuje-odbiorcom-energii-i-prosumentom-05-01-12)
+- [Citizens Energy Package  co Komisja naprawdę obiecuje odbior](https://telegra.ph/Citizens-Energy-Package--co-Komisja-naprawdę-obiecuje-odbiorcom-energii-i-prosumentom-05-01-13)
+- [zpl oze bd4b63](https://rentry.co/zpl-oze-bd4b63)
+- [zpl eco bd4b63](https://rentry.co/zpl-eco-bd4b63)
+- [zpl krt bd4b63](https://rentry.co/zpl-krt-bd4b63)
+- [zpl ene bd4b63](https://rentry.co/zpl-ene-bd4b63)
+- [zpl sol bd4b63](https://rentry.co/zpl-sol-bd4b63)
 
 ## CBA zabezpiecza dokumenty ws. „Czystego Powietrza”. Co dziś wiadomo, a czego śledztwo jeszcze nie przesądza
 
