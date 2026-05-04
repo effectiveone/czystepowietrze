@@ -1,7 +1,7 @@
 ---
 title: "Artykuły o OZE, dotacjach i energii odnawialnej – pełna lista zasobów"
 description: "Kompletna lista artykułów i poradników o programach dofinansowania OZE w Polsce: Czyste Powietrze, Mój Prąd, fotowoltaika, pompy ciepła i inne."
-date: 2026-05-04T10:29:26Z
+date: 2026-05-04T15:11:12Z
 draft: false
 author: "Redakcja CzystePowietrze-Dotacje.pl"
 tags:
@@ -20,7 +20,7 @@ Poniżej zebraliśmy obszerną listę artykułów, analiz i poradników dotyczą
 programów dofinansowania (Czyste Powietrze, Mój Prąd, NFOŚ) oraz praktycznych aspektów
 instalacji fotowoltaiki i pomp ciepła w Polsce.
 
-Lista obejmuje **3223 materiałów** z 182 tematów.
+Lista obejmuje **3289 materiałów** z 185 tematów.
 
 ## Spółdzielnia energetyczna jako odpowiedź na wyłączenia OZE. Jak działa i kiedy ma sens?
 
@@ -2573,6 +2573,93 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [zpl krt 223dd2](https://rentry.co/zpl-krt-223dd2)
 - [zpl ene 223dd2](https://rentry.co/zpl-ene-223dd2)
 - [zpl sol 223dd2](https://rentry.co/zpl-sol-223dd2)
+
+## Raport PSE pokazuje, ile kosztuje złe bilansowanie systemu. 750 mln zł rocznie i przymusowe ograniczenia OZE w tle
+
+Źródło: [pse bilansowanie 750 mln oze](https://ecoaudyt.app/blog/pse-bilansowanie-750-mln-oze)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [raport pse pokazuje ile kosztuje ze bilansowanie systemu 750](https://effectiveone.mataroa.blog/blog/raport-pse-pokazuje-ile-kosztuje-ze-bilansowanie-systemu-750-mln-z-rocznie-i-przymusowe-ograniczenia-oze-w-tle/)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-2)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-3)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-4)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-5)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-6)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-7)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-8)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-9)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-10)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-11)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-12)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-13)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-14)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-15)
+- [Raport PSE pokazuje ile kosztuje złe bilansowanie systemu 75](https://telegra.ph/Raport-PSE-pokazuje-ile-kosztuje-złe-bilansowanie-systemu-750-mln-zł-rocznie-i-przymusowe-ograniczenia-OZE-w-tle-05-04-16)
+- [zpl oze 73c3b9](https://rentry.co/zpl-oze-73c3b9)
+- [zpl eco 73c3b9](https://rentry.co/zpl-eco-73c3b9)
+- [zpl krt 73c3b9](https://rentry.co/zpl-krt-73c3b9)
+- [zpl ene 73c3b9](https://rentry.co/zpl-ene-73c3b9)
+- [zpl sol 73c3b9](https://rentry.co/zpl-sol-73c3b9)
+
+## EIA: USA planują rekordowe 86 GW nowych mocy w 2026 roku. Solar, baterie i wiatr dominują w pipeline
+
+Źródło: [eia usa 86 gw oze bess 2026](https://ecoaudyt.app/blog/eia-usa-86-gw-oze-bess-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [eia usa planuja rekordowe 86 gw nowych mocy w 2026 roku sola](https://effectiveone.mataroa.blog/blog/eia-usa-planuja-rekordowe-86-gw-nowych-mocy-w-2026-roku-solar-baterie-i-wiatr-dominuja-w-pipeline/)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-2)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-3)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-4)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-5)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-6)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-7)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-8)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-9)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-10)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-11)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-12)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-13)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-14)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-15)
+- [EIA USA planują rekordowe 86 GW nowych mocy w 2026 roku Sola](https://telegra.ph/EIA-USA-planują-rekordowe-86-GW-nowych-mocy-w-2026-roku-Solar-baterie-i-wiatr-dominują-w-pipeline-05-04-16)
+- [zpl oze 62e2ac](https://rentry.co/zpl-oze-62e2ac)
+- [zpl eco 62e2ac](https://rentry.co/zpl-eco-62e2ac)
+- [zpl krt 62e2ac](https://rentry.co/zpl-krt-62e2ac)
+- [zpl ene 62e2ac](https://rentry.co/zpl-ene-62e2ac)
+- [zpl sol 62e2ac](https://rentry.co/zpl-sol-62e2ac)
+
+## Komisja pokazała pierwsze wyniki Hydrogen Mechanism. Polska pojawia się na mapie popytu
+
+Źródło: [hydrogen mechanism polska](https://ecoaudyt.app/blog/hydrogen-mechanism-polska)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [komisja pokazaa pierwsze wyniki hydrogen mechanism polska po](https://effectiveone.mataroa.blog/blog/komisja-pokazaa-pierwsze-wyniki-hydrogen-mechanism-polska-pojawia-sie-na-mapie-popytu/)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-2)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-3)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-4)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-5)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-6)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-7)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-8)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-9)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-10)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-11)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-12)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-13)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-14)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-15)
+- [Komisja pokazała pierwsze wyniki Hydrogen Mechanism Polska p](https://telegra.ph/Komisja-pokazała-pierwsze-wyniki-Hydrogen-Mechanism-Polska-pojawia-się-na-mapie-popytu-05-04-16)
+- [zpl oze 63bbdc](https://rentry.co/zpl-oze-63bbdc)
+- [zpl eco 63bbdc](https://rentry.co/zpl-eco-63bbdc)
+- [zpl krt 63bbdc](https://rentry.co/zpl-krt-63bbdc)
+- [zpl ene 63bbdc](https://rentry.co/zpl-ene-63bbdc)
+- [zpl sol 63bbdc](https://rentry.co/zpl-sol-63bbdc)
 
 ## Balcony solar: trzy stany USA legislują jednocześnie, a polskie firmy BIPV rosną w Europie
 
