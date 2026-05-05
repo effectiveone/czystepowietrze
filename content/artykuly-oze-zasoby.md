@@ -1,7 +1,7 @@
 ---
 title: "Artykuły o OZE, dotacjach i energii odnawialnej – pełna lista zasobów"
 description: "Kompletna lista artykułów i poradników o programach dofinansowania OZE w Polsce: Czyste Powietrze, Mój Prąd, fotowoltaika, pompy ciepła i inne."
-date: 2026-05-04T15:11:12Z
+date: 2026-05-05T11:16:56Z
 draft: false
 author: "Redakcja CzystePowietrze-Dotacje.pl"
 tags:
@@ -20,7 +20,7 @@ Poniżej zebraliśmy obszerną listę artykułów, analiz i poradników dotyczą
 programów dofinansowania (Czyste Powietrze, Mój Prąd, NFOŚ) oraz praktycznych aspektów
 instalacji fotowoltaiki i pomp ciepła w Polsce.
 
-Lista obejmuje **3289 materiałów** z 185 tematów.
+Lista obejmuje **3354 materiałów** z 188 tematów.
 
 ## Spółdzielnia energetyczna jako odpowiedź na wyłączenia OZE. Jak działa i kiedy ma sens?
 
@@ -2661,6 +2661,64 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [zpl ene 63bbdc](https://rentry.co/zpl-ene-63bbdc)
 - [zpl sol 63bbdc](https://rentry.co/zpl-sol-63bbdc)
 
+## Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE. Co naprawdę zmienia dla rynku i odbiorców
+
+Źródło: [nowe prawo energetyczne przylaczenia oze cable pooling 2026](https://ecoaudyt.app/blog/nowe-prawo-energetyczne-przylaczenia-oze-cable-pooling-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [nowe prawo energetyczne ma przyspieszyc przyaczenia oze co n](https://effectiveone.mataroa.blog/blog/nowe-prawo-energetyczne-ma-przyspieszyc-przyaczenia-oze-co-naprawde-zmienia-dla-rynku-i-odbiorcow/)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-2)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-3)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-4)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-5)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-6)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-7)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-8)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-9)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-10)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-11)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-12)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-13)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-14)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-15)
+- [Nowe Prawo energetyczne ma przyspieszyć przyłączenia OZE Co ](https://telegra.ph/Nowe-Prawo-energetyczne-ma-przyspieszyć-przyłączenia-OZE-Co-naprawdę-zmienia-dla-rynku-i-odbiorców-05-05-16)
+- [zpl oze 060c55](https://rentry.co/zpl-oze-060c55)
+- [zpl eco 060c55](https://rentry.co/zpl-eco-060c55)
+- [zpl krt 060c55](https://rentry.co/zpl-krt-060c55)
+- [zpl ene 060c55](https://rentry.co/zpl-ene-060c55)
+- [zpl sol 060c55](https://rentry.co/zpl-sol-060c55)
+
+## Australia pokazuje rynek po boomie PV. Baterie przesuwają 3 razy więcej energii i zarabiają głównie na arbitrażu
+
+Źródło: [australia bess model dla polski](https://ecoaudyt.app/blog/australia-bess-model-dla-polski)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [australia pokazuje rynek po boomie pv baterie przesuwaja 3 r](https://effectiveone.mataroa.blog/blog/australia-pokazuje-rynek-po-boomie-pv-baterie-przesuwaja-3-razy-wiecej-energii-i-zarabiaja-gownie-na-arbitrazu/)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-2)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-3)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-4)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-5)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-6)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-7)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-8)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-9)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-10)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-11)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-12)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-13)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-14)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-15)
+- [Australia pokazuje rynek po boomie PV Baterie przesuwają 3 r](https://telegra.ph/Australia-pokazuje-rynek-po-boomie-PV-Baterie-przesuwają-3-razy-więcej-energii-i-zarabiają-głównie-na-arbitrażu-05-05-16)
+- [zpl oze 044d88](https://rentry.co/zpl-oze-044d88)
+- [zpl eco 044d88](https://rentry.co/zpl-eco-044d88)
+- [zpl krt 044d88](https://rentry.co/zpl-krt-044d88)
+- [zpl ene 044d88](https://rentry.co/zpl-ene-044d88)
+- [zpl sol 044d88](https://rentry.co/zpl-sol-044d88)
+
 ## Balcony solar: trzy stany USA legislują jednocześnie, a polskie firmy BIPV rosną w Europie
 
 Źródło: [balcony solar legislacja usa bipv polska europa](https://ecoaudyt.app/blog/balcony-solar-legislacja-usa-bipv-polska-europa)
@@ -2772,6 +2830,34 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Gruntowe pompy ciepła wracają do łask Co zmieniło się na ryn](https://telegra.ph/Gruntowe-pompy-ciepła-wracają-do-łask-Co-zmieniło-się-na-rynku-i-kiedy-ma-to-sens-04-28-14)
 - [Gruntowe pompy ciepła wracają do łask Co zmieniło się na ryn](https://telegra.ph/Gruntowe-pompy-ciepła-wracają-do-łask-Co-zmieniło-się-na-rynku-i-kiedy-ma-to-sens-04-28-15)
 - [Gruntowe pompy ciepła wracają do łask Co zmieniło się na ryn](https://telegra.ph/Gruntowe-pompy-ciepła-wracają-do-łask-Co-zmieniło-się-na-rynku-i-kiedy-ma-to-sens-04-28-16)
+
+## URE porządkuje cable pooling i odmowy przyłączeń. Co inwestor powinien z tego wyczytać
+
+Źródło: [ure cable pooling odmowy przylaczen oze inwestor 2026](https://ecoaudyt.app/blog/ure-cable-pooling-odmowy-przylaczen-oze-inwestor-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [ure porzadkuje cable pooling i odmowy przyaczen co inwestor ](https://effectiveone.mataroa.blog/blog/ure-porzadkuje-cable-pooling-i-odmowy-przyaczen-co-inwestor-powinien-z-tego-wyczytac/)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-2)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-3)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-4)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-5)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-6)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-7)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-8)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-9)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-10)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-11)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-12)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-13)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-14)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-15)
+- [URE porządkuje cable pooling i odmowy przyłączeń Co inwestor](https://telegra.ph/URE-porządkuje-cable-pooling-i-odmowy-przyłączeń-Co-inwestor-powinien-z-tego-wyczytać-05-05-16)
+- [zpl eco 2e4399](https://rentry.co/zpl-eco-2e4399)
+- [zpl krt 2e4399](https://rentry.co/zpl-krt-2e4399)
+- [zpl ene 2e4399](https://rentry.co/zpl-ene-2e4399)
+- [zpl sol 2e4399](https://rentry.co/zpl-sol-2e4399)
 
 ## Francja przetarg 10 GW offshore. Polska jest ciągle obserwatorem
 
