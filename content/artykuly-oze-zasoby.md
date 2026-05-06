@@ -1,7 +1,7 @@
 ---
 title: "Artykuły o OZE, dotacjach i energii odnawialnej – pełna lista zasobów"
 description: "Kompletna lista artykułów i poradników o programach dofinansowania OZE w Polsce: Czyste Powietrze, Mój Prąd, fotowoltaika, pompy ciepła i inne."
-date: 2026-05-06T14:35:41Z
+date: 2026-05-06T15:21:34Z
 draft: false
 author: "Redakcja CzystePowietrze-Dotacje.pl"
 tags:
@@ -20,7 +20,7 @@ Poniżej zebraliśmy obszerną listę artykułów, analiz i poradników dotyczą
 programów dofinansowania (Czyste Powietrze, Mój Prąd, NFOŚ) oraz praktycznych aspektów
 instalacji fotowoltaiki i pomp ciepła w Polsce.
 
-Lista obejmuje **3464 materiałów** z 193 tematów.
+Lista obejmuje **3551 materiałów** z 197 tematów.
 
 ## Spółdzielnia energetyczna jako odpowiedź na wyłączenia OZE. Jak działa i kiedy ma sens?
 
@@ -2864,6 +2864,93 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [zpl ene 4325a7](https://rentry.co/zpl-ene-4325a7)
 - [zpl sol 4325a7](https://rentry.co/zpl-sol-4325a7)
 
+## Virginia dokłada 625 MW community solar do 2028 roku. To dobry przykład, jak regulacja może otworzyć tańszy prąd bez własnego dachu
+
+Źródło: [virginia community solar 625 mw 2028](https://ecoaudyt.app/blog/virginia-community-solar-625-mw-2028)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [virginia dokada 625 mw community solar do 2028 roku to dobry](https://effectiveone.mataroa.blog/blog/virginia-dokada-625-mw-community-solar-do-2028-roku-to-dobry-przykad-jak-regulacja-moze-otworzyc-tanszy-prad-bez-wasnego-dachu/)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-2)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-3)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-4)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-5)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-6)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-7)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-8)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-9)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-10)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-11)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-12)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-13)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-14)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-15)
+- [Virginia dokłada 625 MW community solar do 2028 roku To dobr](https://telegra.ph/Virginia-dokłada-625-MW-community-solar-do-2028-roku-To-dobry-przykład-jak-regulacja-może-otworzyć-tańszy-prąd-bez-własnego-dach-05-06-16)
+- [zpl oze 60fc6e](https://rentry.co/zpl-oze-60fc6e)
+- [zpl eco 60fc6e](https://rentry.co/zpl-eco-60fc6e)
+- [zpl krt 60fc6e](https://rentry.co/zpl-krt-60fc6e)
+- [zpl ene 60fc6e](https://rentry.co/zpl-ene-60fc6e)
+- [zpl sol 60fc6e](https://rentry.co/zpl-sol-60fc6e)
+
+## Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klimacie. Na razie to deklaracja kierunku, nie pakiet inwestycyjny
+
+Źródło: [polska hiszpania wspolpraca oze klimat 2026](https://ecoaudyt.app/blog/polska-hiszpania-wspolpraca-oze-klimat-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [polska i hiszpania chca pogebiac wspoprace przy oze i klimac](https://effectiveone.mataroa.blog/blog/polska-i-hiszpania-chca-pogebiac-wspoprace-przy-oze-i-klimacie-na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny/)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-2)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-3)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-4)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-5)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-6)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-7)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-8)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-9)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-10)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-11)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-12)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-13)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-14)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-15)
+- [Polska i Hiszpania chcą pogłębiać współpracę przy OZE i klim](https://telegra.ph/Polska-i-Hiszpania-chcą-pogłębiać-współpracę-przy-OZE-i-klimacie-Na-razie-to-deklaracja-kierunku-nie-pakiet-inwestycyjny-05-06-16)
+- [zpl oze 3b92f7](https://rentry.co/zpl-oze-3b92f7)
+- [zpl eco 3b92f7](https://rentry.co/zpl-eco-3b92f7)
+- [zpl krt 3b92f7](https://rentry.co/zpl-krt-3b92f7)
+- [zpl ene 3b92f7](https://rentry.co/zpl-ene-3b92f7)
+- [zpl sol 3b92f7](https://rentry.co/zpl-sol-3b92f7)
+
+## Finansowanie UE a falowniki wysokiego ryzyka. Kierunek zmian jest widoczny, ale pełnych wytycznych Komisji nadal nie ma
+
+Źródło: [finansowanie ue falowniki wysokiego ryzyka pcs 2026](https://ecoaudyt.app/blog/finansowanie-ue-falowniki-wysokiego-ryzyka-pcs-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [finansowanie ue a falowniki wysokiego ryzyka kierunek zmian ](https://effectiveone.mataroa.blog/blog/finansowanie-ue-a-falowniki-wysokiego-ryzyka-kierunek-zmian-jest-widoczny-ale-penych-wytycznych-komisji-nadal-nie-ma/)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-2)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-3)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-4)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-5)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-6)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-7)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-8)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-9)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-10)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-11)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-12)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-13)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-14)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-15)
+- [Finansowanie UE a falowniki wysokiego ryzyka Kierunek zmian ](https://telegra.ph/Finansowanie-UE-a-falowniki-wysokiego-ryzyka-Kierunek-zmian-jest-widoczny-ale-pełnych-wytycznych-Komisji-nadal-nie-ma-05-06-16)
+- [zpl oze ade6a3](https://rentry.co/zpl-oze-ade6a3)
+- [zpl eco ade6a3](https://rentry.co/zpl-eco-ade6a3)
+- [zpl krt ade6a3](https://rentry.co/zpl-krt-ade6a3)
+- [zpl ene ade6a3](https://rentry.co/zpl-ene-ade6a3)
+- [zpl sol ade6a3](https://rentry.co/zpl-sol-ade6a3)
+
 ## Balcony solar: trzy stany USA legislują jednocześnie, a polskie firmy BIPV rosną w Europie
 
 Źródło: [balcony solar legislacja usa bipv polska europa](https://ecoaudyt.app/blog/balcony-solar-legislacja-usa-bipv-polska-europa)
@@ -3003,6 +3090,34 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [zpl krt 2e4399](https://rentry.co/zpl-krt-2e4399)
 - [zpl ene 2e4399](https://rentry.co/zpl-ene-2e4399)
 - [zpl sol 2e4399](https://rentry.co/zpl-sol-2e4399)
+
+## Deloitte: w USA wsparcie dla wiatru i PV ma wygasać szybciej niż dla magazynów energii
+
+Źródło: [deloitte usa oze magazyny energii wsparcie 2026](https://ecoaudyt.app/blog/deloitte-usa-oze-magazyny-energii-wsparcie-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [deloitte w usa wsparcie dla wiatru i pv ma wygasac szybciej ](https://effectiveone.mataroa.blog/blog/deloitte-w-usa-wsparcie-dla-wiatru-i-pv-ma-wygasac-szybciej-niz-dla-magazynow-energii/)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-2)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-3)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-4)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-5)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-6)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-7)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-8)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-9)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-10)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-11)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-12)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-13)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-14)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-15)
+- [Deloitte w USA wsparcie dla wiatru i PV ma wygasać szybciej ](https://telegra.ph/Deloitte-w-USA-wsparcie-dla-wiatru-i-PV-ma-wygasać-szybciej-niż-dla-magazynów-energii-05-06-16)
+- [zpl oze 8f66c3](https://rentry.co/zpl-oze-8f66c3)
+- [zpl krt 8f66c3](https://rentry.co/zpl-krt-8f66c3)
+- [zpl ene 8f66c3](https://rentry.co/zpl-ene-8f66c3)
+- [zpl sol 8f66c3](https://rentry.co/zpl-sol-8f66c3)
 
 ## Francja przetarg 10 GW offshore. Polska jest ciągle obserwatorem
 
