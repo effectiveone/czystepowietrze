@@ -1,7 +1,7 @@
 ---
 title: "Artykuły o OZE, dotacjach i energii odnawialnej – pełna lista zasobów"
 description: "Kompletna lista artykułów i poradników o programach dofinansowania OZE w Polsce: Czyste Powietrze, Mój Prąd, fotowoltaika, pompy ciepła i inne."
-date: 2026-05-06T15:21:34Z
+date: 2026-05-07T11:33:35Z
 draft: false
 author: "Redakcja CzystePowietrze-Dotacje.pl"
 tags:
@@ -20,7 +20,7 @@ Poniżej zebraliśmy obszerną listę artykułów, analiz i poradników dotyczą
 programów dofinansowania (Czyste Powietrze, Mój Prąd, NFOŚ) oraz praktycznych aspektów
 instalacji fotowoltaiki i pomp ciepła w Polsce.
 
-Lista obejmuje **3551 materiałów** z 197 tematów.
+Lista obejmuje **3617 materiałów** z 200 tematów.
 
 ## Spółdzielnia energetyczna jako odpowiedź na wyłączenia OZE. Jak działa i kiedy ma sens?
 
@@ -2950,6 +2950,93 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [zpl krt ade6a3](https://rentry.co/zpl-krt-ade6a3)
 - [zpl ene ade6a3](https://rentry.co/zpl-ene-ade6a3)
 - [zpl sol ade6a3](https://rentry.co/zpl-sol-ade6a3)
+
+## IRENA liczy koszt OZE 24/7. Nie chodzi już tylko o tanią energię, ale o tanią energię dostępną wtedy, kiedy jest potrzebna
+
+Źródło: [irena 24 7 renewables firm lcoe analiza 2026](https://ecoaudyt.app/blog/irena-24-7-renewables-firm-lcoe-analiza-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [irena liczy koszt oze 247 nie chodzi juz tylko o tania energ](https://effectiveone.mataroa.blog/blog/irena-liczy-koszt-oze-247-nie-chodzi-juz-tylko-o-tania-energie-ale-o-tania-energie-dostepna-wtedy-kiedy-jest-potrzebna/)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-2)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-3)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-4)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-5)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-6)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-7)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-8)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-9)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-10)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-11)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-12)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-13)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-14)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-15)
+- [IRENA liczy koszt OZE 247 Nie chodzi już tylko o tanią energ](https://telegra.ph/IRENA-liczy-koszt-OZE-247-Nie-chodzi-już-tylko-o-tanią-energię-ale-o-tanią-energię-dostępną-wtedy-kiedy-jest-potrzebna-05-07-16)
+- [zpl oze f93273](https://rentry.co/zpl-oze-f93273)
+- [zpl eco f93273](https://rentry.co/zpl-eco-f93273)
+- [zpl krt f93273](https://rentry.co/zpl-krt-f93273)
+- [zpl ene f93273](https://rentry.co/zpl-ene-f93273)
+- [zpl sol f93273](https://rentry.co/zpl-sol-f93273)
+
+## Rząd przyjął projekt UDER92. Prostsze rachunki, 21 dni na licznik i wyraźniejsza rola magazynów ciepła
+
+Źródło: [uder92 deregulacja energetyki rachunki prad 2026](https://ecoaudyt.app/blog/uder92-deregulacja-energetyki-rachunki-prad-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [rzad przyja projekt uder92 prostsze rachunki 21 dni na liczn](https://effectiveone.mataroa.blog/blog/rzad-przyja-projekt-uder92-prostsze-rachunki-21-dni-na-licznik-i-wyrazniejsza-rola-magazynow-ciepa/)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-2)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-3)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-4)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-5)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-6)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-7)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-8)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-9)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-10)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-11)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-12)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-13)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-14)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-15)
+- [Rząd przyjął projekt UDER92 Prostsze rachunki 21 dni na licz](https://telegra.ph/Rząd-przyjął-projekt-UDER92-Prostsze-rachunki-21-dni-na-licznik-i-wyraźniejsza-rola-magazynów-ciepła-05-07-16)
+- [zpl oze 4d421c](https://rentry.co/zpl-oze-4d421c)
+- [zpl eco 4d421c](https://rentry.co/zpl-eco-4d421c)
+- [zpl krt 4d421c](https://rentry.co/zpl-krt-4d421c)
+- [zpl ene 4d421c](https://rentry.co/zpl-ene-4d421c)
+- [zpl sol 4d421c](https://rentry.co/zpl-sol-4d421c)
+
+## Solar nad kanałami w Kalifornii ogranicza parowanie wody i glony. Pilotaż pokazuje podwójną korzyść
+
+Źródło: [solar na kanalach kalifornia woda oze 2026](https://ecoaudyt.app/blog/solar-na-kanalach-kalifornia-woda-oze-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [solar nad kanaami w kalifornii ogranicza parowanie wody i gl](https://effectiveone.mataroa.blog/blog/solar-nad-kanaami-w-kalifornii-ogranicza-parowanie-wody-i-glony-pilotaz-pokazuje-podwojna-korzysc/)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-2)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-3)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-4)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-5)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-6)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-7)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-8)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-9)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-10)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-11)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-12)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-13)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-14)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-15)
+- [Solar nad kanałami w Kalifornii ogranicza parowanie wody i g](https://telegra.ph/Solar-nad-kanałami-w-Kalifornii-ogranicza-parowanie-wody-i-glony-Pilotaż-pokazuje-podwójną-korzyść-05-07-16)
+- [zpl oze a6b994](https://rentry.co/zpl-oze-a6b994)
+- [zpl eco a6b994](https://rentry.co/zpl-eco-a6b994)
+- [zpl krt a6b994](https://rentry.co/zpl-krt-a6b994)
+- [zpl ene a6b994](https://rentry.co/zpl-ene-a6b994)
+- [zpl sol a6b994](https://rentry.co/zpl-sol-a6b994)
 
 ## Balcony solar: trzy stany USA legislują jednocześnie, a polskie firmy BIPV rosną w Europie
 
