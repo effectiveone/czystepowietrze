@@ -1,7 +1,7 @@
 ---
 title: "Artykuły o OZE, dotacjach i energii odnawialnej – pełna lista zasobów"
 description: "Kompletna lista artykułów i poradników o programach dofinansowania OZE w Polsce: Czyste Powietrze, Mój Prąd, fotowoltaika, pompy ciepła i inne."
-date: 2026-05-07T11:33:35Z
+date: 2026-05-07T16:04:09Z
 draft: false
 author: "Redakcja CzystePowietrze-Dotacje.pl"
 tags:
@@ -20,7 +20,7 @@ Poniżej zebraliśmy obszerną listę artykułów, analiz i poradników dotyczą
 programów dofinansowania (Czyste Powietrze, Mój Prąd, NFOŚ) oraz praktycznych aspektów
 instalacji fotowoltaiki i pomp ciepła w Polsce.
 
-Lista obejmuje **3617 materiałów** z 200 tematów.
+Lista obejmuje **3705 materiałów** z 204 tematów.
 
 ## Spółdzielnia energetyczna jako odpowiedź na wyłączenia OZE. Jak działa i kiedy ma sens?
 
@@ -3037,6 +3037,122 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [zpl krt a6b994](https://rentry.co/zpl-krt-a6b994)
 - [zpl ene a6b994](https://rentry.co/zpl-ene-a6b994)
 - [zpl sol a6b994](https://rentry.co/zpl-sol-a6b994)
+
+## EPBD zmienia logikę publicznego wsparcia dla ogrzewania. Gaz ma tracić uprzywilejowanie, a OZE i modernizacja budynków zyskują
+
+Źródło: [epbd finansowanie publiczne ogrzewanie kotly gazowe 2026](https://ecoaudyt.app/blog/epbd-finansowanie-publiczne-ogrzewanie-kotly-gazowe-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [epbd zmienia logike publicznego wsparcia dla ogrzewania gaz ](https://effectiveone.mataroa.blog/blog/epbd-zmienia-logike-publicznego-wsparcia-dla-ogrzewania-gaz-ma-tracic-uprzywilejowanie-a-oze-i-modernizacja-budynkow-zyskuja/)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-2)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-3)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-4)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-5)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-6)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-7)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-8)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-9)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-10)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-11)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-12)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-13)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-14)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-15)
+- [EPBD zmienia logikę publicznego wsparcia dla ogrzewania Gaz ](https://telegra.ph/EPBD-zmienia-logikę-publicznego-wsparcia-dla-ogrzewania-Gaz-ma-tracić-uprzywilejowanie-a-OZE-i-modernizacja-budynków-zyskują-05-07-16)
+- [zpl oze a9449e](https://rentry.co/zpl-oze-a9449e)
+- [zpl eco a9449e](https://rentry.co/zpl-eco-a9449e)
+- [zpl krt a9449e](https://rentry.co/zpl-krt-a9449e)
+- [zpl ene a9449e](https://rentry.co/zpl-ene-a9449e)
+- [zpl sol a9449e](https://rentry.co/zpl-sol-a9449e)
+
+## Ember Global Electricity Review 2026. Świat dołożył więcej słońca i baterii, ale prawdziwa zmiana dzieje się w strukturze systemu
+
+Źródło: [ember global electricity review 2026 solar baterie](https://ecoaudyt.app/blog/ember-global-electricity-review-2026-solar-baterie)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [ember global electricity review 2026 swiat doozy wiecej sonc](https://effectiveone.mataroa.blog/blog/ember-global-electricity-review-2026-swiat-doozy-wiecej-sonca-i-baterii-ale-prawdziwa-zmiana-dzieje-sie-w-strukturze-systemu/)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-2)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-3)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-4)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-5)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-6)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-7)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-8)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-9)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-10)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-11)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-12)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-13)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-14)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-15)
+- [Ember Global Electricity Review 2026 Świat dołożył więcej sł](https://telegra.ph/Ember-Global-Electricity-Review-2026-Świat-dołożył-więcej-słońca-i-baterii-ale-prawdziwa-zmiana-dzieje-się-w-strukturze-systemu-05-07-16)
+- [zpl oze f060ab](https://rentry.co/zpl-oze-f060ab)
+- [zpl eco f060ab](https://rentry.co/zpl-eco-f060ab)
+- [zpl krt f060ab](https://rentry.co/zpl-krt-f060ab)
+- [zpl ene f060ab](https://rentry.co/zpl-ene-f060ab)
+- [zpl sol f060ab](https://rentry.co/zpl-sol-f060ab)
+
+## Ember: wiatr i słońce po raz pierwszy wyprzedziły paliwa kopalne w UE. To przełom, ale nie koniec problemów z gazem
+
+Źródło: [ember 2026 oze wyprzedzily kopalne ue analiza](https://ecoaudyt.app/blog/ember-2026-oze-wyprzedzily-kopalne-ue-analiza)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [ember wiatr i sonce po raz pierwszy wyprzedziy paliwa kopaln](https://effectiveone.mataroa.blog/blog/ember-wiatr-i-sonce-po-raz-pierwszy-wyprzedziy-paliwa-kopalne-w-ue-to-przeom-ale-nie-koniec-problemow-z-gazem/)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-2)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-3)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-4)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-5)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-6)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-7)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-8)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-9)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-10)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-11)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-12)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-13)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-14)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-15)
+- [Ember wiatr i słońce po raz pierwszy wyprzedziły paliwa kopa](https://telegra.ph/Ember-wiatr-i-słońce-po-raz-pierwszy-wyprzedziły-paliwa-kopalne-w-UE-To-przełom-ale-nie-koniec-problemów-z-gazem-05-07-16)
+- [zpl oze 86f0fe](https://rentry.co/zpl-oze-86f0fe)
+- [zpl eco 86f0fe](https://rentry.co/zpl-eco-86f0fe)
+- [zpl krt 86f0fe](https://rentry.co/zpl-krt-86f0fe)
+- [zpl ene 86f0fe](https://rentry.co/zpl-ene-86f0fe)
+- [zpl sol 86f0fe](https://rentry.co/zpl-sol-86f0fe)
+
+## Koszty baterii w 2025 roku spadły o 45%. To już nie tani magazyn energii — to zmiana logiki rynku
+
+Źródło: [bess koszty baterii 45 procent masowy rynek 2026](https://ecoaudyt.app/blog/bess-koszty-baterii-45-procent-masowy-rynek-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [koszty baterii w 2025 roku spady o 45 to juz nie tani magazy](https://effectiveone.mataroa.blog/blog/koszty-baterii-w-2025-roku-spady-o-45-to-juz-nie-tani-magazyn-energii-to-zmiana-logiki-rynku/)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-2)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-3)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-4)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-5)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-6)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-7)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-8)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-9)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-10)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-11)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-12)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-13)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-14)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-15)
+- [Koszty baterii w 2025 roku spadły o 45 To już nie tani magaz](https://telegra.ph/Koszty-baterii-w-2025-roku-spadły-o-45-To-już-nie-tani-magazyn-energii--to-zmiana-logiki-rynku-05-07-16)
+- [zpl oze 8f205d](https://rentry.co/zpl-oze-8f205d)
+- [zpl eco 8f205d](https://rentry.co/zpl-eco-8f205d)
+- [zpl krt 8f205d](https://rentry.co/zpl-krt-8f205d)
+- [zpl ene 8f205d](https://rentry.co/zpl-ene-8f205d)
+- [zpl sol 8f205d](https://rentry.co/zpl-sol-8f205d)
 
 ## Balcony solar: trzy stany USA legislują jednocześnie, a polskie firmy BIPV rosną w Europie
 
