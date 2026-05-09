@@ -1,7 +1,7 @@
 ---
 title: "Artykuły o OZE, dotacjach i energii odnawialnej – pełna lista zasobów"
 description: "Kompletna lista artykułów i poradników o programach dofinansowania OZE w Polsce: Czyste Powietrze, Mój Prąd, fotowoltaika, pompy ciepła i inne."
-date: 2026-05-08T15:47:05Z
+date: 2026-05-09T10:16:53Z
 draft: false
 author: "Redakcja CzystePowietrze-Dotacje.pl"
 tags:
@@ -20,7 +20,7 @@ Poniżej zebraliśmy obszerną listę artykułów, analiz i poradników dotyczą
 programów dofinansowania (Czyste Powietrze, Mój Prąd, NFOŚ) oraz praktycznych aspektów
 instalacji fotowoltaiki i pomp ciepła w Polsce.
 
-Lista obejmuje **3947 materiałów** z 215 tematów.
+Lista obejmuje **4051 materiałów** z 221 tematów.
 
 ## Spółdzielnia energetyczna jako odpowiedź na wyłączenia OZE. Jak działa i kiedy ma sens?
 
@@ -3473,6 +3473,93 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [zpl ene 74428a](https://rentry.co/zpl-ene-74428a)
 - [zpl sol 74428a](https://rentry.co/zpl-sol-74428a)
 
+## UE ma ograniczać finansowanie projektów z falownikami wysokiego ryzyka. Dla rynku OZE kluczowe będzie to, jak przełoży się to na koszty i dostępność kapitału
+
+Źródło: [ue ma ograniczac finansowanie projektow z falownikami wysokiego ryzyka dla rynku oze kluczowe bedzie to jak przelozy sie to na koszty i dostepnosc kapitalu](https://ecoaudyt.app/blog/ue-ma-ograniczac-finansowanie-projektow-z-falownikami-wysokiego-ryzyka-dla-rynku-oze-kluczowe-bedzie-to-jak-przelozy-sie-to-na-koszty-i-dostepnosc-kapitalu)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [ue ma ograniczac finansowanie projektow z falownikami wysoki](https://effectiveone.mataroa.blog/blog/ue-ma-ograniczac-finansowanie-projektow-z-falownikami-wysokiego-ryzyka-dla-rynku-oze-kluczowe-bedzie-to-jak-przeozy-sie-to-na-koszty-i-dostepnosc-kapitau/)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-2)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-3)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-4)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-5)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-6)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-7)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-8)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-9)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-10)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-11)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-12)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-13)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-14)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-15)
+- [UE ma ograniczać finansowanie projektów z falownikami wysoki](https://telegra.ph/UE-ma-ograniczać-finansowanie-projektów-z-falownikami-wysokiego-ryzyka-Dla-rynku-OZE-kluczowe-będzie-to-jak-przełoży-się-to-na-k-05-09-16)
+- [zpl oze 80b6fa](https://rentry.co/zpl-oze-80b6fa)
+- [zpl eco 80b6fa](https://rentry.co/zpl-eco-80b6fa)
+- [zpl krt 80b6fa](https://rentry.co/zpl-krt-80b6fa)
+- [zpl ene 80b6fa](https://rentry.co/zpl-ene-80b6fa)
+- [zpl sol 80b6fa](https://rentry.co/zpl-sol-80b6fa)
+
+## OZE pokryły nawet 78 proc. zapotrzebowania Polski w majówkę. Rekord generacji pokazał też, gdzie system napotyka ograniczenia
+
+Źródło: [oze pokryly nawet 78 proc zapotrzebowania polski w majowke rekord generacji pokazal tez gdzie system napotyka ograniczenia](https://ecoaudyt.app/blog/oze-pokryly-nawet-78-proc-zapotrzebowania-polski-w-majowke-rekord-generacji-pokazal-tez-gdzie-system-napotyka-ograniczenia)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [oze pokryy nawet 78 proc zapotrzebowania polski w majowke re](https://effectiveone.mataroa.blog/blog/oze-pokryy-nawet-78-proc-zapotrzebowania-polski-w-majowke-rekord-generacji-pokaza-tez-gdzie-system-napotyka-ograniczenia/)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-2)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-3)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-4)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-5)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-6)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-7)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-8)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-9)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-10)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-11)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-12)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-13)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-14)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-15)
+- [OZE pokryły nawet 78 proc zapotrzebowania Polski w majówkę R](https://telegra.ph/OZE-pokryły-nawet-78-proc-zapotrzebowania-Polski-w-majówkę-Rekord-generacji-pokazał-też-gdzie-system-napotyka-ograniczenia-05-09-16)
+- [zpl oze 5f2246](https://rentry.co/zpl-oze-5f2246)
+- [zpl eco 5f2246](https://rentry.co/zpl-eco-5f2246)
+- [zpl krt 5f2246](https://rentry.co/zpl-krt-5f2246)
+- [zpl ene 5f2246](https://rentry.co/zpl-ene-5f2246)
+- [zpl sol 5f2246](https://rentry.co/zpl-sol-5f2246)
+
+## R.Power zabezpiecza finansowanie dla 80 MW PV. Dla rynku ważniejsza od samej skali jest jakość projektu
+
+Źródło: [rpower lasocice 80mw finansowanie 2026](https://ecoaudyt.app/blog/rpower-lasocice-80mw-finansowanie-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [rpower zabezpiecza finansowanie dla 80 mw pv dla rynku wazni](https://effectiveone.mataroa.blog/blog/rpower-zabezpiecza-finansowanie-dla-80-mw-pv-dla-rynku-wazniejsza-od-samej-skali-jest-jakosc-projektu/)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-2)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-3)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-4)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-5)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-6)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-7)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-8)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-9)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-10)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-11)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-12)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-13)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-14)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-15)
+- [RPower zabezpiecza finansowanie dla 80 MW PV Dla rynku ważni](https://telegra.ph/RPower-zabezpiecza-finansowanie-dla-80-MW-PV-Dla-rynku-ważniejsza-od-samej-skali-jest-jakość-projektu-05-09-16)
+- [zpl oze c41956](https://rentry.co/zpl-oze-c41956)
+- [zpl eco c41956](https://rentry.co/zpl-eco-c41956)
+- [zpl krt c41956](https://rentry.co/zpl-krt-c41956)
+- [zpl ene c41956](https://rentry.co/zpl-ene-c41956)
+- [zpl sol c41956](https://rentry.co/zpl-sol-c41956)
+
 ## Balcony solar: trzy stany USA legislują jednocześnie, a polskie firmy BIPV rosną w Europie
 
 Źródło: [balcony solar legislacja usa bipv polska europa](https://ecoaudyt.app/blog/balcony-solar-legislacja-usa-bipv-polska-europa)
@@ -3641,6 +3728,34 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [zpl ene 8f66c3](https://rentry.co/zpl-ene-8f66c3)
 - [zpl sol 8f66c3](https://rentry.co/zpl-sol-8f66c3)
 
+## Pentagon wstrzymuje część projektów wiatrowych w USA. Dla rynku to sygnał, że ryzyko regulacyjne może blokować nawet rozwinięty pipeline
+
+Źródło: [pentagon wstrzymuje czesc projektow wiatrowych w usa dla rynku to sygnal ze ryzyko regulacyjne moze blokowac nawet rozwiniety pipeline](https://ecoaudyt.app/blog/pentagon-wstrzymuje-czesc-projektow-wiatrowych-w-usa-dla-rynku-to-sygnal-ze-ryzyko-regulacyjne-moze-blokowac-nawet-rozwiniety-pipeline)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [pentagon wstrzymuje czesc projektow wiatrowych w usa dla ryn](https://effectiveone.mataroa.blog/blog/pentagon-wstrzymuje-czesc-projektow-wiatrowych-w-usa-dla-rynku-to-sygna-ze-ryzyko-regulacyjne-moze-blokowac-nawet-rozwiniety-pipeline/)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09-2)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09-3)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09-4)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09-5)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09-6)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09-7)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09-8)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09-9)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09-10)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09-11)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09-12)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09-13)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09-14)
+- [Pentagon wstrzymuje część projektów wiatrowych w USA Dla ryn](https://telegra.ph/Pentagon-wstrzymuje-część-projektów-wiatrowych-w-USA-Dla-rynku-to-sygnał-że-ryzyko-regulacyjne-może-blokować-nawet-rozwinięty-pi-05-09-15)
+- [zpl oze 946ded](https://rentry.co/zpl-oze-946ded)
+- [zpl eco 946ded](https://rentry.co/zpl-eco-946ded)
+- [zpl krt 946ded](https://rentry.co/zpl-krt-946ded)
+- [zpl ene 946ded](https://rentry.co/zpl-ene-946ded)
+- [zpl sol 946ded](https://rentry.co/zpl-sol-946ded)
+
 ## Francja przetarg 10 GW offshore. Polska jest ciągle obserwatorem
 
 Źródło: [francja 10gw offshore przetarg ao9 ao10 polska baltyk 2026](https://ecoaudyt.app/blog/francja-10gw-offshore-przetarg-ao9-ao10-polska-baltyk-2026)
@@ -3663,6 +3778,29 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Francja przetarg 10 GW offshore Polska jest ciągle obserwato](https://telegra.ph/Francja-przetarg-10-GW-offshore-Polska-jest-ciągle-obserwatorem-04-28-7)
 - [Francja przetarg 10 GW offshore Polska jest ciągle obserwato](https://telegra.ph/Francja-przetarg-10-GW-offshore-Polska-jest-ciągle-obserwatorem-04-28-8)
 - [Francja przetarg 10 GW offshore Polska jest ciągle obserwato](https://telegra.ph/Francja-przetarg-10-GW-offshore-Polska-jest-ciągle-obserwatorem-04-28-9)
+
+## Net-billing 2026. Przy rosnącej autokonsumpcji i coraz częstszych niskich cenach prądu sama fotowoltaika nie zawsze wystarcza
+
+Źródło: [net billing 2026 autokonsumpcja kiedy pv nie wystarczy](https://ecoaudyt.app/blog/net-billing-2026-autokonsumpcja-kiedy-pv-nie-wystarczy)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [Net billing 2026 Przy rosnącej autokonsumpcji i coraz częsts](https://telegra.ph/Net-billing-2026-Przy-rosnącej-autokonsumpcji-i-coraz-częstszych-niskich-cenach-prądu-sama-fotowoltaika-nie-zawsze-wystarcza-05-09)
+- [Net billing 2026 Przy rosnącej autokonsumpcji i coraz częsts](https://telegra.ph/Net-billing-2026-Przy-rosnącej-autokonsumpcji-i-coraz-częstszych-niskich-cenach-prądu-sama-fotowoltaika-nie-zawsze-wystarcza-05-09-2)
+- [Net billing 2026 Przy rosnącej autokonsumpcji i coraz częsts](https://telegra.ph/Net-billing-2026-Przy-rosnącej-autokonsumpcji-i-coraz-częstszych-niskich-cenach-prądu-sama-fotowoltaika-nie-zawsze-wystarcza-05-09-3)
+- [Net billing 2026 Przy rosnącej autokonsumpcji i coraz częsts](https://telegra.ph/Net-billing-2026-Przy-rosnącej-autokonsumpcji-i-coraz-częstszych-niskich-cenach-prądu-sama-fotowoltaika-nie-zawsze-wystarcza-05-09-4)
+- [Net billing 2026 Przy rosnącej autokonsumpcji i coraz częsts](https://telegra.ph/Net-billing-2026-Przy-rosnącej-autokonsumpcji-i-coraz-częstszych-niskich-cenach-prądu-sama-fotowoltaika-nie-zawsze-wystarcza-05-09-5)
+- [Net billing 2026 Przy rosnącej autokonsumpcji i coraz częsts](https://telegra.ph/Net-billing-2026-Przy-rosnącej-autokonsumpcji-i-coraz-częstszych-niskich-cenach-prądu-sama-fotowoltaika-nie-zawsze-wystarcza-05-09-6)
+- [Net billing 2026 Przy rosnącej autokonsumpcji i coraz częsts](https://telegra.ph/Net-billing-2026-Przy-rosnącej-autokonsumpcji-i-coraz-częstszych-niskich-cenach-prądu-sama-fotowoltaika-nie-zawsze-wystarcza-05-09-7)
+- [Net billing 2026 Przy rosnącej autokonsumpcji i coraz częsts](https://telegra.ph/Net-billing-2026-Przy-rosnącej-autokonsumpcji-i-coraz-częstszych-niskich-cenach-prądu-sama-fotowoltaika-nie-zawsze-wystarcza-05-09-8)
+- [Net billing 2026 Przy rosnącej autokonsumpcji i coraz częsts](https://telegra.ph/Net-billing-2026-Przy-rosnącej-autokonsumpcji-i-coraz-częstszych-niskich-cenach-prądu-sama-fotowoltaika-nie-zawsze-wystarcza-05-09-9)
+- [Net billing 2026 Przy rosnącej autokonsumpcji i coraz częsts](https://telegra.ph/Net-billing-2026-Przy-rosnącej-autokonsumpcji-i-coraz-częstszych-niskich-cenach-prądu-sama-fotowoltaika-nie-zawsze-wystarcza-05-09-10)
+- [Net billing 2026 Przy rosnącej autokonsumpcji i coraz częsts](https://telegra.ph/Net-billing-2026-Przy-rosnącej-autokonsumpcji-i-coraz-częstszych-niskich-cenach-prądu-sama-fotowoltaika-nie-zawsze-wystarcza-05-09-11)
+- [zpl oze c3553a](https://rentry.co/zpl-oze-c3553a)
+- [zpl eco c3553a](https://rentry.co/zpl-eco-c3553a)
+- [zpl krt c3553a](https://rentry.co/zpl-krt-c3553a)
+- [zpl ene c3553a](https://rentry.co/zpl-ene-c3553a)
+- [zpl sol c3553a](https://rentry.co/zpl-sol-c3553a)
 
 ## Zielony wodór w Europie Środkowej — Polska i Węgry chcą wspólnie budować system aukcji
 
@@ -5473,3 +5611,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Wiatrak domowy za 20 tys zł dał 69 kWh Fotowoltaika w tym sa](https://telegra.ph/Wiatrak-domowy-za-20-tys-zł-dał-69-kWh-Fotowoltaika-w-tym-samym-czasie--150-kWh-04-28-6)
 - [Wiatrak domowy za 20 tys zł dał 69 kWh Fotowoltaika w tym sa](https://telegra.ph/Wiatrak-domowy-za-20-tys-zł-dał-69-kWh-Fotowoltaika-w-tym-samym-czasie--150-kWh-04-28-7)
 - [Wiatrak domowy za 20 tys zł dał 69 kWh Fotowoltaika w tym sa](https://telegra.ph/Wiatrak-domowy-za-20-tys-zł-dał-69-kWh-Fotowoltaika-w-tym-samym-czasie--150-kWh-04-28-8)
+
+## U.S. community solar przekracza 10 GW, ale kolejny etap rynku zależy od pipeline'u i sieci
+
+Źródło: [usa community solar 10 gw rynek pipeline 2026](https://ecoaudyt.app/blog/usa-community-solar-10-gw-rynek-pipeline-2026)
+
+Opracowania i dyskusje na temat tego zagadnienia:
+
+- [us community solar przekracza 10 gw ale kolejny etap rynku z](https://effectiveone.mataroa.blog/blog/us-community-solar-przekracza-10-gw-ale-kolejny-etap-rynku-zalezy-od-pipelineu-i-sieci/)
