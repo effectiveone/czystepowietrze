@@ -1,6 +1,6 @@
 ---
 title: "Headwinds: Heat pumps are extremely efficient. But can they save money? - M"
-date: 2026-05-14T14:04:19.541Z
+date: 2026-05-14T22:03:38.120Z
 draft: false
 description: "Headwinds: Heat pumps are extremely efficient. But can they save money? - MinnPost"
 author: "Agnieszka Kowalczyk"
@@ -35,32 +35,33 @@ Pompy ciepła to urządzenia, które wykorzystują energię z otoczenia (powietr
 
 W Polsce dostępne są dofinansowania na montaż pomp ciepła w ramach programu Czyste Powietrze. Co ważne dla wnioskodawcy, dofinansowanie może wynieść nawet do 30 000 zł.
 
-| Dofinansowanie | Kwota | Warunki |
+| Dofinansowanie | Kwota | Procent dofinansowania |
 | --- | --- | --- |
-| Podstawowe | 30 000 zł | Dla osób fizycznych, które chcą wymienić źródło ciepła na pompę ciepła |
-| Podwyższone | 50 000 zł | Dla osób fizycznych, które chcą wymienić źródło ciepła na pompę ciepła i spełniają dodatkowe warunki |
+| Podstawowe | 30 000 zł | 30% |
+| Podwyższone | 50 000 zł | 50% |
+| Najwyższe | 70 000 zł | 70% |
 
-Warto wiedzieć, że dofinansowanie może być wypłacone tylko raz na jeden budynek.
+Warto wiedzieć, że dofinansowanie jest przyznawane w ramach trzech poziomów dofinansowania: podstawowego, podwyższonego i najwyższego.
 
 ### Pułapki na które uważać
 
 1. **Koszt montażu**: koszt montażu pompy ciepła może być wyższy niż koszt zakupu samego urządzenia.
-2. **Warunki dofinansowania**: dofinansowanie jest dostępne tylko dla osób fizycznych, które spełniają określone warunki.
+2. **Dobór odpowiedniej mocy**: należy dobrać pompę ciepła o odpowiedniej mocy do potrzeb domu.
 
 ### Jak złożyć wniosek — 3 proste kroki
 
-1. **Sprawdź warunki dofinansowania**: zapoznaj się z warunkami dofinansowania i upewnij się, że spełniasz je.
-2. **Zbierz wymagane dokumenty**: zbierz wszystkie wymagane dokumenty, w tym fakturę za zakup pompy ciepła i umowę z wykonawcą.
+1. **Sprawdź dostępność dofinansowania**: sprawdź, czy Twój dom jest objęty programem Czyste Powietrze.
+2. **Zbierz wymagane dokumenty**: zbierz wymagane dokumenty, w tym fakturę za zakup pompy ciepła i umowę z wykonawcą.
 3. **Złóż wniosek**: złóż wniosek o dofinansowanie w wyznaczonym terminie.
 
 ### Najczęstsze pytania (FAQ)
 
-1. **Czy pompy ciepła są drogie w utrzymaniu?**
-Nie, pompy ciepła są stosunkowo tanie w utrzymaniu. Wymagają one jedynie regularnej konserwacji i przeglądu.
-2. **Czy dofinansowanie jest dostępne dla osób prawnych?**
-Nie, dofinansowanie w ramach programu Czyste Powietrze jest dostępne tylko dla osób fizycznych.
-3. **Jak długo trwa proces składania wniosku?**
-Proces składania wniosku może trwać kilka tygodni. Warto wiedzieć, że termin rozpatrzenia wniosku wynosi 30 dni."
+1. **Jakie są koszty eksploatacji pompy ciepła?**
+Koszty eksploatacji pompy ciepła są stosunkowo niskie i wynoszą około 100-200 zł miesięcznie.
+2. **Czy pompa ciepła może być używana w zimie?**
+Tak, pompy ciepła mogą być używane w zimie, ale ich efektywność może być niższa niż w okresie letnim.
+3. **Ile trwa montaż pompy ciepła?**
+Montaż pompy ciepła trwa zwykle kilka dni do tygodnia, w zależności od skomplikowania instalacji."
 }
 ```
 
@@ -69,13 +70,13 @@ Proces składania wniosku może trwać kilka tygodni. Warto wiedzieć, że termi
 > **Nota redakcyjna:** Powyższy artykuł został wygenerowany przez sztuczną inteligencję. Postać autora jest fikcyjna i stworzona wyłącznie na potrzeby redakcyjne. Treść ma charakter informacyjny i nie stanowi porady prawnej, finansowej ani technicznej. Przed podjęciem decyzji inwestycyjnych lub złożeniem wniosków dotacyjnych skonsultuj się z odpowiednim specjalistą.
 
 
-## Powiązane: OZE w Polsce w Q1 2026: fotowoltaika jest bliska 30 GW, a magazyn energii coraz częściej trafia do nowych instalacji
+## Powiązane: Francja uruchomiła pierwszą pływającą farmę wiatrową na Morzu Śródziemnym. To mały projekt o dużym znaczeniu technologicznym
 
 Temat ten jest szerzej omówiony na portalu **[ecoaudyt.app](https://ecoaudyt.app)** — bezpłatnej platformie audytów energetycznych i analiz OZE dla właścicieli nieruchomości.
 
-Przeczytaj artykuł: **[OZE w Polsce w Q1 2026: fotowoltaika jest bliska 30 GW, a magazyn energii coraz częściej trafia do nowych instalacji](https://ecoaudyt.app/blog/oze-w-polsce-w-q1-2026-fotowoltaika-jest-bliska-30-gw-a-magazyn-energii-coraz-cz)**
+Przeczytaj artykuł: **[Francja uruchomiła pierwszą pływającą farmę wiatrową na Morzu Śródziemnym. To mały projekt o dużym znaczeniu technologicznym](https://ecoaudyt.app/blog/francja-uruchomila-pierwsza-plywajaca-farme-wiatrowa-na-morzu-srodziemnym-to-mal)**
 
-> Najtwardsze publicznie dostępne dane pokazują dziś, że Polska zakończyła 2025 rok z 24,8 GW fotowoltaiki według ARE albo 25,5 GW według PSE. To już skala, która potwierdza wejście rynku PV w fazę infr…
+> Ocean Winds poinformował o dostarczeniu pierwszej energii elektrycznej z pływającej farmy EFGL u wybrzeży Francji. Sama skala projektu jest niewielka, bo mówimy o 30 MW. Mimo to temat ma znaczenie zna…
 
 Więcej poradników, kalkulatorów i analiz dotacyjnych na [ecoaudyt.app](https://ecoaudyt.app).
 
