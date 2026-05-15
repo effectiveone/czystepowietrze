@@ -1,6 +1,6 @@
 ---
 title: "Headwinds: Heat pumps are extremely efficient. But can they save money? - M"
-date: 2026-05-15T14:04:38.211Z
+date: 2026-05-15T14:05:11.002Z
 draft: false
 description: "Headwinds: Heat pumps are extremely efficient. But can they save money? - MinnPost"
 author: "Agnieszka Kowalczyk"
@@ -19,7 +19,7 @@ ai_generated: true
 
 ## Czy pompy ciepła mogą obniżyć koszty ogrzewania domu?
 
-Jako ekspert ds. dofinansowań OZE, często spotykam się z pytaniem, czy pompy ciepła są w stanie obniżyć koszty ogrzewania domu. Odpowiedź brzmi: tak! Pompy ciepła to niezwykle efektywne urządzenia, które mogą znacznie zmniejszyć wydatki na ogrzewanie.
+Jako ekspert ds. dofinansowań OZE, często spotykam się z pytaniem, czy pompy ciepła są w stanie obniżyć koszty ogrzewania domu. Odpowiedź brzmi: tak! Pompy ciepła to niezwykle efektywne urządzenia, które mogą znacząco zmniejszyć wydatki na ogrzewanie.
 
 ### Jak działają pompy ciepła?
 
@@ -44,23 +44,23 @@ Warto wiedzieć, że dofinansowanie jest udzielane w formie dotacji, która nie 
 
 ### Pułapki na które uważać
 
-1. **Koszty montażu**: koszty montażu pompy ciepła mogą być wyższe niż koszty zakupu samego urządzenia.
-2. **Warunki dofinansowania**: dofinansowanie jest udzielane pod warunkiem spełnienia określonych warunków, np. dotyczących dochodu wnioskodawcy.
+1. **Koszty montażu**: koszty montażu pompy ciepła mogą być wyższe niż koszty zakupu urządzenia.
+2. **Warunki dofinansowania**: dofinansowanie jest udzielane pod warunkiem spełnienia określonych warunków, np. wymiany źródła ciepła na pompę ciepła.
 
 ### Jak złożyć wniosek — 3 proste kroki
 
 1. **Sprawdź warunki dofinansowania**: zapoznaj się z warunkami dofinansowania i upewnij się, że spełniasz je.
-2. **Zbierz wymagane dokumenty**: zbierz wszystkie wymagane dokumenty, w tym fakturę za zakup pompy ciepła i umowę z wykonawcą.
+2. **Zbierz dokumenty**: zbierz niezbędne dokumenty, takie jak faktura za zakup pompy ciepła i umowa z wykonawcą.
 3. **Złóż wniosek**: złóż wniosek o dofinansowanie w wyznaczonym terminie.
 
 ### Najczęstsze pytania (FAQ)
 
 1. **Czy pompy ciepła są drogie w utrzymaniu?**
 Nie, pompy ciepła są stosunkowo tanie w utrzymaniu. Wymagają jedynie regularnej konserwacji i przeglądu.
-2. **Czy dofinansowanie na pompę ciepła jest dostępne dla wszystkich?**
+2. **Czy dofinansowanie jest dostępne dla wszystkich?**
 Nie, dofinansowanie jest dostępne tylko dla osób fizycznych, które spełniają określone warunki.
-3. **Ile czasu trwa montaż pompy ciepła?**
-Montaż pompy ciepła może trwać od kilku dni do kilku tygodni, w zależności od skomplikowania instalacji."
+3. **Jak długo trwa proces składania wniosku?**
+Proces składania wniosku może trwać kilka tygodni. Warto wiedzieć, że termin rozpatrzenia wniosku wynosi 30 dni."
 }
 ```
 
