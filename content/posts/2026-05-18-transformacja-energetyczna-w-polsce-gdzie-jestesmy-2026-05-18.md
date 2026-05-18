@@ -1,6 +1,6 @@
 ---
 title: "Transformacja energetyczna w Polsce – gdzie jesteśmy?"
-date: 2026-05-18T14:03:53.402Z
+date: 2026-05-18T22:04:15.125Z
 draft: false
 description: "Transformacja energetyczna w Polsce – gdzie jesteśmy?"
 author: "Agnieszka Kowalczyk"
@@ -17,48 +17,48 @@ slug: "transformacja-energetyczna-w-polsce-gdzie-jestesmy-2026-05-18"
 ai_generated: true
 ---
 
-# Transformacja energetyczna w Polsce - stan obecny i perspektywy
+# Transformacja energetyczna w Polsce - postępy i wyzwania
 
-Jako ekspert ds. dofinansowań OZE, często spotykam się z pytaniami o stan transformacji energetycznej w Polsce. Gdzie jesteśmy obecnie, i jakie wyzwania stoją przed nami? W tym artykule postaram się odpowiedzieć na te pytania i przedstawić perspektywy dla rozwoju odnawialnych źródeł energii w Polsce.
+Jako ekspert ds. dofinansowań OZE, często spotykam się z pytaniami o to, jak Polska radzi sobie z transformacją energetyczną. W tym artykule postaram się odpowiedzieć na te pytania i przedstawić obecny stan rzeczy.
 
-## Stan obecny
+## Gdzie jesteśmy?
 
-Transformacja energetyczna w Polsce to proces, który już się rozpoczął. W ostatnich latach, kraj nasz poczynił znaczne postępy w rozwoju odnawialnych źródeł energii (OZE). W 2025 roku, OZE stanowiły już ponad 20% mocy zainstalowanej w polskiej energetyce.
+Transformacja energetyczna w Polsce to proces, który już trwa. W praktyce oznacza to, że coraz więcej osób decyduje się na inwestycje w odnawialne źródła energii (OZE), takie jak panele słoneczne czy kotły na pellet. Dzięki tym inwestycjom, Polska stopniowo zmniejsza swoją zależność od węgla i innych paliw kopalnych.
 
-Warto wiedzieć, że Polska zobowiązała się do osiągnięcia w 2030 roku co najmniej 32% udziału OZE w ogólnym zużyciu energii. To ambitny cel, ale w praktyce oznacza to, że będziemy musieli jeszcze bardziej przyspieszyć rozwój sektora OZE.
+## Program Czyste Powietrze
 
-## Dotacje na OZE
+Jednym z kluczowych programów wspierających transformację energetyczną w Polsce jest program Czyste Powietrze. To program dofinansowań, który umożliwia właścicielom domów uzyskanie wsparcia finansowego na inwestycje w OZE i poprawę efektywności energetycznej budynków.
 
-Co ważne dla wnioskodawcy, Polska oferuje różne formy wsparcia dla inwestycji w OZE. Jedną z nich jest program "Czyste Powietrze", który oferuje dofinansowanie do wymiany kotłów na paliwa stałe na kotły ekologiczne, a także do instalacji OZE.
+### Dofinansowania w ramach programu Czyste Powietrze
 
-W ramach programu "Czyste Powietrze" można uzyskać dofinansowanie w wysokości:
+W ramach programu Czyste Powietrze, wnioskodawcy mogą uzyskać dofinansowanie w wysokości:
 
-* do 30 000 zł na wymianę kotła,
-* do 50 000 zł na instalację OZE.
+* do 30 000 zł na zakup i montaż paneli słonecznych
+* do 25 000 zł na zakup i montaż kotła na pellet
+* do 40 000 zł na kompleksową termomodernizację budynku
 
-## Rodzaje dofinansowań
+Co ważne dla wnioskodawcy, dofinansowanie może wynieść nawet do 90% kosztów inwestycji.
 
-Istnieje kilka rodzajów dofinansowań dostępnych dla właścicieli domów, którzy chcą zainwestować w OZE. Poniższa tabela przedstawia porównanie wybranych programów:
+## Krok po kroku - jak uzyskać dofinansowanie
 
-| Program | Dofinansowanie | Procent dofinansowania |
-| --- | --- | --- |
-| Czyste Powietrze | do 30 000 zł | do 85% |
-| NFOŚiGW | do 100 000 zł | do 50% |
-| WFOŚiGW | do 50 000 zł | do 70% |
+Oto kroki, które należy podjąć, aby uzyskać dofinansowanie w ramach programu Czyste Powietrze:
+
+1. **Sprawdź, czy możesz ubiegać się o dofinansowanie**: Wnioskować mogą osoby fizyczne, które są właścicielami lub współwłaścicielami domu jednorodzinnego.
+2. **Zbierz wymagane dokumenty**: Należy przygotować m.in. faktury za zakup materiałów, umowy z wykonawcami, a także dokumenty potwierdzające własność nieruchomości.
+3. **Złóż wniosek**: Wniosek należy złożyć w wojewódzkim funduszu ochrony środowiska i gospodarki wodnej (WFOŚiGW) lub w Narodowym funduszu ochrony środowiska i gospodarki wodnej (NFOŚiGW).
 
 ## Pułapki na które uważać
 
-Podczas ubiegania się o dofinansowanie na OZE, warto uważać na kilka pułapek. Oto kilka z nich:
+Warto wiedzieć, że istnieją pewne pułapki, na które należy uważać podczas ubiegania się o dofinansowanie. Należą do nich:
 
-1. **Brak doświadczenia**: nie wszystkie firmy mają doświadczenie w realizacji projektów OZE. Warto wybrać firmę, która ma już za sobą podobne projekty.
-2. **Niewłaściwa dokumentacja**: błędy w dokumentacji mogą opóźnić lub nawet uniemożliwić uzyskanie dofinansowania.
-3. **Brak terminowości**: terminy składania wniosków są zwykle ograniczone. Warto przygotować wniosek wcześniej, aby uniknąć problemów.
+* **Brak wymaganych dokumentów**: Może to spowodować odrzucenie wniosku.
+* **Niespełnienie warunków programu**: Należy upewnić się, że inwestycja spełnia warunki programu Czyste Powietrze.
 
 ## Jak złożyć wniosek - 3 proste kroki
 
-1. **Sprawdź dostępne dofinansowania**: zapoznaj się z dostępnymi programami dofinansowań i ich warunkami.
-2. **Przygotuj wniosek**: przygotuj wniosek, zbierając wszystkie niezbędne dokumenty.
-3. **Złóż wniosek**: złóż wniosek w terminie określonym przez program.
+1. **Przejdź na stronę WFOŚiGW lub NFOŚiGW**: Tam znajdziesz informacje o programie Czyste Powietrze i formularz wniosku.
+2. **Wypełnij wniosek**: Należy podać informacje o inwestycji, kosztach i danych osobowych.
+3. **Złóż wniosek**: Można to zrobić online lub osobiście w siedzibie funduszu.
 
 
 ## Powiązane: Baltic Power to nie tylko pierwsza energia. To precedens dla finansowania, wykonawców i kolejnych farm offshore w Polsce
@@ -76,14 +76,14 @@ Więcej poradników, kalkulatorów i analiz dotacyjnych na [ecoaudyt.app](https:
 
 ## Najczęstsze pytania (FAQ)
 
-### Q: Jakie są korzyści z inwestycji w OZE?
-A: Inwestycja w OZE pozwala na obniżenie kosztów energii, a także przyczynia się do ochrony środowiska.
+### Q: Kto może ubiegać się o dofinansowanie w ramach programu Czyste Powietrze?
+A: Wnioskować mogą osoby fizyczne, które są właścicielami lub współwłaścicielami domu jednorodzinnego.
 
-### Q: Czy mogę uzyskać dofinansowanie na instalację paneli słonecznych?
-A: Tak, istnieje możliwość uzyskania dofinansowania na instalację paneli słonecznych w ramach programów takich jak "Czyste Powietrze".
+### Q: Jakie inwestycje mogą być dofinansowane w ramach programu Czyste Powietrze?
+A: Dofinansowane mogą być inwestycje w OZE, takie jak panele słoneczne czy kotły na pellet, a także kompleksowa termomodernizacja budynku.
 
-### Q: Jak długo trwa proces ubiegania się o dofinansowanie?
-A: Czas trwania procesu ubiegania się o dofinansowanie zależy od programu i może wynosić od kilku tygodni do kilku miesięcy."
+### Q: Jaka jest maksymalna wysokość dofinansowania w ramach programu Czyste Powietrze?
+A: Dofinansowanie może wynieść nawet do 90% kosztów inwestycji, przy czym maksymalna kwota dofinansowania wynosi 40 000 zł."
 }
 ```
 
