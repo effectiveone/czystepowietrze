@@ -1,6 +1,6 @@
 ---
 title: "Aukcje OZE w Polsce — wyniki i perspektywy"
-date: 2026-05-30T22:04:15.602Z
+date: 2026-05-30T22:04:56.210Z
 draft: false
 description: "Aukcje OZE w Polsce — wyniki i perspektywy"
 author: "Agnieszka Kowalczyk"
@@ -19,49 +19,54 @@ ai_generated: true
 
 ## Dotacje na OZE w Polsce - aukcje i perspektywy dla właścicieli domów
 
-Jako ekspert ds. dofinansowań OZE, często spotykam się z pytaniami o aukcje OZE w Polsce i możliwości uzyskania dofinansowania na energię odnawialną dla domów. W tym artykule wyjaśnię, jak działają aukcje OZE, jakie są dostępne kwoty dofinansowań i jak można uzyskać wsparcie finansowe na instalację OZE w swoim domu.
+Jako ekspert ds. dofinansowań OZE, często spotykam się z pytaniami o aukcje OZE w Polsce i możliwości uzyskania dofinansowania na energię odnawialną dla domów. W tym artykule wyjaśnię, jak działają aukcje OZE, jakie są dostępne kwoty dofinansowań i jak można z nich skorzystać.
 
 ### Co to są aukcje OZE?
 
-Aukcje OZE to mechanizm wsparcia dla inwestycji w odnawialne źródła energii (OZE). Ich celem jest pobudzenie rozwoju rynku OZE w Polsce i redukcja emisji gazów cieplarnianych. W praktyce oznacza to, że podmioty zainteresowane budową instalacji OZE mogą brać udział w aukcjach, na których sprzedawane są prawa do wsparcia finansowego.
+Aukcje OZE to jeden z mechanizmów wspierających rozwój energii odnawialnej w Polsce. Ich celem jest wyłonienie podmiotów, które będą realizować projekty OZE (odnawialnych źródeł energii) w Polsce. W praktyce oznacza to, że podmioty te zobowiązują się do produkcji energii elektrycznej z odnawialnych źródeł, takich jak np. słońce, wiatr czy woda.
 
-### Jakie są perspektywy dla właścicieli domów?
+### Jak działają aukcje OZE?
 
-Dla właścicieli domów zainteresowanych uzyskaniem dofinansowania na OZE, aukcje stanowią szansę na uzyskanie wsparcia finansowego. Co ważne dla wnioskodawcy, dofinansowanie może pokryć nawet do 100% kosztów inwestycji.
+Aukcje OZE są organizowane przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW) oraz Wojewódzkie Fundusze Ochrony Środowiska i Gospodarki Wodnej (WFOŚiGW). W aukcjach mogą uczestniczyć podmioty, które posiadają odpowiednie uprawnienia i spełniają określone warunki.
+
+Podczas aukcji podmioty składają oferty, w których deklarują cenę za jaką będą produkować energię elektryczną z OZE. Najniższa cena ofertowa wyznacza cenę sprzedaży energii elektrycznej z OZE.
 
 ### Dostępne kwoty dofinansowań
 
-Aktualnie dostępne są następujące kwoty dofinansowań:
+W 2026 roku dostępne są następujące kwoty dofinansowań na OZE:
 
-| Program | Dofinansowanie | Warunki |
-| --- | --- | --- |
-| Czyste Powietrze | do 30 000 zł | dla właścicieli domów jednorodzinnych, wymiana kotła na OZE |
-| Czyste Powietrze Plus | do 50 000 zł | dla właścicieli domów jednorodzinnych, kompleksowa termomodernizacja |
-| NFOŚiGW - OZE | do 100 000 zł | dla podmiotów zainteresowanych budową instalacji OZE |
+* Dla inwestycji w fotowoltaikę: do 30 000 zł (bez VAT) na jedno gospodarstwo domowe
+* Dla inwestycji w pompę ciepła: do 25 000 zł (bez VAT) na jedno gospodarstwo domowe
+* Dla inwestycji w kolektory słoneczne: do 15 000 zł (bez VAT) na jedno gospodarstwo domowe
+
+Co ważne dla wnioskodawcy, dofinansowanie może wynieść nawet do 85% kosztów inwestycji.
+
+### Terminy składania wniosków
+
+Terminy składania wniosków o dofinansowanie na OZE w 2026 roku:
+
+* Nabór wniosków w ramach programu 'Czyste Powietrze': do 31 grudnia 2026 roku
+* Nabór wniosków w ramach programu 'Energia dla wsi': do 30 września 2026 roku
 
 ### Pułapki na które uważać
 
-Warto wiedzieć, że proces uzyskania dofinansowania może być skomplikowany i czasochłonny. Pułapki na które uważać:
+Podczas składania wniosku o dofinansowanie na OZE warto uważać na następujące pułapki:
 
-* Wymagania formalne - upewnij się, że spełniasz wszystkie warunki formalne programu dofinansowania.
-* Terminy składania wniosków - pilnuj terminów składania wniosków, aby nie przegapić okazji.
+1. **Brak kompletności dokumentów**: upewnij się, że wszystkie wymagane dokumenty są załączone do wniosku.
+2. **Niespełnienie warunków programu**: zapoznaj się z warunkami programu i upewnij się, że Twoja inwestycja je spełnia.
+3. **Brak potwierdzenia kosztów**: upewnij się, że koszty inwestycji są potwierdzone przez uprawniony podmiot.
 
 ### Jak złożyć wniosek - 3 proste kroki
 
-1. **Sprawdź warunki programu dofinansowania**: upewnij się, że spełniasz wszystkie warunki formalne programu dofinansowania.
-2. **Zbierz wymagane dokumenty**: przygotuj wszystkie wymagane dokumenty, w tym wniosek, faktury i umowy.
-3. **Złóż wniosek**: złóż wniosek w wyznaczonym terminie, upewniając się, że wszystkie dokumenty są kompletne i poprawne.
+1. **Sprawdź dostępne programy dofinansowań**: zapoznaj się z dostępnymi programami dofinansowań na OZE i ich warunkami.
+2. **Przygotuj wymagane dokumenty**: zbierz wszystkie wymagane dokumenty, w tym faktury, umowy i inne.
+3. **Złóż wniosek**: złóż wniosek o dofinansowanie w wyznaczonym terminie.
 
 ### Najczęstsze pytania (FAQ)
 
-**Q: Jakie są terminy składania wniosków?**
-A: Terminy składania wniosków różnią się w zależności od programu dofinansowania. Aktualne terminy można sprawdzić na stronie NFOŚiGW lub WFOŚiGW.
-
-**Q: Czy mogę uzyskać dofinansowanie na instalację fotowoltaiczną?**
-A: Tak, istnieje możliwość uzyskania dofinansowania na instalację fotowoltaiczną w ramach programów Czyste Powietrze lub NFOŚiGW - OZE.
-
-**Q: Jak długo trwa proces rozpatrywania wniosku?**
-A: Czas rozpatrywania wniosku różni się w zależności od programu dofinansowania, jednak w praktyce wynosi od kilku do kilkunastu tygodni."
+1. **Jakie są dostępne kwoty dofinansowań na OZE?**: dostępne kwoty dofinansowań na OZE wynoszą do 30 000 zł na fotowoltaikę, do 25 000 zł na pompę ciepła i do 15 000 zł na kolektory słoneczne.
+2. **Jak długo trwa rozpatrywanie wniosku?**: rozpatrywanie wniosku może trwać do kilku tygodni, w zależności od programu dofinansowań.
+3. **Czy mogę złożyć wniosek o dofinansowanie na OZE, jeśli już wykonałem inwestycję?**: nie, wniosek o dofinansowanie na OZE można złożyć tylko przed wykonaniem inwestycji."
 }
 ```
 
