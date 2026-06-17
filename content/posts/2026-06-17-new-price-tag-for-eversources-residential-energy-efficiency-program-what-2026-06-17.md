@@ -1,6 +1,6 @@
 ---
 title: "New price tag for Eversource’s Residential Energy Efficiency program, what "
-date: 2026-06-17T14:04:03.038Z
+date: 2026-06-17T14:04:21.278Z
 draft: false
 description: "New price tag for Eversource’s Residential Energy Efficiency program, what homeowners get in 2026 - AD HOC NEWS"
 author: "Agnieszka Kowalczyk"
@@ -17,40 +17,43 @@ slug: "new-price-tag-for-eversources-residential-energy-efficiency-program-what-
 ai_generated: true
 ---
 
-## Wstęp
+# Dofinansowanie na efektywność energetyczną w 2026 - co czeka właścicieli domów
 
-Jako ekspert ds. dofinansowań OZE, często spotykam się z pytaniami właścicieli domów o możliwości uzyskania dofinansowania na poprawę efektywności energetycznej ich nieruchomości. W 2026 roku dostępne są różne programy dofinansowań, które mogą pomóc w sfinansowaniu inwestycji w energooszczędne rozwiązania. W tym artykule przedstawię dostępne programy dofinansowań i kwoty dofinansowań, które mogą być przyznane w 2026 roku.
+Jako właściciel domu, z pewnością zależy Ci na tym, aby Twój dom był nie tylko komfortowy, ale również przyjazny dla środowiska. W 2026 roku dostępne są różne programy dofinansowań, które pomogą Ci poprawić efektywność energetyczną Twojego domu. W tym artykule przedstawimy Ci dostępne programy i kwoty dofinansowań.
 
-## Dostępne programy dofinansowań
+## Programy dofinansowań
 
-W 2026 roku właściciele domów mogą ubiegać się o dofinansowanie w ramach następujących programów:
+W 2026 roku dostępne są następujące programy dofinansowań:
 
-1. **Program Czyste Powietrze**: jest to jeden z najpopularniejszych programów dofinansowań w Polsce, który oferuje wsparcie finansowe na wymianę kotłów grzewczych na bardziej ekologiczne oraz na poprawę efektywności energetycznej domu.
-2. **Program Rodzinny Kapitał Ekologiczny**: program ten oferuje dofinansowanie na inwestycje w energooszczędne rozwiązania, takie jak panele fotowoltaiczne, pompy ciepła czy okna energooszczędne.
+1. **Program Czyste Powietrze**: To jeden z najpopularniejszych programów dofinansowań w Polsce. Jego celem jest zmniejszenie emisji szkodliwych substancji do atmosfery poprzez dofinansowanie wymiany źródeł ciepła oraz poprawę efektywności energetycznej budynków.
+2. **Program Zielony Dom**: Ten program dofinansowuje budowę lub przebudowę domu w taki sposób, aby był on jak najbardziej przyjazny dla środowiska.
+3. **Program Efektywność Energetyczna**: Ten program dofinansowuje działania mające na celu poprawę efektywności energetycznej budynków.
 
 ## Kwoty dofinansowań
 
-Poniższa tabela przedstawia przykładowe kwoty dofinansowań, które mogą być przyznane w 2026 roku:
+Poniżej przedstawiamy kwoty dofinansowań dostępne w 2026 roku:
 
 | Program | Kwota dofinansowania | Procent dofinansowania |
 | --- | --- | --- |
-| Program Czyste Powietrze | do 30 000 zł | do 80% kosztów inwestycji |
-| Program Rodzinny Kapitał Ekologiczny | do 20 000 zł | do 50% kosztów inwestycji |
+| Program Czyste Powietrze | do 30 000 zł | 30-90% |
+| Program Zielony Dom | do 50 000 zł | 20-50% |
+| Program Efektywność Energetyczna | do 20 000 zł | 20-30% |
 
-Warto wiedzieć, że kwoty dofinansowań mogą się różnić w zależności od regionu i indywidualnych warunków inwestycji.
+Warto wiedzieć, że kwoty dofinansowań oraz procent dofinansowania mogą się różnić w zależności od regionu oraz indywidualnych warunków.
 
 ## Pułapki na które uważać
 
-Podczas ubiegania się o dofinansowanie na efektywność energetyczną, warto uważać na następujące pułapki:
+Podczas składania wniosku o dofinansowanie, warto uważać na następujące pułapki:
 
-1. **Brak doświadczenia**: nie wszystkie firmy mają doświadczenie w realizacji inwestycji w energooszczędne rozwiązania.
-2. **Niewłaściwa dokumentacja**: brak właściwej dokumentacji może prowadzić do odrzucenia wniosku o dofinansowanie.
+1. **Brak kompletności dokumentów**: Upewnij się, że wszystkie wymagane dokumenty są kompletne i prawidłowo wypełnione.
+2. **Niespełnienie warunków programu**: Przed złożeniem wniosku, upewnij się, że spełniasz wszystkie warunki programu.
+3. **Brak terminowości**: Zwróć uwagę na terminy składania wniosków oraz terminowość realizacji projektu.
 
 ## Jak złożyć wniosek - 3 proste kroki
 
-1. **Sprawdź dostępne programy dofinansowań**: zapoznaj się z dostępnymi programami dofinansowań i ich warunkami.
-2. **Przygotuj wniosek**: przygotuj wniosek o dofinansowanie, wraz z wymaganą dokumentacją.
-3. **Złóż wniosek**: złóż wniosek o dofinansowanie w wyznaczonym terminie.
+1. **Sprawdź warunki programu**: Przed złożeniem wniosku, upewnij się, że spełniasz wszystkie warunki programu.
+2. **Zbierz wymagane dokumenty**: Zbierz wszystkie wymagane dokumenty, takie jak faktury, umowy, czy zaświadczenia.
+3. **Złóż wniosek**: Złóż wniosek wraz z wymaganymi dokumentami w wyznaczonym terminie.
 
 
 ## Powiązane: Europejski rynek BESS wchodzi w etap przejęć i nowej wyceny ryzyka. To znak dojrzewania, nie końca wzrostu
@@ -68,9 +71,14 @@ Więcej poradników, kalkulatorów i analiz dotacyjnych na [ecoaudyt.app](https:
 
 ## Najczęstsze pytania (FAQ)
 
-1. **Jakie dokumenty są wymagane do wniosku o dofinansowanie?**: do wniosku o dofinansowanie wymagane są m.in. faktury za zakup materiałów, umowy z wykonawcami, dokumenty potwierdzające własność nieruchomości.
-2. **Jak długo trwa rozpatrywanie wniosku o dofinansowanie?**: czas rozpatrywania wniosku o dofinansowanie może się różnić w zależności od programu i instytucji, która go realizuje.
-3. **Czy mogę łączyć dofinansowanie z innymi programami?**: tak, możliwe jest łączenie dofinansowania z innymi programami, jednak należy sprawdzić warunki poszczególnych programów."
+### Q: Jakie dokumenty są wymagane do złożenia wniosku?
+A: Wymagane dokumenty mogą się różnić w zależności od programu, jednak najczęściej wymagane są: faktury, umowy, zaświadczenia oraz projekt realizacji.
+
+### Q: Jak długo trwa rozpatrywanie wniosku?
+A: Czas rozpatrywania wniosku może się różnić w zależności od programu oraz liczby wniosków. Zwykle trwa kilka tygodni.
+
+### Q: Czy mogę złożyć wniosek samodzielnie?
+A: Tak, możesz złożyć wniosek samodzielnie, jednak warto skonsultować się z ekspertem, aby upewnić się, że wniosek jest prawidłowo wypełniony."
 }
 ```
 
