@@ -1,6 +1,6 @@
 ---
 title: "New price tag for Eversource’s Residential Energy Efficiency program, what "
-date: 2026-06-17T14:03:47.402Z
+date: 2026-06-17T14:04:03.038Z
 draft: false
 description: "New price tag for Eversource’s Residential Energy Efficiency program, what homeowners get in 2026 - AD HOC NEWS"
 author: "Agnieszka Kowalczyk"
@@ -19,44 +19,38 @@ ai_generated: true
 
 ## Wstęp
 
-Jako ekspert ds. dofinansowań OZE, często spotykam się z pytaniami właścicieli domów o możliwości uzyskania dofinansowań na poprawę efektywności energetycznej ich nieruchomości. W 2026 roku czekają nas nowe możliwości finansowania, które mogą pomóc w realizacji tych celów. W tym artykule przedstawię, co czeka właścicieli domów w zakresie dofinansowań na efektywność energetyczną.
+Jako ekspert ds. dofinansowań OZE, często spotykam się z pytaniami właścicieli domów o możliwości uzyskania dofinansowania na poprawę efektywności energetycznej ich nieruchomości. W 2026 roku dostępne są różne programy dofinansowań, które mogą pomóc w sfinansowaniu inwestycji w energooszczędne rozwiązania. W tym artykule przedstawię dostępne programy dofinansowań i kwoty dofinansowań, które mogą być przyznane w 2026 roku.
 
-## Aktualne możliwości dofinansowań
+## Dostępne programy dofinansowań
 
-W Polsce istnieją obecnie kilka programów dofinansowań, które mogą pomóc właścicielom domów w poprawie efektywności energetycznej. Jednym z nich jest program "Czyste Powietrze", który oferuje dofinansowanie do wymiany źródeł ciepła oraz poprawy izolacji cieplnej budynków.
+W 2026 roku właściciele domów mogą ubiegać się o dofinansowanie w ramach następujących programów:
 
-### Program "Czyste Powietrze"
+1. **Program Czyste Powietrze**: jest to jeden z najpopularniejszych programów dofinansowań w Polsce, który oferuje wsparcie finansowe na wymianę kotłów grzewczych na bardziej ekologiczne oraz na poprawę efektywności energetycznej domu.
+2. **Program Rodzinny Kapitał Ekologiczny**: program ten oferuje dofinansowanie na inwestycje w energooszczędne rozwiązania, takie jak panele fotowoltaiczne, pompy ciepła czy okna energooszczędne.
 
-Program "Czyste Powietrze" to jedna z najbardziej popularnych możliwości dofinansowań dla właścicieli domów. W ramach programu można uzyskać dofinansowanie do:
+## Kwoty dofinansowań
 
-1.  **wymiany źródeł ciepła**: dofinansowanie do montażu nowych kotłów gazowych, olejowych lub elektrycznych, a także do instalacji pomp ciepła.
-2.  **poprawy izolacji cieplnej**: dofinansowanie do ocieplenia ścian, stropów, podłóg oraz wymiany okien i drzwi.
+Poniższa tabela przedstawia przykładowe kwoty dofinansowań, które mogą być przyznane w 2026 roku:
 
-Warto wiedzieć, że dofinansowanie w ramach programu "Czyste Powietrze" może wynieść nawet do 50 000 zł.
+| Program | Kwota dofinansowania | Procent dofinansowania |
+| --- | --- | --- |
+| Program Czyste Powietrze | do 30 000 zł | do 80% kosztów inwestycji |
+| Program Rodzinny Kapitał Ekologiczny | do 20 000 zł | do 50% kosztów inwestycji |
 
-## Nowe dofinansowania w 2026 roku
+Warto wiedzieć, że kwoty dofinansowań mogą się różnić w zależności od regionu i indywidualnych warunków inwestycji.
 
-W 2026 roku planowane są nowe dofinansowania na efektywność energetyczną. Co ważne dla wnioskodawcy, jednym z nowych programów jest "Efektywność Energetyczna w Budynkach", który ma na celu wsparcie inwestycji w poprawę efektywności energetycznej budynków.
+## Pułapki na które uważać
 
-### Program "Efektywność Energetyczna w Budynkach"
+Podczas ubiegania się o dofinansowanie na efektywność energetyczną, warto uważać na następujące pułapki:
 
-W ramach programu "Efektywność Energetyczna w Budynkach" właściciele domów mogą uzyskać dofinansowanie do:
-
-| Rodzaj inwestycji | Dofinansowanie |
-| :---------------- | :------------ |
-| Ocieplenie ścian   | do 30% kosztów |
-| Wymiana okien     | do 20% kosztów |
-| Montaż pomp ciepła | do 50% kosztów |
-
-W praktyce oznacza to, że właściciele domów mogą uzyskać dofinansowanie nawet do 30 000 zł na ocieplenie ścian czy 10 000 zł na wymianę okien.
+1. **Brak doświadczenia**: nie wszystkie firmy mają doświadczenie w realizacji inwestycji w energooszczędne rozwiązania.
+2. **Niewłaściwa dokumentacja**: brak właściwej dokumentacji może prowadzić do odrzucenia wniosku o dofinansowanie.
 
 ## Jak złożyć wniosek - 3 proste kroki
 
-Złożenie wniosku o dofinansowanie jest prostsze, niż myślisz. Oto 3 kroki, które musisz wykonać:
-
-1.  **Sprawdź, czy spełniasz warunki**: Przed złożeniem wniosku upewnij się, że spełniasz warunki programu dofinansowań.
-2.  **Zbierz wymagane dokumenty**: Zbierz wszystkie wymagane dokumenty, w tym faktury, umowy z wykonawcami oraz dokumenty potwierdzające własność nieruchomości.
-3.  **Złóż wniosek**: Złóż wniosek o dofinansowanie wraz z wymaganymi dokumentami.
+1. **Sprawdź dostępne programy dofinansowań**: zapoznaj się z dostępnymi programami dofinansowań i ich warunkami.
+2. **Przygotuj wniosek**: przygotuj wniosek o dofinansowanie, wraz z wymaganą dokumentacją.
+3. **Złóż wniosek**: złóż wniosek o dofinansowanie w wyznaczonym terminie.
 
 
 ## Powiązane: Europejski rynek BESS wchodzi w etap przejęć i nowej wyceny ryzyka. To znak dojrzewania, nie końca wzrostu
@@ -74,17 +68,9 @@ Więcej poradników, kalkulatorów i analiz dotacyjnych na [ecoaudyt.app](https:
 
 ## Najczęstsze pytania (FAQ)
 
-### Q: Jakie są pułapki, na które uważać przy ubieganiu się o dofinansowanie?
-
-A: Jedną z pułapek jest nieterminowe złożenie wniosku lub brak wymaganych dokumentów.
-
-### Q: Czy mogę łączyć dofinansowania z różnych programów?
-
-A: Tak, możliwe jest łączenie dofinansowań z różnych programów, jednak należy sprawdzić warunki każdego programu.
-
-### Q: Jak długo trwa rozpatrywanie wniosku?
-
-A: Czas rozpatrywania wniosku może się różnić w zależności od programu, jednak zwykle trwa kilka tygodni."
+1. **Jakie dokumenty są wymagane do wniosku o dofinansowanie?**: do wniosku o dofinansowanie wymagane są m.in. faktury za zakup materiałów, umowy z wykonawcami, dokumenty potwierdzające własność nieruchomości.
+2. **Jak długo trwa rozpatrywanie wniosku o dofinansowanie?**: czas rozpatrywania wniosku o dofinansowanie może się różnić w zależności od programu i instytucji, która go realizuje.
+3. **Czy mogę łączyć dofinansowanie z innymi programami?**: tak, możliwe jest łączenie dofinansowania z innymi programami, jednak należy sprawdzić warunki poszczególnych programów."
 }
 ```
 
