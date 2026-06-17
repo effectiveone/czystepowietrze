@@ -1,6 +1,6 @@
 ---
 title: "New price tag for Eversource’s Residential Energy Efficiency program, what "
-date: 2026-06-17T22:04:13.035Z
+date: 2026-06-17T22:04:46.350Z
 draft: false
 description: "New price tag for Eversource’s Residential Energy Efficiency program, what homeowners get in 2026 - AD HOC NEWS"
 author: "Agnieszka Kowalczyk"
@@ -23,37 +23,42 @@ Jako właściciel domu, z pewnością zależy Ci na tym, aby Twój dom był nie 
 
 ## Dostępne programy dofinansowań
 
-W 2026 roku dostępnych jest kilka programów dofinansowań, które mogą pomóc Ci poprawić efektywność energetyczną Twojego domu. Poniżej przedstawiamy ich wykaz:
+W 2026 roku dostępnych jest kilka programów dofinansowań, które mogą pomóc Ci poprawić efektywność energetyczną Twojego domu. Poniżej przedstawiamy najważniejsze informacje o tych programach.
 
-1. **Program Czyste Powietrze**: To jeden z najpopularniejszych programów dofinansowań w Polsce. Jego celem jest zmniejszenie emisji szkodliwych substancji do atmosfery poprzez dofinansowanie wymiany źródeł ciepła oraz poprawę efektywności energetycznej budynków.
-2. **Program Zielony Dom**: Ten program dofinansowuje budowę lub przebudowę domu w taki sposób, aby był on jak najbardziej przyjazny dla środowiska.
-3. **Program Efektywność Energetyczna**: Ten program dofinansowuje działania mające na celu poprawę efektywności energetycznej budynków.
+### 1. Program Czyste Powietrze
 
-## Kwoty dofinansowań
+Program Czyste Powietrze to jeden z najpopularniejszych programów dofinansowań w Polsce. Jego celem jest poprawa jakości powietrza poprzez dofinansowanie wymiany źródeł ciepła oraz poprawę efektywności energetycznej budynków.
 
-Poniżej przedstawiamy kwoty dofinansowań dostępne w ramach poszczególnych programów:
+*   Kwota dofinansowania: do 30 000 zł
+*   Procent dofinansowania: do 85% kosztów inwestycji
+*   Termin składania wniosków: do 31 grudnia 2026 roku
 
-| Program | Kwota dofinansowania | Procent dofinansowania |
-| --- | --- | --- |
-| Program Czyste Powietrze | do 30 000 zł | 30-90% |
-| Program Zielony Dom | do 50 000 zł | 20-50% |
-| Program Efektywność Energetyczna | do 20 000 zł | 20-50% |
+### 2. Program Rodzinny Kapitał Budowlany
 
-Warto wiedzieć, że kwoty dofinansowań oraz procent dofinansowania mogą się różnić w zależności od indywidualnych warunków.
+Program Rodzinny Kapitał Budowlany to program dofinansowań, który oferuje pomoc w uzyskaniu kredytu na budowę lub zakup domu.
+
+*   Kwota dofinansowania: do 50 000 zł
+*   Procent dofinansowania: do 20% kosztów inwestycji
+*   Termin składania wniosków: do 31 grudnia 2026 roku
+
+## Krok po kroku - jak uzyskać dofinansowanie
+
+Oto kroki, które musisz podjąć, aby uzyskać dofinansowanie na poprawę efektywności energetycznej Twojego domu:
+
+1.  **Sprawdź dostępne programy dofinansowań**: Przed złożeniem wniosku sprawdź, które programy dofinansowań są dostępne w Twoim regionie.
+2.  **Zbierz wymagane dokumenty**: Zbierz wszystkie wymagane dokumenty, w tym faktury, umowy i certyfikaty.
+3.  **Złóż wniosek**: Złóż wniosek o dofinansowanie w wyznaczonym terminie.
 
 ## Pułapki na które uważać
 
-Podczas składania wniosku o dofinansowanie, warto uważać na następujące pułapki:
-
-1. **Brak kompletności dokumentów**: Upewnij się, że wszystkie wymagane dokumenty są kompletne i prawidłowo wypełnione.
-2. **Niespełnienie warunków programu**: Przed złożeniem wniosku, upewnij się, że spełniasz wszystkie warunki programu.
-3. **Brak terminowości**: Składaj wniosek w terminie, aby uniknąć opóźnień w rozpatrywaniu.
+*   **Termin składania wniosków**: Uważaj na termin składania wniosków, ponieważ po jego upływie nie będziesz mógł złożyć wniosku.
+*   **Wymagane dokumenty**: Upewnij się, że masz wszystkie wymagane dokumenty, ponieważ brak jednego z nich może spowodować odrzucenie wniosku.
 
 ## Jak złożyć wniosek - 3 proste kroki
 
-1. **Sprawdź warunki programu**: Przed złożeniem wniosku, upewnij się, że spełniasz wszystkie warunki programu.
-2. **Zbierz wymagane dokumenty**: Zbierz wszystkie wymagane dokumenty, takie jak faktury, umowy, czy zaświadczenia.
-3. **Złóż wniosek**: Złóż wniosek w terminie, wraz z kompletem dokumentów.
+1.  **Przejdź na stronę internetową programu dofinansowań**: Przejdź na stronę internetową programu dofinansowań, który Cię zainteresował.
+2.  **Zbierz wymagane dokumenty**: Zbierz wszystkie wymagane dokumenty.
+3.  **Wypełnij wniosek**: Wypełnij wniosek o dofinansowanie i złóż go w wyznaczonym terminie.
 
 
 ## Powiązane: Europejski rynek BESS wchodzi w etap przejęć i nowej wyceny ryzyka. To znak dojrzewania, nie końca wzrostu
@@ -71,14 +76,17 @@ Więcej poradników, kalkulatorów i analiz dotacyjnych na [ecoaudyt.app](https:
 
 ## Najczęstsze pytania (FAQ)
 
-### Q: Jakie dokumenty są wymagane do złożenia wniosku?
-A: Wymagane dokumenty mogą się różnić w zależności od programu, jednak najczęściej wymagane są: faktury, umowy, zaświadczenia, oraz wniosek wypełniony zgodnie z instrukcją.
+### 1. Jakie dokumenty są wymagane do złożenia wniosku?
 
-### Q: Jak długo trwa rozpatrywanie wniosku?
-A: Czas rozpatrywania wniosku może się różnić w zależności od programu, jednak najczęściej trwa od kilku tygodni do kilku miesięcy.
+Do złożenia wniosku są wymagane następujące dokumenty: faktury, umowy i certyfikaty.
 
-### Q: Czy mogę złożyć wniosek online?
-A: Tak, wiele programów dofinansowań umożliwia składanie wniosków online, jednak warto sprawdzić warunki programu, aby upewnić się, że jest to możliwe."
+### 2. Jaki jest termin składania wniosków?
+
+Termin składania wniosków wynosi do 31 grudnia 2026 roku.
+
+### 3. Jaka jest maksymalna kwota dofinansowania?
+
+Maksymalna kwota dofinansowania wynosi do 30 000 zł w ramach programu Czyste Powietrze."
 }
 ```
 
