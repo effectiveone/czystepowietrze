@@ -1,6 +1,6 @@
 ---
 title: "New price tag for Eversource’s Residential Energy Efficiency program, what "
-date: 2026-06-17T22:04:46.350Z
+date: 2026-06-17T22:05:14.188Z
 draft: false
 description: "New price tag for Eversource’s Residential Energy Efficiency program, what homeowners get in 2026 - AD HOC NEWS"
 author: "Agnieszka Kowalczyk"
@@ -19,46 +19,34 @@ ai_generated: true
 
 ## Wstęp
 
-Jako właściciel domu, z pewnością zależy Ci na tym, aby Twój dom był nie tylko komfortowy, ale również przyjazny dla środowiska. W 2026 roku dostępne są różne programy dofinansowań, które pomogą Ci poprawić efektywność energetyczną Twojego domu. W tym artykule przedstawimy Ci dostępne programy i kwoty dofinansowań.
+Jako właściciel domu, z pewnością zależy Ci na tym, aby Twój dom był energooszczędny i przyjazny dla środowiska. W 2026 roku dostępne są dofinansowania na efektywność energetyczną, które mogą pomóc Ci w realizacji tego celu. W tym artykule przedstawimy Ci, jakie dofinansowania czekają właścicieli domów w 2026 roku i jak złożyć wniosek.
 
-## Dostępne programy dofinansowań
+## Dofinansowania na efektywność energetyczną w 2026 roku
 
-W 2026 roku dostępnych jest kilka programów dofinansowań, które mogą pomóc Ci poprawić efektywność energetyczną Twojego domu. Poniżej przedstawiamy najważniejsze informacje o tych programach.
+W 2026 roku dostępne są dofinansowania na efektywność energetyczną w ramach programu Czyste Powietrze. Program ten jest realizowany przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW) oraz wojewódzkie fundusze ochrony środowiska i gospodarki wodnej (WFOŚiGW).
 
-### 1. Program Czyste Powietrze
+### Jakie dofinansowania są dostępne?
 
-Program Czyste Powietrze to jeden z najpopularniejszych programów dofinansowań w Polsce. Jego celem jest poprawa jakości powietrza poprzez dofinansowanie wymiany źródeł ciepła oraz poprawę efektywności energetycznej budynków.
+W ramach programu Czyste Powietrze dostępne są dofinansowania na:
 
-*   Kwota dofinansowania: do 30 000 zł
-*   Procent dofinansowania: do 85% kosztów inwestycji
-*   Termin składania wniosków: do 31 grudnia 2026 roku
+1. **wymianę kotła**: dofinansowanie do 30 000 zł na wymianę kotła na paliwo stałe na kocioł gazowy lub elektryczny
+2. **oświetlenie**: dofinansowanie do 5 000 zł na montaż energooszczędnego oświetlenia
+3. **izolację**: dofinansowanie do 20 000 zł na ocieplenie domu
+4. **okna**: dofinansowanie do 10 000 zł na montaż okien energooszczędnych
 
-### 2. Program Rodzinny Kapitał Budowlany
+### Jakie są warunki dofinansowania?
 
-Program Rodzinny Kapitał Budowlany to program dofinansowań, który oferuje pomoc w uzyskaniu kredytu na budowę lub zakup domu.
+Aby otrzymać dofinansowanie, musisz spełnić następujące warunki:
 
-*   Kwota dofinansowania: do 50 000 zł
-*   Procent dofinansowania: do 20% kosztów inwestycji
-*   Termin składania wniosków: do 31 grudnia 2026 roku
-
-## Krok po kroku - jak uzyskać dofinansowanie
-
-Oto kroki, które musisz podjąć, aby uzyskać dofinansowanie na poprawę efektywności energetycznej Twojego domu:
-
-1.  **Sprawdź dostępne programy dofinansowań**: Przed złożeniem wniosku sprawdź, które programy dofinansowań są dostępne w Twoim regionie.
-2.  **Zbierz wymagane dokumenty**: Zbierz wszystkie wymagane dokumenty, w tym faktury, umowy i certyfikaty.
-3.  **Złóż wniosek**: Złóż wniosek o dofinansowanie w wyznaczonym terminie.
-
-## Pułapki na które uważać
-
-*   **Termin składania wniosków**: Uważaj na termin składania wniosków, ponieważ po jego upływie nie będziesz mógł złożyć wniosku.
-*   **Wymagane dokumenty**: Upewnij się, że masz wszystkie wymagane dokumenty, ponieważ brak jednego z nich może spowodować odrzucenie wniosku.
+* być właścicielem domu jednorodzinnego
+* mieć zawarte umowy o dofinansowanie przed 31 grudnia 2026 roku
+* wykonać prace przed 31 grudnia 2027 roku
 
 ## Jak złożyć wniosek - 3 proste kroki
 
-1.  **Przejdź na stronę internetową programu dofinansowań**: Przejdź na stronę internetową programu dofinansowań, który Cię zainteresował.
-2.  **Zbierz wymagane dokumenty**: Zbierz wszystkie wymagane dokumenty.
-3.  **Wypełnij wniosek**: Wypełnij wniosek o dofinansowanie i złóż go w wyznaczonym terminie.
+1. **Sprawdź, czy możesz otrzymać dofinansowanie**: zapoznaj się z warunkami dofinansowania i sprawdź, czy Twój projekt spełnia wszystkie wymagania
+2. **Zbierz wymagane dokumenty**: przygotuj wszystkie niezbędne dokumenty, w tym faktury, umowy i certyfikaty
+3. **Złóż wniosek**: złóż wniosek przez portal Czyste Powietrze lub w wojewódzkim funduszu ochrony środowiska i gospodarki wodnej
 
 
 ## Powiązane: Europejski rynek BESS wchodzi w etap przejęć i nowej wyceny ryzyka. To znak dojrzewania, nie końca wzrostu
@@ -76,17 +64,14 @@ Więcej poradników, kalkulatorów i analiz dotacyjnych na [ecoaudyt.app](https:
 
 ## Najczęstsze pytania (FAQ)
 
-### 1. Jakie dokumenty są wymagane do złożenia wniosku?
+### Q: Jakie są limity dofinansowania?
+A: Limity dofinansowania wynoszą do 30 000 zł na wymianę kotła, do 5 000 zł na oświetlenie, do 20 000 zł na izolację i do 10 000 zł na okna.
 
-Do złożenia wniosku są wymagane następujące dokumenty: faktury, umowy i certyfikaty.
+### Q: Czy mogę otrzymać dofinansowanie na kilka projektów?
+A: Tak, możesz otrzymać dofinansowanie na kilka projektów, jednak łączna kwota dofinansowania nie może przekroczyć 50 000 zł.
 
-### 2. Jaki jest termin składania wniosków?
-
-Termin składania wniosków wynosi do 31 grudnia 2026 roku.
-
-### 3. Jaka jest maksymalna kwota dofinansowania?
-
-Maksymalna kwota dofinansowania wynosi do 30 000 zł w ramach programu Czyste Powietrze."
+### Q: Jak długo trwa rozpatrywanie wniosku?
+A: Czas rozpatrywania wniosku wynosi około 30 dni, jednak może się różnić w zależności od funduszu i liczby wniosków."
 }
 ```
 
