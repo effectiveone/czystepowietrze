@@ -1,6 +1,6 @@
 ---
 title: "New price tag for Eversource’s Residential Energy Efficiency program, what "
-date: 2026-06-17T14:03:30.104Z
+date: 2026-06-17T14:03:47.402Z
 draft: false
 description: "New price tag for Eversource’s Residential Energy Efficiency program, what homeowners get in 2026 - AD HOC NEWS"
 author: "Agnieszka Kowalczyk"
@@ -19,37 +19,44 @@ ai_generated: true
 
 ## Wstęp
 
-Jako ekspert ds. dofinansowań OZE, często spotykam się z pytaniami właścicieli domów o możliwości uzyskania dofinansowań na poprawę efektywności energetycznej ich nieruchomości. W 2026 roku czekają nas nowe możliwości finansowania, które mogą pomóc w realizacji tych celów. W tym artykule wyjaśnię, co ważne dla wnioskodawcy, jakie dofinansowania czekają nas w 2026 roku i jak je uzyskać.
+Jako ekspert ds. dofinansowań OZE, często spotykam się z pytaniami właścicieli domów o możliwości uzyskania dofinansowań na poprawę efektywności energetycznej ich nieruchomości. W 2026 roku czekają nas nowe możliwości finansowania, które mogą pomóc w realizacji tych celów. W tym artykule przedstawię, co czeka właścicieli domów w zakresie dofinansowań na efektywność energetyczną.
 
-## Dofinansowania na efektywność energetyczną w 2026 roku
+## Aktualne możliwości dofinansowań
 
-W 2026 roku właściciele domów mogą liczyć na dofinansowania z Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW) oraz Wojewódzkich Funduszy Ochrony Środowiska i Gospodarki Wodnej (WFOŚiGW). Poniżej przedstawiam wybrane możliwości dofinansowań:
+W Polsce istnieją obecnie kilka programów dofinansowań, które mogą pomóc właścicielom domów w poprawie efektywności energetycznej. Jednym z nich jest program "Czyste Powietrze", który oferuje dofinansowanie do wymiany źródeł ciepła oraz poprawy izolacji cieplnej budynków.
 
-### Dofinansowanie na termomodernizację
+### Program "Czyste Powietrze"
 
-*   **Program Czyste Powietrze**: dofinansowanie do 30 000 zł na termomodernizację domu, w tym na wymianę okien, drzwi, ocieplenie ścian i stropów.
-*   **Program Rodzinny Kapitał Budowlany**: dofinansowanie do 50 000 zł na termomodernizację domu dla rodzin z dziećmi.
+Program "Czyste Powietrze" to jedna z najbardziej popularnych możliwości dofinansowań dla właścicieli domów. W ramach programu można uzyskać dofinansowanie do:
 
-### Dofinansowanie na odnawialne źródła energii
+1.  **wymiany źródeł ciepła**: dofinansowanie do montażu nowych kotłów gazowych, olejowych lub elektrycznych, a także do instalacji pomp ciepła.
+2.  **poprawy izolacji cieplnej**: dofinansowanie do ocieplenia ścian, stropów, podłóg oraz wymiany okien i drzwi.
 
-*   **Program Prosument**: dofinansowanie do 60 000 zł na montaż instalacji fotowoltaicznych i innych odnawialnych źródeł energii.
-*   **Program Agroenergia**: dofinansowanie do 500 000 zł na montaż instalacji fotowoltaicznych dla gospodarstw rolnych.
+Warto wiedzieć, że dofinansowanie w ramach programu "Czyste Powietrze" może wynieść nawet do 50 000 zł.
 
-## Pułapki na które uważać
+## Nowe dofinansowania w 2026 roku
 
-Warto wiedzieć, że dofinansowania te mają określone warunki i kryteria, które należy spełnić. Poniżej przedstawiam kilka pułapek, na które należy uważać:
+W 2026 roku planowane są nowe dofinansowania na efektywność energetyczną. Co ważne dla wnioskodawcy, jednym z nowych programów jest "Efektywność Energetyczna w Budynkach", który ma na celu wsparcie inwestycji w poprawę efektywności energetycznej budynków.
 
-1.  **Termin składania wniosków**: wnioski o dofinansowanie należy składać w określonych terminach, które mogą się różnić w zależności od funduszu i programu.
-2.  **Warunki techniczne**: dofinansowanie może być udzielone tylko na projekty, które spełniają określone warunki techniczne, takie jak np. minimalna wartość inwestycji.
-3.  **Poziom dofinansowania**: dofinansowanie może być udzielone tylko w określonej wysokości, która może nie pokryć całości kosztów inwestycji.
+### Program "Efektywność Energetyczna w Budynkach"
+
+W ramach programu "Efektywność Energetyczna w Budynkach" właściciele domów mogą uzyskać dofinansowanie do:
+
+| Rodzaj inwestycji | Dofinansowanie |
+| :---------------- | :------------ |
+| Ocieplenie ścian   | do 30% kosztów |
+| Wymiana okien     | do 20% kosztów |
+| Montaż pomp ciepła | do 50% kosztów |
+
+W praktyce oznacza to, że właściciele domów mogą uzyskać dofinansowanie nawet do 30 000 zł na ocieplenie ścian czy 10 000 zł na wymianę okien.
 
 ## Jak złożyć wniosek - 3 proste kroki
 
-Złożenie wniosku o dofinansowanie może wydawać się skomplikowane, ale w praktyce oznacza to wykonanie kilku prostych kroków:
+Złożenie wniosku o dofinansowanie jest prostsze, niż myślisz. Oto 3 kroki, które musisz wykonać:
 
-1.  **Sprawdź dostępne dofinansowania**: zapoznaj się z dostępnymi dofinansowaniami i ich warunkami.
-2.  **Przygotuj wniosek**: przygotuj wniosek o dofinansowanie, dołączając wszystkie wymagane dokumenty.
-3.  **Złóż wniosek**: złóż wniosek w wyznaczonym terminie.
+1.  **Sprawdź, czy spełniasz warunki**: Przed złożeniem wniosku upewnij się, że spełniasz warunki programu dofinansowań.
+2.  **Zbierz wymagane dokumenty**: Zbierz wszystkie wymagane dokumenty, w tym faktury, umowy z wykonawcami oraz dokumenty potwierdzające własność nieruchomości.
+3.  **Złóż wniosek**: Złóż wniosek o dofinansowanie wraz z wymaganymi dokumentami.
 
 
 ## Powiązane: Europejski rynek BESS wchodzi w etap przejęć i nowej wyceny ryzyka. To znak dojrzewania, nie końca wzrostu
@@ -67,17 +74,17 @@ Więcej poradników, kalkulatorów i analiz dotacyjnych na [ecoaudyt.app](https:
 
 ## Najczęstsze pytania (FAQ)
 
-### Q: Jakie dofinansowania czekają nas w 2026 roku?
+### Q: Jakie są pułapki, na które uważać przy ubieganiu się o dofinansowanie?
 
-A: W 2026 roku czekają nas dofinansowania z NFOŚiGW i WFOŚiGW na termomodernizację, odnawialne źródła energii i inne cele związane z efektywnością energetyczną.
+A: Jedną z pułapek jest nieterminowe złożenie wniosku lub brak wymaganych dokumentów.
 
-### Q: Jakie są warunki dofinansowania?
+### Q: Czy mogę łączyć dofinansowania z różnych programów?
 
-A: Warunki dofinansowania różnią się w zależności od funduszu i programu, ale generalnie dotyczą one spełnienia określonych warunków technicznych i kryteriów.
+A: Tak, możliwe jest łączenie dofinansowań z różnych programów, jednak należy sprawdzić warunki każdego programu.
 
-### Q: Jak złożyć wniosek o dofinansowanie?
+### Q: Jak długo trwa rozpatrywanie wniosku?
 
-A: Złożenie wniosku o dofinansowanie oznacza wykonanie kilku prostych kroków: sprawdzenie dostępnych dofinansowań, przygotowanie wniosku i jego złożenie w wyznaczonym terminie."
+A: Czas rozpatrywania wniosku może się różnić w zależności od programu, jednak zwykle trwa kilka tygodni."
 }
 ```
 
