@@ -1,6 +1,6 @@
 ---
 title: "New price tag for Eversource’s Residential Energy Efficiency program, what "
-date: 2026-06-18T14:03:43.927Z
+date: 2026-06-18T14:04:02.625Z
 draft: false
 description: "New price tag for Eversource’s Residential Energy Efficiency program, what homeowners get in 2026 - AD HOC NEWS"
 author: "Agnieszka Kowalczyk"
@@ -17,43 +17,43 @@ slug: "new-price-tag-for-eversources-residential-energy-efficiency-program-what-
 ai_generated: true
 ---
 
-# Dofinansowanie na efektywność energetyczną w 2026 - co czeka właścicieli domów
+## Wstęp
 
 Jako właściciel domu, z pewnością zależy Ci na tym, aby Twój dom był nie tylko komfortowy, ale również przyjazny dla środowiska. W 2026 roku dostępne są różne programy dofinansowań, które pomogą Ci poprawić efektywność energetyczną Twojego domu. W tym artykule przedstawimy Ci dostępne programy i kwoty dofinansowań.
 
-## Programy dofinansowań
+## Dostępne programy dofinansowań
 
-W 2026 roku dostępne są następujące programy dofinansowań:
+W 2026 roku dostępnych jest kilka programów dofinansowań, które mogą pomóc Ci poprawić efektywność energetyczną Twojego domu. Poniżej przedstawiamy ich wykaz:
 
 1. **Program Czyste Powietrze**: To jeden z najpopularniejszych programów dofinansowań w Polsce. Jego celem jest zmniejszenie emisji szkodliwych substancji do atmosfery poprzez dofinansowanie wymiany źródeł ciepła oraz poprawę efektywności energetycznej budynków.
-2. **Program Zielony Dom**: Ten program dofinansowuje budowę lub przebudowę domu w sposób przyjazny dla środowiska.
-3. **Program Efektywność Energetyczna**: Celem tego programu jest dofinansowanie inwestycji związanych z poprawą efektywności energetycznej budynków.
+2. **Program Zielony Dom**: Ten program dofinansowuje budowę lub remont domu w sposób przyjazny dla środowiska.
+3. **Program Efektywność Energetyczna**: Jego celem jest poprawa efektywności energetycznej budynków poprzez dofinansowanie wymiany okien, drzwi, izolacji cieplnej oraz instalacji odnawialnych źródeł energii.
 
 ## Kwoty dofinansowań
 
-Poniższa tabela przedstawia kwoty dofinansowań dostępne w 2026 roku:
+Poniżej przedstawiamy kwoty dofinansowań dostępne w ramach poszczególnych programów:
 
 | Program | Kwota dofinansowania | Procent dofinansowania |
 | --- | --- | --- |
-| Program Czyste Powietrze | do 30 000 zł | 30-50% |
-| Program Zielony Dom | do 50 000 zł | 20-30% |
-| Program Efektywność Energetyczna | do 20 000 zł | 20-40% |
+| Program Czyste Powietrze | do 30 000 zł | 30-90% |
+| Program Zielony Dom | do 50 000 zł | 20-50% |
+| Program Efektywność Energetyczna | do 20 000 zł | 20-50% |
 
-Warto wiedzieć, że kwoty dofinansowań oraz procent dofinansowania mogą się różnić w zależności od regionu oraz indywidualnych warunków.
+Warto wiedzieć, że kwoty dofinansowań oraz procent dofinansowania mogą się różnić w zależności od Twojej sytuacji finansowej oraz rodzaju inwestycji.
 
 ## Pułapki na które uważać
 
 Podczas składania wniosku o dofinansowanie, warto uważać na następujące pułapki:
 
 1. **Brak kompletności dokumentów**: Upewnij się, że wszystkie wymagane dokumenty są kompletne i prawidłowo wypełnione.
-2. **Niespełnienie warunków programu**: Przed złożeniem wniosku, upewnij się, że spełniasz wszystkie warunki programu.
-3. **Brak terminowości**: Zwróć uwagę na terminy składania wniosków oraz realizacji inwestycji.
+2. **Niespełnienie kryteriów**: Sprawdź, czy spełniasz wszystkie kryteria programu dofinansowania.
+3. **Brak terminowości**: Złóż wniosek w terminie określonym przez program.
 
 ## Jak złożyć wniosek - 3 proste kroki
 
-1. **Sprawdź warunki programu**: Przed złożeniem wniosku, upewnij się, że spełniasz wszystkie warunki programu.
+1. **Sprawdź dostępne programy**: Sprawdź, które programy dofinansowań są dostępne dla Ciebie.
 2. **Zbierz wymagane dokumenty**: Zbierz wszystkie wymagane dokumenty, takie jak faktury, umowy, czy zaświadczenia.
-3. **Złóż wniosek**: Złóż wniosek o dofinansowanie w wyznaczonym terminie.
+3. **Złóż wniosek**: Złóż wniosek o dofinansowanie w terminie określonym przez program.
 
 
 ## Powiązane: Europejski rynek BESS wchodzi w etap przejęć i nowej wyceny ryzyka. To znak dojrzewania, nie końca wzrostu
@@ -72,13 +72,13 @@ Więcej poradników, kalkulatorów i analiz dotacyjnych na [ecoaudyt.app](https:
 ## Najczęstsze pytania (FAQ)
 
 ### Q: Jakie dokumenty są wymagane do wniosku o dofinansowanie?
-A: Wymagane dokumenty mogą się różnić w zależności od programu, jednak najczęściej wymagane są: faktury, umowy, zaświadczenia oraz wniosek o dofinansowanie.
+A: Wymagane dokumenty mogą się różnić w zależności od programu, jednak najczęściej są to: faktury, umowy, zaświadczenia o dochodach, czy dokumenty potwierdzające własność nieruchomości.
+
+### Q: Czy mogę złożyć wniosek o dofinansowanie na remont domu?
+A: Tak, możesz złożyć wniosek o dofinansowanie na remont domu, o ile spełnia on kryteria programu dofinansowania.
 
 ### Q: Jak długo trwa rozpatrywanie wniosku o dofinansowanie?
-A: Czas rozpatrywania wniosku o dofinansowanie może się różnić w zależności od programu oraz ilości wniosków. Zwykle trwa kilka tygodni.
-
-### Q: Czy mogę złożyć wniosek o dofinansowanie na inwestycje, które już zostały zrealizowane?
-A: Nie, wniosek o dofinansowanie można złożyć tylko na inwestycje, które nie zostały jeszcze zrealizowane."
+A: Czas rozpatrywania wniosku o dofinansowanie może się różnić w zależności od programu, jednak najczęściej trwa od kilku tygodni do kilku miesięcy."
 }
 ```
 
