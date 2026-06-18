@@ -1,6 +1,6 @@
 ---
 title: "New price tag for Eversource’s Residential Energy Efficiency program, what "
-date: 2026-06-18T22:03:28.319Z
+date: 2026-06-18T22:03:46.328Z
 draft: false
 description: "New price tag for Eversource’s Residential Energy Efficiency program, what homeowners get in 2026 - AD HOC NEWS"
 author: "Agnieszka Kowalczyk"
@@ -19,36 +19,42 @@ ai_generated: true
 
 ## Wstęp
 
-Jako ekspert ds. dofinansowań OZE, często spotykam się z pytaniami właścicieli domów o możliwości uzyskania dofinansowania na poprawę efektywności energetycznej ich nieruchomości. W 2026 roku dostępne są różne programy dofinansowań, które mogą pomóc w sfinansowaniu inwestycji w energooszczędne rozwiązania. W tym artykule przedstawię dostępne programy dofinansowań i kwoty dofinansowań, które mogą być przyznane w 2026 roku.
+Jako właściciel domu, z pewnością zależy Ci na tym, aby Twój dom był nie tylko komfortowy, ale również przyjazny dla środowiska. W 2026 roku dostępne są różne programy dofinansowań, które pomogą Ci w modernizacji Twojego domu i obniżeniu kosztów energii.
 
-## Dostępne programy dofinansowań
+## Jakie dofinansowania czekają właścicieli domów w 2026 roku?
 
-W 2026 roku właściciele domów mogą ubiegać się o dofinansowanie w ramach kilku programów. Poniżej przedstawiam najważniejsze informacje o tych programach:
+W 2026 roku właściciele domów mogą skorzystać z kilku programów dofinansowań, które dotyczą efektywności energetycznej. Poniżej przedstawiamy wybrane programy:
 
-1. **Program Czyste Powietrze**: Jest to jeden z najpopularniejszych programów dofinansowań w Polsce, który oferuje wsparcie finansowe na wymianę kotłów grzewczych na bardziej ekologiczne oraz na poprawę efektywności energetycznej domu.
- * Dofinansowanie: do 30 000 zł na wymianę kotła grzewczego, do 50 000 zł na kompleksową termomodernizację domu.
- * Procent dofinansowania: do 85% kosztów inwestycji.
-2. **Program Rodzinny Kapitał Ekologiczny**: Program ten oferuje dofinansowanie na inwestycje w efektywność energetyczną domu, takie jak ocieplenie domu, wymiana okien i drzwi.
- * Dofinansowanie: do 20 000 zł na osobę.
- * Procent dofinansowania: do 50% kosztów inwestycji.
-3. **Program Zielony Dom**: Program ten oferuje dofinansowanie na budowę lub remont domu w technologii pasywnej.
- * Dofinansowanie: do 100 000 zł.
- * Procent dofinansowania: do 30% kosztów inwestycji.
+1. **Program Czyste Powietrze**: To jeden z najpopularniejszych programów dofinansowań, który dotyczy wymiany kotłów na paliwa stałe na kotły ekologiczne, montażu pomp ciepła, a także ocieplenia budynków.
+ * Dofinansowanie: do 30 000 zł na inwestycję
+ * Poziom dofinansowania: 30-90% kosztów inwestycji
+ * Termin składania wniosków: do 31 grudnia 2026 roku
+2. **Program Zielony Dom**: Ten program dofinansowuje budowę lub przebudowę domu w standardzie pasywnym lub energooszczędnym.
+ * Dofinansowanie: do 50 000 zł na inwestycję
+ * Poziom dofinansowania: 20-50% kosztów inwestycji
+ * Termin składania wniosków: do 30 czerwca 2026 roku
+3. **Program Energooszczędny Dom**: Program ten dofinansowuje inwestycje związane z obniżeniem zużycia energii w budynkach.
+ * Dofinansowanie: do 20 000 zł na inwestycję
+ * Poziom dofinansowania: 10-30% kosztów inwestycji
+ * Termin składania wniosków: do 31 grudnia 2026 roku
+
+## Co ważne dla wnioskodawcy
+
+Warto wiedzieć, że każdy z powyższych programów ma swoje własne kryteria i warunki, które muszą być spełnione, aby uzyskać dofinansowanie. Przed złożeniem wniosku należy dokładnie zapoznać się z regulaminem programu i upewnić się, że nasza inwestycja spełnia wszystkie wymagania.
 
 ## Pułapki na które uważać
 
-Warto wiedzieć, że każdy program dofinansowań ma swoje własne zasady i warunki, które muszą być spełnione, aby uzyskać dofinansowanie. Poniżej przedstawiam najważniejsze pułapki, na które należy uważać:
+W praktyce oznacza to, że wnioskodawca powinien:
 
-* **Termin składania wniosków**: Każdy program dofinansowań ma określony termin składania wniosków. Właściciele domów muszą zadbać o to, aby złożyć wniosek w terminie.
-* **Warunki techniczne**: Programy dofinansowań często wymagają, aby inwestycje spełniały określone warunki techniczne. Właściciele domów muszą zadbać o to, aby ich inwestycje spełniały te warunki.
+* Dokładnie zapoznać się z regulaminem programu
+* Zbierać wszystkie niezbędne dokumenty
+* Upewnić się, że inwestycja spełnia wszystkie wymagania programu
 
 ## Jak złożyć wniosek - 3 proste kroki
 
-Złożenie wniosku o dofinansowanie może być prostym procesem, jeśli wiesz, co robić. Poniżej przedstawiam 3 proste kroki, które musisz wykonać:
-
-1. **Sprawdź dostępne programy dofinansowań**: Właściciele domów muszą sprawdzić, które programy dofinansowań są dostępne w ich regionie.
-2. **Zbierz wymagane dokumenty**: Właściciele domów muszą zebrać wymagane dokumenty, takie jak faktury, umowy z wykonawcami, certyfikaty energetyczne.
-3. **Złóż wniosek**: Właściciele domów muszą złożyć wniosek o dofinansowanie w terminie określonym przez program.
+1. **Sprawdź, czy spełniasz warunki programu**: Przed złożeniem wniosku upewnij się, że spełniasz wszystkie warunki programu.
+2. **Zbierz niezbędne dokumenty**: Zbierz wszystkie niezbędne dokumenty, takie jak faktury, umowy, czy zaświadczenia.
+3. **Złóż wniosek**: Złóż wniosek wraz z niezbędnymi dokumentami.
 
 
 ## Powiązane: Europejski rynek BESS wchodzi w etap przejęć i nowej wyceny ryzyka. To znak dojrzewania, nie końca wzrostu
@@ -66,11 +72,15 @@ Więcej poradników, kalkulatorów i analiz dotacyjnych na [ecoaudyt.app](https:
 
 ## Najczęstsze pytania (FAQ)
 
-Poniżej przedstawiam odpowiedzi na najczęściej zadawane pytania:
+### Q: Jakie dokumenty są potrzebne do złożenia wniosku?
+A: Wymagane dokumenty mogą się różnić w zależności od programu, jednak najczęściej wymagane są: faktury, umowy, zaświadczenia.
 
-1. **Jakie są warunki uzyskania dofinansowania?**: Warunki uzyskania dofinansowania zależą od programu dofinansowań. Właściciele domów muszą sprawdzić warunki techniczne i finansowe określone przez program.
-2. **Ile wynosi dofinansowanie?**: Dofinansowanie zależy od programu dofinansowań i kosztów inwestycji. Właściciele domów mogą otrzymać dofinansowanie w wysokości do 30 000 zł lub więcej.
-3. **Jak długo trwa rozpatrywanie wniosku?**: Czas rozpatrywania wniosku zależy od programu dofinansowań i obciążenia pracą instytucji odpowiedzialnej za rozpatrywanie wniosków. Właściciele domów mogą oczekiwać odpowiedzi w ciągu kilku tygodni lub miesięcy."
+### Q: Jak długo trwa rozpatrywanie wniosku?
+A: Czas rozpatrywania wniosku może się różnić w zależności od programu i obciążenia pracą instytucji.
+
+### Q: Czy mogę złożyć wniosek samodzielnie?
+A: Tak, możesz złożyć wniosek samodzielnie, jednak warto skonsultować się z ekspertem, aby upewnić się, że wniosek jest kompletny i prawidłowy.
+"
 }
 ```
 
