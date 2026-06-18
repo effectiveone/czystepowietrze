@@ -1,6 +1,6 @@
 ---
 title: "New price tag for Eversource’s Residential Energy Efficiency program, what "
-date: 2026-06-18T06:03:28.482Z
+date: 2026-06-18T14:03:26.060Z
 draft: false
 description: "New price tag for Eversource’s Residential Energy Efficiency program, what homeowners get in 2026 - AD HOC NEWS"
 author: "Agnieszka Kowalczyk"
@@ -17,44 +17,43 @@ slug: "new-price-tag-for-eversources-residential-energy-efficiency-program-what-
 ai_generated: true
 ---
 
-## Wprowadzenie
+## Wstęp
 
-Jako właściciel domu, z pewnością zależy Ci na tym, aby Twój dom był nie tylko komfortowy, ale również przyjazny dla środowiska. W 2026 roku dostępne są różne programy dofinansowań, które pomogą Ci poprawić efektywność energetyczną Twojego domu. W tym artykule dowiesz się, jakie dofinansowanie możesz uzyskać i jak je zdobyć.
+Jako właściciel domu, z pewnością zależy Ci na tym, aby Twój dom był nie tylko komfortowy, ale również przyjazny dla środowiska. W 2026 roku dostępne są różne programy dofinansowań, które pomogą Ci poprawić efektywność energetyczną Twojego domu. W tym artykule przedstawimy Ci dostępne programy i kwoty dofinansowań.
 
 ## Dostępne programy dofinansowań
 
-W 2026 roku dostępnych jest kilka programów dofinansowań, które mogą pomóc Ci poprawić efektywność energetyczną Twojego domu. Poniżej przedstawiamy wybrane programy:
+W 2026 roku dostępnych jest kilka programów dofinansowań, które mogą pomóc Ci poprawić efektywność energetyczną Twojego domu. Poniżej przedstawiamy ich wykaz:
 
 1. **Program Czyste Powietrze**: To jeden z najpopularniejszych programów dofinansowań w Polsce. Jego celem jest zmniejszenie emisji szkodliwych substancji do atmosfery poprzez dofinansowanie wymiany źródeł ciepła oraz poprawę efektywności energetycznej budynków.
- * Dofinansowanie: do 30 000 zł (maksymalnie 90% kosztów kwalifikowanych)
- * Procent dofinansowania: 90% kosztów kwalifikowanych
- * Termin składania wniosków: do 31 grudnia 2026 roku
-2. **Program Zielony Dom**: To program dofinansowań dla właścicieli domów, którzy chcą poprawić efektywność energetyczną swojego domu poprzez montaż paneli fotowoltaicznych lub innych systemów odnawialnych źródeł energii.
- * Dofinansowanie: do 20 000 zł (maksymalnie 80% kosztów kwalifikowanych)
- * Procent dofinansowania: 80% kosztów kwalifikowanych
- * Termin składania wniosków: do 30 czerwca 2026 roku
+2. **Program Zielony Dom**: Ten program dofinansowuje budowę lub przebudowę domu w sposób przyjazny dla środowiska.
+3. **Program Efektywność Energetyczna**: Program ten dofinansowuje działania mające na celu poprawę efektywności energetycznej budynków.
 
-## Kto może ubiegać się o dofinansowanie?
+## Kwoty dofinansowań
 
-O dofinansowanie mogą ubiegać się właściciele domów, którzy spełniają określone warunki. Poniżej przedstawiamy wybrane warunki:
+Poniżej przedstawiamy kwoty dofinansowań dostępne w ramach poszczególnych programów:
 
-* Wnioskodawca musi być właścicielem domu
-* Dom musi być zlokalizowany na terenie Polski
-* Wnioskodawca musi spełniać określone kryteria dochodowe
+| Program | Kwota dofinansowania | Procent dofinansowania |
+| --- | --- | --- |
+| Program Czyste Powietrze | do 30 000 zł | 30-90% |
+| Program Zielony Dom | do 50 000 zł | 20-50% |
+| Program Efektywność Energetyczna | do 20 000 zł | 20-50% |
+
+Warto wiedzieć, że kwoty dofinansowań oraz procent dofinansowania mogą się różnić w zależności od indywidualnych warunków.
 
 ## Pułapki na które uważać
 
-Warto wiedzieć, że istnieją pewne pułapki, na które należy uważać podczas ubiegania się o dofinansowanie. Poniżej przedstawiamy wybrane pułapki:
+Podczas składania wniosku o dofinansowanie, warto uważać na następujące pułapki:
 
-* Należy dokładnie zapoznać się z warunkami programu dofinansowań
-* Należy sprawdzić, czy Wnioskodawca spełnia wszystkie kryteria
-* Należy przygotować wszystkie niezbędne dokumenty
+1. **Brak kompletności dokumentów**: Upewnij się, że wszystkie wymagane dokumenty są kompletne i prawidłowo wypełnione.
+2. **Niespełnienie warunków programu**: Przed złożeniem wniosku, upewnij się, że spełniasz wszystkie warunki programu.
+3. **Brak terminowości**: Składaj wniosek w terminie, aby uniknąć opóźnień w rozpatrywaniu.
 
 ## Jak złożyć wniosek - 3 proste kroki
 
-1. **Sprawdź warunki programu dofinansowań**: Przed złożeniem wniosku należy sprawdzić warunki programu dofinansowań i upewnić się, że spełnia się wszystkie kryteria.
-2. **Przygotuj niezbędne dokumenty**: Należy przygotować wszystkie niezbędne dokumenty, takie jak faktury, umowy, czy zaświadczenia.
-3. **Złóż wniosek**: Wnioskodawca może złożyć wniosek online lub w siedzibie instytucji udzielającej dofinansowania.
+1. **Sprawdź warunki programu**: Przed złożeniem wniosku, upewnij się, że spełniasz wszystkie warunki programu.
+2. **Zbierz wymagane dokumenty**: Zbierz wszystkie wymagane dokumenty, takie jak faktury, umowy, itp.
+3. **Złóż wniosek**: Złóż wniosek w terminie, wraz z kompletem dokumentów.
 
 
 ## Powiązane: Europejski rynek BESS wchodzi w etap przejęć i nowej wyceny ryzyka. To znak dojrzewania, nie końca wzrostu
@@ -72,10 +71,14 @@ Więcej poradników, kalkulatorów i analiz dotacyjnych na [ecoaudyt.app](https:
 
 ## Najczęstsze pytania (FAQ)
 
-1. **Jakie dofinansowanie mogę uzyskać na montaż paneli fotowoltaicznych?**: Dofinansowanie na montaż paneli fotowoltaicznych może wynosić do 20 000 zł (maksymalnie 80% kosztów kwalifikowanych).
-2. **Czy mogę ubiegać się o dofinansowanie, jeśli nie jestem właścicielem domu?**: Nie, o dofinansowanie mogą ubiegać się tylko właściciele domów.
-3. **Jak długo trwa rozpatrywanie wniosku o dofinansowanie?**: Czas rozpatrywania wniosku o dofinansowanie może wynosić od kilku tygodni do kilku miesięcy.
-"
+### Q: Jakie dokumenty są wymagane do złożenia wniosku?
+A: Wymagane dokumenty mogą się różnić w zależności od programu, jednak najczęściej wymagane są: faktury, umowy, projekt budowlany, itp.
+
+### Q: Jak długo trwa rozpatrywanie wniosku?
+A: Czas rozpatrywania wniosku może się różnić w zależności od programu, jednak najczęściej trwa od kilku tygodni do kilku miesięcy.
+
+### Q: Czy mogę złożyć wniosek online?
+A: Tak, wiele programów dofinansowań umożliwia składanie wniosków online. Sprawdź stronę internetową programu, aby uzyskać więcej informacji."
 }
 ```
 
