@@ -1,6 +1,6 @@
 ---
 title: "New price tag for Eversource’s Residential Energy Efficiency program, what "
-date: 2026-06-18T22:03:46.328Z
+date: 2026-06-18T22:04:02.204Z
 draft: false
 description: "New price tag for Eversource’s Residential Energy Efficiency program, what homeowners get in 2026 - AD HOC NEWS"
 author: "Agnieszka Kowalczyk"
@@ -19,42 +19,41 @@ ai_generated: true
 
 ## Wstęp
 
-Jako właściciel domu, z pewnością zależy Ci na tym, aby Twój dom był nie tylko komfortowy, ale również przyjazny dla środowiska. W 2026 roku dostępne są różne programy dofinansowań, które pomogą Ci w modernizacji Twojego domu i obniżeniu kosztów energii.
+Jako właściciel domu, z pewnością zależy Ci na tym, aby Twój dom był nie tylko komfortowy, ale również przyjazny dla środowiska. W 2026 roku dostępne są różne programy dofinansowań, które pomogą Ci poprawić efektywność energetyczną Twojego domu. W tym artykule przedstawimy Ci dostępne programy i kwoty dofinansowań.
 
-## Jakie dofinansowania czekają właścicieli domów w 2026 roku?
+## Dostępne programy dofinansowań
 
-W 2026 roku właściciele domów mogą skorzystać z kilku programów dofinansowań, które dotyczą efektywności energetycznej. Poniżej przedstawiamy wybrane programy:
+W 2026 roku dostępnych jest kilka programów dofinansowań, które mogą pomóc Ci poprawić efektywność energetyczną Twojego domu. Poniżej przedstawiamy ich wykaz:
 
-1. **Program Czyste Powietrze**: To jeden z najpopularniejszych programów dofinansowań, który dotyczy wymiany kotłów na paliwa stałe na kotły ekologiczne, montażu pomp ciepła, a także ocieplenia budynków.
- * Dofinansowanie: do 30 000 zł na inwestycję
- * Poziom dofinansowania: 30-90% kosztów inwestycji
- * Termin składania wniosków: do 31 grudnia 2026 roku
-2. **Program Zielony Dom**: Ten program dofinansowuje budowę lub przebudowę domu w standardzie pasywnym lub energooszczędnym.
- * Dofinansowanie: do 50 000 zł na inwestycję
- * Poziom dofinansowania: 20-50% kosztów inwestycji
- * Termin składania wniosków: do 30 czerwca 2026 roku
-3. **Program Energooszczędny Dom**: Program ten dofinansowuje inwestycje związane z obniżeniem zużycia energii w budynkach.
- * Dofinansowanie: do 20 000 zł na inwestycję
- * Poziom dofinansowania: 10-30% kosztów inwestycji
- * Termin składania wniosków: do 31 grudnia 2026 roku
+1. **Program Czyste Powietrze**: To jeden z najpopularniejszych programów dofinansowań w Polsce. Jego celem jest zmniejszenie emisji szkodliwych substancji do atmosfery poprzez dofinansowanie wymiany źródeł ciepła oraz poprawę efektywności energetycznej budynków.
+2. **Program Zielony Dom**: Ten program dofinansowuje budowę lub remont domu w sposób przyjazny dla środowiska.
+3. **Program Efektywność Energetyczna**: Jego celem jest poprawa efektywności energetycznej budynków poprzez dofinansowanie inwestycji w tym zakresie.
 
-## Co ważne dla wnioskodawcy
+## Kwoty dofinansowań
 
-Warto wiedzieć, że każdy z powyższych programów ma swoje własne kryteria i warunki, które muszą być spełnione, aby uzyskać dofinansowanie. Przed złożeniem wniosku należy dokładnie zapoznać się z regulaminem programu i upewnić się, że nasza inwestycja spełnia wszystkie wymagania.
+Poniżej przedstawiamy kwoty dofinansowań dostępne w ramach poszczególnych programów:
+
+| Program | Kwota dofinansowania | Procent dofinansowania |
+| --- | --- | --- |
+| Program Czyste Powietrze | do 30 000 zł | 30-90% |
+| Program Zielony Dom | do 50 000 zł | 20-50% |
+| Program Efektywność Energetyczna | do 20 000 zł | 20-50% |
+
+Warto wiedzieć, że kwoty dofinansowań oraz procent dofinansowania mogą ulec zmianie w zależności od sytuacji.
 
 ## Pułapki na które uważać
 
-W praktyce oznacza to, że wnioskodawca powinien:
+Podczas składania wniosku o dofinansowanie, warto uważać na następujące pułapki:
 
-* Dokładnie zapoznać się z regulaminem programu
-* Zbierać wszystkie niezbędne dokumenty
-* Upewnić się, że inwestycja spełnia wszystkie wymagania programu
+1. **Brak kompletności dokumentów**: Upewnij się, że wszystkie wymagane dokumenty są kompletne i prawidłowo wypełnione.
+2. **Niespełnienie kryteriów**: Przed złożeniem wniosku, upewnij się, że spełniasz wszystkie kryteria programu dofinansowania.
+3. **Brak terminowości**: Składaj wniosek w terminie, aby uniknąć opóźnień w rozpatrywaniu.
 
 ## Jak złożyć wniosek - 3 proste kroki
 
-1. **Sprawdź, czy spełniasz warunki programu**: Przed złożeniem wniosku upewnij się, że spełniasz wszystkie warunki programu.
-2. **Zbierz niezbędne dokumenty**: Zbierz wszystkie niezbędne dokumenty, takie jak faktury, umowy, czy zaświadczenia.
-3. **Złóż wniosek**: Złóż wniosek wraz z niezbędnymi dokumentami.
+1. **Sprawdź dostępne programy dofinansowań**: Wybierz program dofinansowania, który najlepiej odpowiada Twoim potrzebom.
+2. **Zbierz wymagane dokumenty**: Upewnij się, że masz wszystkie wymagane dokumenty.
+3. **Złóż wniosek**: Składaj wniosek w terminie, wraz z kompletem dokumentów.
 
 
 ## Powiązane: Europejski rynek BESS wchodzi w etap przejęć i nowej wyceny ryzyka. To znak dojrzewania, nie końca wzrostu
@@ -72,14 +71,14 @@ Więcej poradników, kalkulatorów i analiz dotacyjnych na [ecoaudyt.app](https:
 
 ## Najczęstsze pytania (FAQ)
 
-### Q: Jakie dokumenty są potrzebne do złożenia wniosku?
-A: Wymagane dokumenty mogą się różnić w zależności od programu, jednak najczęściej wymagane są: faktury, umowy, zaświadczenia.
+### Q: Jakie dokumenty są wymagane do złożenia wniosku?
+A: Wymagane dokumenty różnią się w zależności od programu dofinansowania. Przed złożeniem wniosku, upewnij się, że masz wszystkie wymagane dokumenty.
 
 ### Q: Jak długo trwa rozpatrywanie wniosku?
-A: Czas rozpatrywania wniosku może się różnić w zależności od programu i obciążenia pracą instytucji.
+A: Czas rozpatrywania wniosku różni się w zależności od programu dofinansowania. Przed złożeniem wniosku, upewnij się, że skonsultowałeś się z odpowiednim organem.
 
-### Q: Czy mogę złożyć wniosek samodzielnie?
-A: Tak, możesz złożyć wniosek samodzielnie, jednak warto skonsultować się z ekspertem, aby upewnić się, że wniosek jest kompletny i prawidłowy.
+### Q: Czy mogę złożyć wniosek online?
+A: Możliwość składania wniosku online różni się w zależności od programu dofinansowania. Przed złożeniem wniosku, upewnij się, że sprawdziłeś tę informację.
 "
 }
 ```
