@@ -1,6 +1,6 @@
 ---
 title: "Aukcje OZE w Polsce — wyniki i perspektywy"
-date: 2026-07-14T14:04:39.761Z
+date: 2026-07-14T22:04:50.690Z
 draft: false
 description: "Aukcje OZE w Polsce — wyniki i perspektywy"
 author: "Agnieszka Kowalczyk"
@@ -27,49 +27,48 @@ Aukcje OZE to mechanizm, który pozwala na wsparcie rozwoju odnawialnych źróde
 
 ## Jak działają aukcje OZE?
 
-1. **Nabór wniosków**: Przedsiębiorcy i osoby fizyczne mogą składać wnioski o udział w aukcji.
-2. **Aukcja**: Uczestnicy aukcji składają oferty, określając cenę, za jaką są gotowi dostarczać energię.
-3. **Wyłonienie zwycięzców**: Zwycięzcy aukcji otrzymują wsparcie finansowe w postaci tzw. **zielonych certyfikatów**.
+1. **Przetargi**: Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW) ogłasza przetargi na wsparcie dla projektów OZE.
+2. **Składanie ofert**: Podmioty zainteresowane składają oferty, określając cenę, za jaką zobowiązują się dostarczać energię.
+3. **Wybór ofert**: NFOŚiGW wybiera oferty, które spełniają warunki i mają najniższe ceny.
 
-## Wyniki dotychczasowych aukcji
+## Wyniki aukcji OZE
 
-Do tej pory w Polsce odbyło się kilka aukcji OZE, które przyniosły różne rezultaty. W 2020 roku, w aukcji dla projektów fotowoltaicznych,  było  ok.  26,4 mln zł  dofinansowania  dla 110  projektów  o  łącznej  mocy  699  MW. 
-
-W 2022 roku, aukcja dla projektów wiatrowych i fotowoltaicznych przybliżyła  kwotę  14, 5 mln  zł  dofinansowania dla 51  projektów  o  łącznej  mocy  364  MW.
+Do tej pory odbyło się kilka aukcji OZE w Polsce, z udziałem projektów solarnych, wiatrowych i hydroenergetycznych. Co ważne dla wnioskodawcy, aukcje te pokazały znaczny spadek cen energii z OZE, co jest korzystne dla polskiej gospodarki.
 
 ## Dostępne dotacje dla właścicieli domów
 
-Co ważne dla wnioskodawcy, właściciele domów mogą ubiegać się o dotacje na OZE z programu **Czyste Powietrze**. Program oferuje dofinansowanie w wysokości:
+Warto wiedzieć, że właściciele domów mogą skorzystać z dotacji na OZE ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW) oraz Wojewódzkich Funduszy Ochrony Środowiska i Gospodarki Wodnej (WFOŚiGW).
 
-| Rodzaj dofinansowania | Kwota dofinansowania | Procent dofinansowania |
+### Dotacje na OZE - porównanie
+
+| Rodzaj dotacji | Kwota dofinansowania | Procent dofinansowania |
 | --- | --- | --- |
-| Podstawowe | do 30 000 zł | 30% |
-| Podwyższone | do 50 000 zł | 50% |
-| Najwyższe | do 90 000 zł | 85% |
+| Dotacja na montaż paneli fotowoltaicznych | do 30 000 zł | do 50% |
+| Dotacja na zakup i montaż kotła gazowego | do 25 000 zł | do 40% |
+| Dotacja na termomodernizację budynku | do 100 000 zł | do 80% |
 
 ## Pułapki na które uważać
 
-Warto wiedzieć, że proces ubiegania się o dotacje na OZE może być skomplikowany. Pułapki na które uważać:
+Podczas ubiegania się o dotacje na OZE warto uważać na kilka pułapek:
+- **Spełnienie warunków**: Należy dokładnie sprawdzić warunki, jakie trzeba spełnić, aby otrzymać dotację.
+- **Termin składania wniosków**: Trzeba pilnować terminów składania wniosków, gdyż mogą one ulec zmianie.
 
-* **Brak doświadczenia**: Nieznajomość procedur i wymagań może prowadzić do odrzucenia wniosku.
-* **Niewłaściwa dokumentacja**: Brak kompletnej dokumentacji może opóźnić lub uniemożliwić uzyskanie dofinansowania.
+## Jak złożyć wniosek - 3 proste kroki
 
-## Jak złożyć wniosek — 3 proste kroki
-
-1. **Sprawdź dostępność dofinansowania**: Zweryfikuj, czy Twój projekt kwalifikuje się do dofinansowania.
-2. **Przygotuj wniosek**: Zbierz niezbędną dokumentację i wypełnij wniosek.
-3. **Złóż wniosek**: Prześlij wniosek do właściwego organu.
+1. **Sprawdzenie dostępności dotacji**: Wejdź na stronę NFOŚiGW lub WFOŚiGW, aby sprawdzić dostępność dotacji w Twoim regionie.
+2. **Przygotowanie dokumentów**: Przygotuj wszystkie niezbędne dokumenty, w tym wniosek, faktury i umowy.
+3. **Złożenie wniosku**: Złóż wniosek wraz z załącznikami w terminie określonym przez fundusz.
 
 ## Najczęstsze pytania (FAQ)
 
-### Q: Jakie są korzyści z udziału w aukcjach OZE?
-A: Udział w aukcjach OZE może przynieść korzyści finansowe dla właścicieli instalacji OZE.
+### Q: Jakie są perspektywy dla OZE w Polsce?
+A: Perspektywy dla OZE w Polsce są bardzo dobre. Rząd zapowiedział zwiększenie udziału OZE w bilansie energetycznym kraju.
 
-### Q: Jakich dokumentów potrzebuję, aby ubiegać się o dotację z programu Czyste Powietrze?
-A: Do wniosku należy dołączyć m.in. dowód własności nieruchomości, fakturę za zakup instalacji OZE oraz dokumenty potwierdzające montaż instalacji.
+### Q: Czy aukcje OZE są obowiązkowe?
+A: Nie, aukcje OZE są dobrowolne. Podmioty zainteresowane mogą brać w nich udział, jeśli spełniają określone warunki.
 
-### Q: Czy mogę łączyć dofinansowanie z programu Czyste Powietrze z innymi formami wsparcia?
-A: Tak, możliwe jest łączenie dofinansowania z programu Czyste Powietrze z innymi formami wsparcia, np. z kredytami preferencyjnymi."
+### Q: Jaką kwotę dofinansowania mogę otrzymać na montaż paneli fotowoltaicznych?
+A: Do 30 000 zł, co stanowi do 50% kosztów inwestycji."
 }
 ```
 
