@@ -1,6 +1,6 @@
 ---
 title: "Aukcje OZE w Polsce — wyniki i perspektywy"
-date: 2026-07-30T06:03:53.211Z
+date: 2026-07-30T22:03:53.218Z
 draft: false
 description: "Aukcje OZE w Polsce — wyniki i perspektywy"
 author: "Agnieszka Kowalczyk"
@@ -17,56 +17,38 @@ slug: "aukcje-oze-w-polsce-wyniki-i-perspektywy-2026-07-30"
 ai_generated: true
 ---
 
-# Aukcje OZE w Polsce - szansa na taniej energię
+Aukcje OZE w Polsce to coraz popularniejsza forma wspierania inwestycji w odnawialne źródła energii. W praktyce oznacza to, że inwestorzy mają szansę uzyskać dofinansowanie na realizację projektów związanych z OZE. Warto wiedzieć, że aukcje te są organizowane przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW) oraz Wojewódzkie Fundusze Ochrony Środowiska i Gospodarki Wodnej (WFOŚiGW).
 
-Jako ekspert ds. dofinansowań OZE, często spotykam się z pytaniami o aukcje OZE w Polsce. Co to są za aukcje, jakie są ich wyniki i perspektywy? W tym artykule postaram się odpowiedzieć na te pytania i wyjaśnić, jak uzyskać dofinansowanie na energię odnawialną.
+W 2022 roku odbyła się aukcja OZE, w której udział wzięło 22 projekty. Łączna wartość dofinansowania wyniosła 1,3 mld złotych. Co ważne dla wnioskodawcy, aukcje OZE są otwarte dla wszystkich podmiotów, które chcą zrealizować projekt związany z OZE.
 
-## Co to są aukcje OZE?
+Oto 5 kroków, które należy podjąć, aby wziąć udział w aukcji OZE:
+1. **Sprawdź terminy składania wniosków**: Terminy składania wniosków są ogłaszane na stronach NFOŚiGW i WFOŚiGW. Warto śledzić te strony, aby nie przegapić terminu.
+2. **Przygotuj dokumentację**: Do dokumentacji należy dołączyć m.in. opis projektu, kosztorys oraz dokumenty potwierdzające posiadanie niezbędnych uprawnień.
+3. **Złóż wniosek**: Wnioski można składać osobiście lub za pośrednictwem poczty elektronicznej.
+4. **Czekaj na wyniki**: Po złożeniu wniosku należy czekać na wyniki aukcji. Wyniki są ogłaszane na stronach NFOŚiGW i WFOŚiGW.
+5. **Podpisz umowę**: Jeśli projekt zostanie wybrany do dofinansowania, należy podpisać umowę z NFOŚiGW lub WFOŚiGW.
 
-Aukcje OZE to jeden z mechanizmów wsparcia dla odnawialnych źródeł energii w Polsce. Ich celem jest pobudzenie inwestycji w OZE i obniżenie kosztów energii dla odbiorców końcowych. W praktyce oznacza to, że podmioty zainteresowane produkcją energii z OZE mogą brać udział w aukcjach, na których sprzedają swoją energię.
+Pułapki, na które uważać, to m.in.:
+* **Brak doświadczenia**: Brak doświadczenia w realizacji projektów związanych z OZE może utrudnić uzyskanie dofinansowania.
+* **Niewłaściwa dokumentacja**: Niewłaściwa dokumentacja może spowodować odrzucenie wniosku.
+* **Niedostateczne środki finansowe**: Niedostateczne środki finansowe mogą utrudnić realizację projektu.
 
-## Jak działają aukcje OZE?
+Dofinansowanie na OZE może wynieść do 50% kosztów kwalifikowanych. Warto wiedzieć, że dofinansowanie może być przyznane na różne rodzaje projektów, w tym na:
+| Rodzaj projektu | Maksymalna kwota dofinansowania |
+| --- | --- |
+| Instalacja solarowa | 200 000 zł |
+| Instalacja wiatrowa | 500 000 zł |
+| Instalacja biogazowa | 300 000 zł |
 
-Aukcje OZE odbywają się w formie elektronicznej i są organizowane przez Urząd Regulacji Energetyki (URE). Podmioty zainteresowane udziałem w aukcji składają swoje oferty, określając cenę, za jaką są gotowe sprzedać swoją energię. Następnie oferty są uporządkowane według ceny i wybiera się najtańsze oferty, które spełniają warunki aukcji.
+Jak złożyć wniosek — 3 proste kroki:
+1. **Przygotuj dokumentację**: Przygotuj wszystkie niezbędne dokumenty, w tym opis projektu, kosztorys oraz dokumenty potwierdzające posiadanie niezbędnych uprawnień.
+2. **Złóż wniosek**: Złóż wniosek osobiście lub za pośrednictwem poczty elektronicznej.
+3. **Czekaj na wyniki**: Czekaj na wyniki aukcji i podpisz umowę, jeśli projekt zostanie wybrany do dofinansowania.
 
-## Wyniki aukcji OZE
-
-Wyniki aukcji OZE w Polsce są obiecujące. W 2022 roku, w aukcji dla dużych projektów OZE, sprzedano ponad 11 TWh energii, co stanowiło około 30% zapotrzebowania na energię w Polsce. Co ważne dla wnioskodawcy, aukcje te przyciągają coraz więcej inwestorów, co przekłada się na większą konkurencję i niższe ceny energii.
-
-## Dofinansowanie na OZE
-
-Dofinansowanie na OZE to kolejny mechanizm wsparcia dla inwestycji w odnawialne źródła energii. W Polsce istnieją różne programy dofinansowań, takie jak:
-
-| Program dofinansowań | Kwota dofinansowania | Procent dofinansowania |
-| --- | --- | --- |
-| Czyste Powietrze | do 49 000 zł | do 90% |
-| NFOŚiGW | do 1 mln zł | do 50% |
-| WFOŚiGW | do 500 tys. zł | do 30% |
-
-Warto wiedzieć, że dofinansowanie na OZE można uzyskać na różne cele, takie jak zakup i montaż paneli słonecznych, pomp ciepła czy kotłów na biomasę.
-
-## Pułapki na które uważać
-
-Podczas ubiegania się o dofinansowanie na OZE, warto uważać na kilka pułapek. Po pierwsze, należy dokładnie zapoznać się z warunkami programu dofinansowań i upewnić się, że spełniamy wszystkie wymagania. Po drugie, należy wybrać odpowiedniego wykonawcę, który ma doświadczenie w realizacji projektów OZE.
-
-## Jak złożyć wniosek - 3 proste kroki
-
-1. **Zapoznaj się z warunkami programu dofinansowań**: Przed złożeniem wniosku, należy dokładnie zapoznać się z warunkami programu dofinansowań i upewnić się, że spełniamy wszystkie wymagania.
-2. **Przygotuj niezbędne dokumenty**: Należy przygotować niezbędne dokumenty, takie jak faktury, umowy czy projekty.
-3. **Złóż wniosek**: Po przygotowaniu niezbędnych dokumentów, można złożyć wniosek o dofinansowanie.
-
-## Najczęstsze pytania (FAQ)
-
-### Q: Jakie są perspektywy dla aukcji OZE w Polsce?
-A: Perspektywy dla aukcji OZE w Polsce są obiecujące. Aukcje te przyciągają coraz więcej inwestorów, co przekłada się na większą konkurencję i niższe ceny energii.
-
-### Q: Jak uzyskać dofinansowanie na OZE?
-A: Dofinansowanie na OZE można uzyskać na różne cele, takie jak zakup i montaż paneli słonecznych, pomp ciepła czy kotłów na biomasę. Należy zapoznać się z warunkami programu dofinansowań i złożyć wniosek.
-
-### Q: Jakie są pułapki na które uważać podczas ubiegania się o dofinansowanie na OZE?
-A: Podczas ubiegania się o dofinansowanie na OZE, warto uważać na kilka pułapek, takich jak dokładne zapoznanie się z warunkami programu dofinansowań i wybór odpowiedniego wykonawcy."
-}
-```
+Najczęstsze pytania (FAQ):
+1. **Jaki jest termin składania wniosków?**: Terminy składania wniosków są ogłaszane na stronach NFOŚiGW i WFOŚiGW.
+2. **Jaka jest maksymalna kwota dofinansowania?**: Maksymalna kwota dofinansowania wynosi 50% kosztów kwalifikowanych.
+3. **Czy mogę złożyć wniosek osobiście?**: Tak, wniosek można złożyć osobiście lub za pośrednictwem poczty elektronicznej.
 
 ---
 
