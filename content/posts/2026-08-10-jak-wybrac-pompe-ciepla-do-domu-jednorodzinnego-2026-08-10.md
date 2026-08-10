@@ -1,6 +1,6 @@
 ---
 title: "Jak wybrać pompę ciepła do domu jednorodzinnego"
-date: 2026-08-10T06:03:54.046Z
+date: 2026-08-10T14:04:02.150Z
 draft: false
 description: "Jak wybrać pompę ciepła do domu jednorodzinnego"
 author: "Agnieszka Kowalczyk"
@@ -42,33 +42,42 @@ Oto kroki, które należy podjąć, aby wybrać odpowiednią pompę ciepła:
 3. **Sprawdź efektywność energetyczną**: wybierz pompę ciepła z wysoką efektywnością energetyczną (COP).
 4. **Porównaj ceny**: porównaj ceny różnych pomp ciepła i montażu.
 
-### Dofinansowania na pompę ciepła
+### Dofinansowania dla pomp ciepła
 
-W Polsce dostępne są dofinansowania na montaż pomp ciepła w ramach programu Czyste Powietrze. Co ważne dla wnioskodawcy, dofinansowanie może wynieść nawet do 30 000 zł.
+W Polsce dostępne są dofinansowania dla pomp ciepła w ramach programu Czyste Powietrze. Co ważne dla wnioskodawcy, dofinansowanie może wynieść nawet do 30 000 zł.
 
-| Dofinansowanie | Kwota | Warunki |
+| Rodzaj dofinansowania | Kwota dofinansowania | Procent dofinansowania |
 | --- | --- | --- |
-| Podstawowe | do 30 000 zł | dla osób fizycznych, 80% dofinansowania |
-| Podwyższone | do 45 000 zł | dla osób fizycznych, 85% dofinansowania, dodatkowe warunki |
+| Podstawowe | 10 000 zł | 30% |
+| Podwyższone | 20 000 zł | 50% |
+| Najwyższe | 30 000 zł | 70% |
 
-Warto wiedzieć, że dofinansowanie jest przyznawane w ramach limitu środków dostępnych w danym roku budżetowym.
+Warto wiedzieć, że dofinansowanie jest udzielane w ramach limitu środków dostępnych w danym roku budżetowym.
 
 ### Pułapki na które uważać
 
-* **Niewłaściwy dobór pompy ciepła**: może prowadzić do niskiej efektywności i wysokich kosztów eksploatacyjnych.
-* **Brak doświadczenia instalatora**: może prowadzić do błędów montażowych i awarii.
+W praktyce oznacza to, że należy uważać na:
+
+* zbyt wysokie koszty montażu
+* niską efektywność energetyczną pompy ciepła
+* brak niezbędnych dokumentów do wniosku o dofinansowanie
 
 ### Jak złożyć wniosek - 3 proste kroki
 
-1. **Zbierz dokumenty**: przygotuj niezbędne dokumenty, w tym faktury i umowy.
-2. **Złóż wniosek**: złóż wniosek online lub w siedzibie WFOŚiGW.
-3. **Czekaj na decyzję**: czekaj na decyzję o dofinansowaniu.
+1. **Zbierz niezbędne dokumenty**: przygotuj wszystkie wymagane dokumenty, w tym faktury i rachunki.
+2. **Wypełnij wniosek**: wypełnij wniosek o dofinansowanie w ramach programu Czyste Powietrze.
+3. **Złóż wniosek**: złóż wniosek wraz z niezbędnymi dokumentami.
 
 ### Najczęstsze pytania (FAQ)
 
-1. **Jakie są koszty eksploatacyjne pompy ciepła?**: koszty eksploatacyjne pompy ciepła są niższe niż tradycyjnych źródeł ciepła.
-2. **Czy dofinansowanie jest ograniczone?**: tak, dofinansowanie jest ograniczone do dostępnego limitu środków w danym roku budżetowym.
-3. **Czy mogę złożyć wniosek online?**: tak, wniosek można złożyć online lub w siedzibie WFOŚiGW."
+**Q: Jakie są koszty eksploatacji pompy ciepła?**
+A: Koszty eksploatacji pompy ciepła są stosunkowo niskie, ok. 100-200 zł miesięcznie.
+
+**Q: Czy pompa ciepła jest głośna?**
+A: Nie, większość pomp ciepła jest cicha i nie generuje hałasu.
+
+**Q: Jak długo trwa montaż pompy ciepła?**
+A: Montaż pompy ciepła trwa zwykle kilka dni do tygodnia."
 }
 ```
 
