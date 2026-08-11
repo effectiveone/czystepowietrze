@@ -1,6 +1,6 @@
 ---
 title: "Transformacja energetyczna w Polsce – gdzie jesteśmy?"
-date: 2026-08-11T06:04:11.147Z
+date: 2026-08-11T14:04:08.999Z
 draft: false
 description: "Transformacja energetyczna w Polsce – gdzie jesteśmy?"
 author: "Agnieszka Kowalczyk"
@@ -35,46 +35,45 @@ Jednym z kluczowych elementów transformacji energetycznej w Polsce są dofinans
 
 Jednym z najpopularniejszych programów dofinansowujących OZE jest Program Czyste Powietrze. Jego celem jest poprawa jakości powietrza w Polsce poprzez dofinansowanie inwestycji w OZE oraz termomodernizację budynków.
 
-*   **Dofinansowanie:** do 100 000 zł na inwestycję w OZE (przykład: panele fotowoltaiczne, kotły na biomasę)
-*   **Procent dofinansowania:** do 85% kosztów inwestycji
-*   **Terminy składania wniosków:** Program Czyste Powietrze jest otwarty, wnioski można składać przez cały rok.
+Warto wiedzieć, że Program Czyste Powietrze oferuje dofinansowanie w wysokości do 100 000 zł na inwestycje w OZE, takie jak:
 
-### Dofinansowania na OZE dla gospodarstw domowych
+*   Panele fotowoltaiczne
+*   Kotły na biomasę
+*   Pompy ciepła
 
-Dla gospodarstw domowych dostępnych jest kilka programów dofinansowujących OZE. Poniżej przedstawiam porównanie niektórych z nich:
+Co ważne dla wnioskodawcy, dofinansowanie to może pokryć nawet do 50% kosztów inwestycji.
 
-| Program                  | Dofinansowanie  | Procent dofinansowania | Terminy składania wniosków |
-| ------------------------ | --------------- | ---------------------- | --------------------------- |
-| Czyste Powietrze         | do 100 000 zł   | do 85%                 | cały rok                   |
-| Mój Prąd                 | do 30 000 zł    | do 50%                 | co roku, ogłaszane         |
-| Zielona Gmina            | do 500 000 zł   | do 80%                 | co roku, ogłaszane         |
+### Inne programy dofinansowujące OZE
 
-Warto wiedzieć, że powyższe programy dofinansowujące mogą ulec zmianie, dlatego zawsze warto sprawdzić aktualne informacje na stronach NFOŚiGW oraz WFOŚiGW.
+Oprócz Programu Czyste Powietrze, istnieją również inne programy dofinansowujące OZE, takie jak:
 
-## Co ważne dla wnioskodawcy
-
-Pułapki na które uważać:
-
-*   Należy dokładnie zapoznać się z warunkami programu dofinansowującego, aby uniknąć błędów w wniosku.
-*   Wniosek powinien być kompletny i zawierać wszystkie wymagane załączniki.
-*   Termin składania wniosków jest ważny - jego przekroczenie może skutkować odrzuceniem wniosku.
+| Program | Dofinansowanie | Termin składania wniosków |
+| --- | --- | --- |
+| Czyste Powietrze | do 100 000 zł | cały rok |
+| NFOŚiGW - OZE | do 500 000 zł | do wyczerpania środków |
+| WFOŚiGW - OZE | do 200 000 zł | do wyczerpania środków |
 
 ## Jak złożyć wniosek - 3 proste kroki
 
-1.  **Sprawdź dostępne programy dofinansowujące:** Wejdź na stronę NFOŚiGW lub WFOŚiGW, aby sprawdzić dostępne programy dofinansowujące OZE.
-2.  **Przygotuj wniosek:** Pobierz wniosek z strony funduszu i wypełnij go zgodnie z instrukcją.
-3.  **Złóż wniosek:** Złóż wniosek wraz z załącznikami w terminie określonym przez fundusz.
+Złożenie wniosku o dofinansowanie na OZE może wydawać się skomplikowane, jednak w praktyce jest to prosty proces. Oto 3 kroki, które musisz wykonać:
+
+1.  **Sprawdź dostępne programy dofinansowujące**: Przed złożeniem wniosku sprawdź, które programy dofinansowujące są dostępne w Twoim regionie.
+2.  **Przygotuj wniosek**: Przygotuj wniosek o dofinansowanie, zawierający wszystkie niezbędne informacje oraz załączniki.
+3.  **Złóż wniosek**: Złóż wniosek do odpowiedniego funduszu ochrony środowiska.
 
 ## Najczęstsze pytania (FAQ)
 
-### Q: Jakie są cele transformacji energetycznej w Polsce?
-A: Cele transformacji energetycznej w Polsce obejmują redukcję emisji gazów cieplarnianych i zwiększenie udziału energii odnawialnej w strukturze energetycznej.
+### Czy mogę otrzymać dofinansowanie na OZE, jeśli jestem osobą fizyczną?
 
-### Q: Jakie dofinansowania na OZE są dostępne w Polsce?
-A: W Polsce dostępne są dofinansowania na OZE z programów takich jak Czyste Powietrze, Mój Prąd czy Zielona Gmina.
+Tak, osoby fizyczne mogą otrzymać dofinansowanie na OZE w ramach Programu Czyste Powietrze.
 
-### Q: Jak złożyć wniosek o dofinansowanie na OZE?
-A: Wniosek o dofinansowanie na OZE można złożyć w terminie określonym przez fundusz, po wcześniejszym przygotowaniu wniosku i załączników zgodnie z instrukcją."
+### Jakie koszty mogą być pokryte z dofinansowania?
+
+Dofinansowanie może pokryć koszty inwestycji w OZE, takie jak zakup paneli fotowoltaicznych, kotłów na biomasę czy pomp ciepła.
+
+### Jak długo trwa rozpatrywanie wniosku o dofinansowanie?
+
+Czas rozpatrywania wniosku o dofinansowanie zależy od funduszu ochrony środowiska, jednak w praktyce wynosi od kilku do kilkunastu tygodni."
 }
 ```
 
