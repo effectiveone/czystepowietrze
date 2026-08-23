@@ -1,6 +1,6 @@
 ---
 title: "Transformacja energetyczna w Polsce – gdzie jesteśmy?"
-date: 2026-08-23T22:04:02.858Z
+date: 2026-08-23T22:04:37.927Z
 draft: false
 description: "Transformacja energetyczna w Polsce – gdzie jesteśmy?"
 author: "Agnieszka Kowalczyk"
@@ -29,56 +29,51 @@ W praktyce oznacza to, że Polska musi znacząco zwiększyć wykorzystanie energ
 
 ## Dostępne dofinansowania na OZE
 
-Jednym z kluczowych elementów transformacji energetycznej w Polsce są dofinansowania na OZE. Rząd polski, we współpracy z instytucjami unijnymi, oferuje różne formy wsparcia dla inwestycji w odnawialne źródła energii.
+Jednym z kluczowych elementów transformacji energetycznej w Polsce są dofinansowania na OZE. Rząd polski, we współpracy z Narodowym Funduszem Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW) oraz wojewódzkimi funduszami ochrony środowiska i gospodarki wodnej (WFOŚiGW), oferuje szereg programów dofinansowujących inwestycje w OZE.
 
 ### Program Czyste Powietrze
 
-Jednym z najbardziej popularnych programów dofinansowań na OZE jest Program Czyste Powietrze. Jego celem jest poprawa jakości powietrza w Polsce poprzez dofinansowanie inwestycji w OZE oraz termomodernizację budynków.
+Jednym z najpopularniejszych programów dofinansowujących OZE jest Program Czyste Powietrze. Jego celem jest poprawa jakości powietrza w Polsce poprzez dofinansowanie inwestycji w OZE oraz termomodernizację budynków.
 
 *   **Dofinansowanie:** do 100 000 zł na inwestycję w OZE (przykład: panele fotowoltaiczne, kotły na biomasę)
 *   **Procent dofinansowania:** do 85% kosztów inwestycji
-*   **Terminy składania wniosków:** Program jest realizowany w trybie ciągłym, wnioski można składać do wyczerpania środków
+*   **Terminy składania wniosków:** Program Czyste Powietrze jest realizowany w trybie ciągłym, wnioski można składać przez cały rok.
 
-### Dofinansowania z NFOŚiGW
+### Dofinansowania na OZE dla gospodarstw domowych
 
-Inną ważną instytucją oferującą dofinansowania na OZE jest Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW).
+Dodatkowo, dostępne są dofinansowania na OZE dla gospodarstw domowych w ramach programów realizowanych przez WFOŚiGW. Przykładowo:
 
-*   **Dofinansowanie:** do 500 000 zł na inwestycję w OZE (przykład: elektrownie wiatrowe, kolektory słoneczne)
-*   **Procent dofinansowania:** do 50% kosztów inwestycji
-*   **Terminy składania wniosków:** zależą od konkretnego programu, zwykle co kilka miesięcy
+| Województwo | Program dofinansowania | Dofinansowanie | Procent dofinansowania |
+| --- | --- | --- | --- |
+| Małopolskie | Dofinansowanie na OZE | do 50 000 zł | do 50% |
+| Śląskie | Dofinansowanie na OZE | do 30 000 zł | do 30% |
 
-## Wpływ dofinansowań na środowisko
+Warto wiedzieć, że dostępność oraz warunki dofinansowań mogą się różnić w zależności od województwa i funduszu.
 
-Dofinansowania na OZE mają bezpośredni wpływ na środowisko. Inwestycje w odnawialne źródła energii pozwalają na redukcję emisji gazów cieplarnianych oraz poprawę jakości powietrza.
+## Co ważne dla wnioskodawcy
 
-Co ważne dla wnioskodawcy, inwestycje w OZE nie tylko korzystnie wpływają na środowisko, ale również mogą przynieść znaczne oszczędności finansowe w dłuższej perspektywie.
+Pułapki na które uważać:
 
-## Pułapki na które uważać
+*   Należy dokładnie zapoznać się z warunkami programu dofinansowania przed złożeniem wniosku.
+*   Wnioski należy składać wraz z kompletem wymaganych dokumentów.
+*   Często dofinansowania są ograniczone do określonych grup beneficjentów lub rodzajów inwestycji.
 
-Podczas ubiegania się o dofinansowania na OZE warto uważać na kilka pułapek.
+## Jak złożyć wniosek — 3 proste kroki
 
-*   **Zbyt wysokie koszty inwestycji:** Przed złożeniem wniosku warto dokładnie oszacować koszty inwestycji i sprawdzić, czy dofinansowanie pokryje część wydatków.
-*   **Brak doświadczenia:** Warto współpracować z doświadczonymi wykonawcami, aby uniknąć problemów z realizacją inwestycji.
-
-## Jak złożyć wniosek - 3 proste kroki
-
-1.  **Sprawdź dostępne dofinansowania:** Przed złożeniem wniosku warto sprawdzić, jakie dofinansowania są dostępne w Twojej okolicy.
-2.  **Przygotuj wniosek:** Następnie przygotuj wniosek, w którym szczegółowo opiszesz swój projekt inwestycyjny.
-3.  **Złóż wniosek:** Po przygotowaniu wniosku złóż go w wyznaczonym terminie.
+1.  **Sprawdź dostępność dofinansowania:** Wejdź na stronę NFOŚiGW lub WFOŚiGW, aby sprawdzić dostępność dofinansowań na OZE w Twoim regionie.
+2.  **Przygotuj wniosek:** Pobierz wniosek z strony funduszu i wypełnij go zgodnie z instrukcją.
+3.  **Złóż wniosek:** Złóż wniosek wraz z kompletem wymaganych dokumentów.
 
 ## Najczęstsze pytania (FAQ)
 
-### 1. Jakie są cele transformacji energetycznej w Polsce?
+### Q: Jakie są cele transformacji energetycznej w Polsce?
+A: Cele transformacji energetycznej w Polsce obejmują redukcję emisji gazów cieplarnianych oraz zwiększenie udziału energii odnawialnej w strukturze energetycznej.
 
-Transformacja energetyczna w Polsce ma na celu redukcję emisji gazów cieplarnianych oraz zwiększenie udziału energii odnawialnej w strukturze energetycznej.
+### Q: Jakie dofinansowania są dostępne na OZE w Polsce?
+A: Dostępne dofinansowania obejmują Program Czyste Powietrze oraz programy realizowane przez WFOŚiGW.
 
-### 2. Jakie dofinansowania są dostępne na OZE w Polsce?
-
-Dostępne dofinansowania na OZE w Polsce obejmują Program Czyste Powietrze oraz dofinansowania z NFOŚiGW.
-
-### 3. Jak złożyć wniosek o dofinansowanie na OZE?
-
-Wniosek o dofinansowanie na OZE można złożyć w wyznaczonym terminie, po uprzednim przygotowaniu wniosku i sprawdzeniu dostępnych dofinansowań."
+### Q: Jak złożyć wniosek o dofinansowanie na OZE?
+A: Wniosek o dofinansowanie na OZE można złożyć poprzez stronę NFOŚiGW lub WFOŚiGW, po wcześniejszym sprawdzeniu warunków programu dofinansowania."
 }
 ```
 
