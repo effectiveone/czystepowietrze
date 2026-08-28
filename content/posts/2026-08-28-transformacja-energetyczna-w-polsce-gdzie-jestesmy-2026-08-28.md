@@ -1,6 +1,6 @@
 ---
 title: "Transformacja energetyczna w Polsce – gdzie jesteśmy?"
-date: 2026-08-28T14:04:30.000Z
+date: 2026-08-28T22:04:20.793Z
 draft: false
 description: "Transformacja energetyczna w Polsce – gdzie jesteśmy?"
 author: "Agnieszka Kowalczyk"
@@ -29,60 +29,51 @@ W praktyce oznacza to, że Polska musi znacząco zwiększyć wykorzystanie energ
 
 ## Dostępne dofinansowania na OZE
 
-Jednym z kluczowych elementów transformacji energetycznej w Polsce są dofinansowania na OZE. Rząd polski, we współpracy z Narodowym Funduszem Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW) oraz wojewódzkimi funduszami ochrony środowiska i gospodarki wodnej (WFOŚiGW), oferuje szereg programów dofinansowujących inwestycje w OZE.
+Jednym z kluczowych elementów transformacji energetycznej w Polsce są dofinansowania na OZE. Rząd polski, we współpracy z instytucjami unijnymi, oferuje różne formy wsparcia dla inwestycji w odnawialne źródła energii.
 
 ### Program Czyste Powietrze
 
-Jednym z najpopularniejszych programów dofinansowujących OZE jest Program Czyste Powietrze. Jego celem jest poprawa jakości powietrza w Polsce poprzez dofinansowanie inwestycji w OZE oraz termomodernizację budynków.
+Jednym z najbardziej popularnych programów dofinansowań na OZE jest Program Czyste Powietrze. Jego celem jest poprawa jakości powietrza w Polsce poprzez dofinansowanie inwestycji w OZE oraz termomodernizację budynków.
 
-*   **Dofinansowanie:** do 30 000 zł na osobę lub 50 000 zł na budynek
-*   **Procent dofinansowania:** do 90% kosztów inwestycji
-*   **Terminy składania wniosków:** nabór ciągły, jednak dofinansowanie przyznawane jest według kolejności wpływu wniosków
+Warto wiedzieć, że Program Czyste Powietrze oferuje dofinansowanie w wysokości do 30 000 zł na inwestycje w OZE, takie jak:
 
-### Dofinansowania na fotowoltaikę
+1. **Panele fotowoltaiczne**: dofinansowanie do 15 000 zł
+2. **Kotły na biomasę**: dofinansowanie do 10 000 zł
+3. **Pompy ciepła**: dofinansowanie do 12 000 zł
 
-Innym popularnym programem dofinansowującym OZE są dofinansowania na fotowoltaikę. Fotowoltaika to technologia pozwalająca na przekształcenie energii słonecznej w energię elektryczną.
+### Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW)
 
-*   **Dofinansowanie:** do 15 000 zł na instalację fotowoltaiczną
-*   **Procent dofinansowania:** do 50% kosztów inwestycji
-*   **Terminy składania wniosków:** zależą od WFOŚiGW, zwykle nabór trwa kilka miesięcy
+Inną instytucją oferującą dofinansowania na OZE jest NFOŚiGW. Fundusz ten oferuje różne programy dofinansowań, w tym:
 
-## Korzyści z transformacji energetycznej
+| Program | Dofinansowanie | Termin składania wniosków |
+| --- | --- | --- |
+| Program OZE | do 50% kosztów inwestycji | do 31.12.2026 |
+| Program Termomodernizacja | do 30% kosztów inwestycji | do 31.12.2026 |
 
-Transformacja energetyczna przynosi wiele korzyści, zarówno dla środowiska, jak i dla gospodarki. Oto kilka z nich:
+## Co ważne dla wnioskodawcy
 
-1.  **Redukcja emisji gazów cieplarnianych:** transformacja energetyczna prowadzi do redukcji emisji CO2, co przyczynia się do ochrony klimatu.
-2.  **Zwiększenie niezależności energetycznej:** dzięki OZE Polska może zmniejszyć swoją zależność od importu paliw kopalnych.
-3.  **Tworzenie nowych miejsc pracy:** branża OZE jest dynamicznie rozwijająca się, co oznacza tworzenie nowych miejsc pracy.
+Pułapki na które uważać:
 
-## Pułapki na które uważać
-
-Podczas ubiegania się o dofinansowania na OZE warto uważać na kilka pułapek:
-
-*   **Brak doświadczenia:** brak doświadczenia w dziedzinie OZE może prowadzić do błędów podczas inwestycji.
-*   **Niewłaściwy wybór instalacji:** niewłaściwy wybór instalacji OZE może prowadzić do obniżenia efektywności inwestycji.
+* Należy dokładnie zapoznać się z warunkami programu dofinansowań i upewnić się, że inwestycja spełnia wszystkie wymagania.
+* Wnioski należy składać w terminie, gdyż fundusze są ograniczone.
 
 ## Jak złożyć wniosek - 3 proste kroki
 
-Złożenie wniosku o dofinansowanie na OZE może wydawać się skomplikowane, jednak w praktyce jest to prosty proces. Oto 3 kroki, które musisz wykonać:
-
-1.  **Sprawdź dostępne dofinansowania:** sprawdź, jakie dofinansowania są dostępne w Twoim regionie i które z nich możesz wykorzystać.
-2.  **Przygotuj wniosek:** przygotuj wniosek o dofinansowanie, dołączając wszystkie wymagane dokumenty.
-3.  **Złóż wniosek:** złóż wniosek w wyznaczonym terminie, upewniając się, że wszystkie załączniki są kompletne i prawidłowe.
+1. **Sprawdź warunki programu dofinansowań**: zapoznaj się z wymaganiami i warunkami programu dofinansowań, który Cię interesuje.
+2. **Przygotuj wniosek**: zbierz wszystkie niezbędne dokumenty i informacje, a następnie wypełnij wniosek.
+3. **Złóż wniosek**: prześlij wniosek do instytucji oferującej dofinansowanie.
 
 ## Najczęstsze pytania (FAQ)
 
-### Czy dofinansowania na OZE są dostępne dla osób fizycznych?
+### Q: Jakie są cele transformacji energetycznej w Polsce?
+A: Cele transformacji energetycznej w Polsce obejmują redukcję emisji gazów cieplarnianych i zwiększenie udziału energii odnawialnej.
 
-Tak, dofinansowania na OZE są dostępne dla osób fizycznych. Program Czyste Powietrze oraz dofinansowania na fotowoltaikę są przeznaczone dla osób fizycznych, które chcą zainwestować w OZE.
+### Q: Jakie dofinansowania na OZE są dostępne w Polsce?
+A: Dostępne dofinansowania na OZE w Polsce obejmują Program Czyste Powietrze oraz programy oferowane przez NFOŚiGW.
 
-### Jakie są koszty inwestycji w OZE?
-
-Koszty inwestycji w OZE zależą od rodzaju instalacji oraz jej wielkości. Na przykład, koszt instalacji fotowoltaicznej o mocy 5 kW może wynosić od 20 000 do 30 000 zł.
-
-### Jak długo trwa rozpatrywanie wniosku o dofinansowanie?
-
-Czas rozpatrywania wniosku o dofinansowanie zależy od funduszu, który go rozpatruje. Zwykle trwa to od kilku tygodni do kilku miesięcy."
+### Q: Jak złożyć wniosek o dofinansowanie na OZE?
+A: Aby złożyć wniosek o dofinansowanie na OZE, należy sprawdzić warunki programu dofinansowań, przygotować wniosek i złożyć go do instytucji oferującej dofinansowanie.
+"
 }
 ```
 
