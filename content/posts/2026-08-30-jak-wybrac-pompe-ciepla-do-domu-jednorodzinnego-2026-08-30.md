@@ -1,6 +1,6 @@
 ---
 title: "Jak wybrać pompę ciepła do domu jednorodzinnego"
-date: 2026-08-30T06:04:16.216Z
+date: 2026-08-30T14:04:22.287Z
 draft: false
 description: "Jak wybrać pompę ciepła do domu jednorodzinnego"
 author: "Agnieszka Kowalczyk"
@@ -40,7 +40,7 @@ Oto kroki, które musisz podjąć, aby wybrać odpowiednią pompę ciepła:
 1. **Określ zapotrzebowanie na ciepło**: oblicz, ile energii potrzebujesz do ogrzania swojego domu.
 2. **Wybierz odpowiedni rodzaj pompy ciepła**: rozważ zalety i wady każdego rodzaju pompy ciepła.
 3. **Sprawdź parametry techniczne**: zwróć uwagę na współczynnik efektywności (COP), moc grzewczą i temperaturę zasilania.
-4. **Porównaj ceny**: sprawdź ceny różnych pomp ciepła i montażu.
+4. **Porównaj ceny**: porównaj ceny różnych pomp ciepła i ich montażu.
 
 ### Dofinansowania na pompę ciepła
 
@@ -66,7 +66,7 @@ W praktyce oznacza to, że musisz uważać na:
 
 1. **Zbierz niezbędne dokumenty**: przygotuj dokumenty potwierdzające własność domu, faktury za pompę ciepła i montaż.
 2. **Wypełnij wniosek**: wypełnij wniosek o dofinansowanie w ramach programu Czyste Powietrze.
-3. **Złóż wniosek**: złóż wniosek wraz z niezbędnymi dokumentami.
+3. **Złóż wniosek**: złóż wniosek wraz z niezbędnymi dokumentami do właściwego funduszu.
 
 ### Najczęstsze pytania (FAQ)
 
